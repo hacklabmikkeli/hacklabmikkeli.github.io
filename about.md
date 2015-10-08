@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Tietoja
+permalink: /tietoja/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Mikä ihmeen hacklab?
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Hacklabit ovat fyysisiä tiloja, joissa tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneet voivat tavata, viettää aikaa yhdessä ja tehdä joko henkilökohtaisia tai yhteisiä harrastetöitä.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hacklab voi toimia myös yhteistyössä oppilaitosten ja liike-elämän toimijoiden kanssa tarjoten paikan vapaamuotoiseen kokeilemiseen ja innovatiiviseen yhteistyöhön. Perusperiaatteita ovat vapaus kokeilla, vapaaehtoisuuteen perustuva organisoituminen ja tasa-arvoisuus.
+
+Suomessa toimii tällä hetkellä Mikkelin lisäksi 7 hacklabia. Lisätietoa Suomen muiden hacklabien toiminnasta löydät osoitteesta hacklab.fi.

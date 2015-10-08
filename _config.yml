@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Hacklab Mikkeli
+email: hallitus@mikkeli.hacklab.fi
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja
+    digitaalisesta taiteesta kiinnostuneille Mikkelissä • an open
+    and community-based workspace for people with interest in science,
+    technology and digital arts in Mikkeli
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://mikkeli.hacklab.fi" # the base hostname & protocol for your site
+twitter_username: HacklabMikkeli
+github_username:  hacklabmikkeli
 
 # Build settings
 markdown: kramdown
