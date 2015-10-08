@@ -1,12 +1,17 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Site settings
 title: Hacklab Mikkeli
 email: hallitus@mikkeli.hacklab.fi
+paginate: 5
+permalink:        pretty
+relative_permalinks: true
 description: > # this means to ignore newlines until "baseurl:"
-    Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja
-    digitaalisesta taiteesta kiinnostuneille Mikkelissä • an open
-    and community-based workspace for people with interest in science,
-    technology and digital arts in Mikkeli
-baseurl: "" # the subpath of your site, e.g. /blog/
+    An open and community-based workspace for people with interest in
+    science, technology and digital arts in Mikkeli
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://mikkeli.hacklab.fi" # the base hostname & protocol for your site
 twitter_username: HacklabMikkeli
 github_username:  hacklabmikkeli

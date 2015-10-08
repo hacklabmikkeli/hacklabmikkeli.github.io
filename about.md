@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tietoja
-permalink: /tietoja/
 ---
 
 # Mikä ihmeen hacklab?
