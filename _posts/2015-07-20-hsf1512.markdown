@@ -1,0 +1,19 @@
+---
+layout: post
+title: HSF15½
+date: '2015-07-20 10:21:46'
+---
+
+Hacklab Mikkeli otti osaa HSF15½ tapahtumaan joka järjestettiin Helsinki Hacklabin tiloissa. Mikkelin lisäksi tapahtumaan osallistui porukkaa Helsingin, Turun, Tampereen, Porin ja Vaasan Hacklabeilta.
+
+Viikonlopun aikana ohjelmassa oli mm. paintballia, kierros patterimäen linnoitusalueella, robokisa, saunomista ja grillausta sekä paljon muuta. Häpeäkseen Mikkeli ei kerennyt mukaan robokisaan tällä kertaa mutta seuraavalla kerralla luvataan yrittää kovemmin. Kilpailussa radan kaltevuus, ahtaus sekä maasto-olosuhteet pääsivät yllättämään osan kilpailijoista mutta voiton vei kuitenkin Tampereen O10-nimeä kantanut robotti. 
+
+Myöskin Hacklab.fi yhteistyön kehittämistä suunniteltiin ja päätettiin mm.
+
+* Siirtää #hacklab.fi kanava IRCnetistä freenodeen.
+* Säilyttää "organisaation" nimi hacklab.fi
+* Uudistaa hacklab.fi nettisivu.
+
+Suuret kiitokset Helsinki Hacklabille hyvin järjestetystä tapahtumasta sekä kaikille osallistujille mukavasta viikonlopusta.
+
+![HSF15½](/blog/content/images/2015/07/IMG_1915.JPG)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: KulttuuriKannustin-palkinto Hacklab Mikkelille
+date: '2015-03-05 13:45:55'
+---
+
+Hacklab Mikkeli on saanut 1000 euron KulttuuriKannustin-palkinnon. KulttuuriKannustin on Mikkelin kaupungin kulttuuri-, nuoriso- ja liikuntalautakunnan myöntämä palkinto, jonka tarkoituksena on edistää kaupungissa monipuolisia kulttuuriympäristöjä, pyrkiä luomaan uudenlaista otetta kulttuuriin ja taiteeseen sekä tarjota entistä monipuolisempia kulttuurimahdollisuuksia. 
+
+Perusteluina todetaan hacklab-toiminnan mm. "lisäävän yhteisöllisyyttä ja avointa toimintaa sekä pyrkivän yhdistämään kulttuurikentän ja eri alojen toimijoita." Hacklab Mikkelin saama palkinto on suuruudeltaan 1000 euroa.
