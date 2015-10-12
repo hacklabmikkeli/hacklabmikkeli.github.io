@@ -13,5 +13,9 @@ Suomessa toimii tällä hetkellä Mikkelin lisäksi 7 hacklabia. Lisätietoa Suo
 
 ## Kuinka osallistun?
 
-Yhdistyksen jäseneksi voit liittyä ostamalla tuotteen Jäsenmaksu 2015 yhdistyksen verkkokaupasta. Jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tarkoittaa 24h pääsyä labin tiloihin sekä mahdollisuutta säilyttää projektejaan labin tiloissa. Vuosittaisen jäsenmaksun maksettuasi voit ryhtyä tilankäyttäjäksi menemällä yhdistyksen verkkokauppaan ja ostamalla tuotteen Tilankäyttö X € Y kk jossa X on summa jonka olet käytöstä valmis kuukausittain maksamaan ja Y kuinka monta kuukautta haluat ostaa kerralla.
+Toiminta Mikkelissä on saatu käynnistettyä ja omat toimitilat on hankittu. Kaikki ovat tervetulleita mukaan, sillä tilaa ja mahdollisuuksia on vielä paljon! Aluksi kannattaa tutustua muuhun porukkaan, joko käyttäen yhteystiedot-osion avulla tai tulemalla tutustumaan toimintaan paikan päälle. Hacklabilla on avoimet ovet (ns. keskiviikko-hack) joka torstai klo 17 alkaen. Tilamme sijaitsee osoitteessa Pietarinkatu 23, sisäänkäynti Yrjönkadun puolelta.
+
+Yhdistyksen jäsenyyttä voit hakea maksamalla <a href="https://holvi.com/shop/hacklabmikkeli/product/8b2a67ea30ddcc96eaac32c7333f3d2c/">jäsenmaksun</a> holvi.com-palvelussa. Yhdistyksen hallitus käsittelee jäsenhakemukset mahdollisimman ripeästi ja lähettää uusille jäsenille kattavan tietopaketin.
+
+Yhdistyksen jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tarkoittaa 24/7 pääsyä labin tiloihin sekä mahdollisuutta säilyttää omia projekteja labin tiloissa. Tilankäyttömaksut ovat myös toimitilamme pääasiallinen ja toistaiseksi ainoa rahoituksen lähde.
 
