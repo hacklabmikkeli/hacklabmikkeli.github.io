@@ -1,12 +1,46 @@
 ---
 layout: default
-title: Home
+title: Blogi
 ---
+
+{% if paginator.page == 1 %}
+<h1>
+  <img src="{{ site.baseurl }}public/images/logo_dark.png"
+       alt="Hacklab Mikkeli" />
+</h1>
+
+<div class="about">
+    Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja
+    digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; an open and
+    community-based workspace for people with interest in science, technology
+    and digital arts in Mikkeli
+</div>
+
+<div class="contact">
+    <dl>
+        <dt>Osoite &bull; Address</dt>
+        <dd>Pietarinkatu 23 e 22 (käynti Yrjönkadun puolelta)</dd>
+        <dt>Koordinaatit &bull; Coordinates</dt>
+        <dd>N 61⁰ 41' 36", E 27⁰ 15' 44"</dd>
+        <dt>IRC</dt>
+        <dd>#hacklabmikkeli@Freenode</dd>
+    </dl>
+</div>
+
+<div class="map">
+    <img src="{{ site.baseurl }}public/images/map.png" />
+    <p class="map-source">
+        &copy;
+        <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>
+        contributors
+    </p>
+</div>
+{% endif %}
 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
@@ -14,7 +48,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>
