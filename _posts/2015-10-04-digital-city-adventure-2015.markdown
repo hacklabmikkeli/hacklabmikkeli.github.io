@@ -8,7 +8,7 @@ Hacklab Mikkeli had a possibility to host a checkpoint in Digital City Adventure
 
 ![](/blog/content/images/2015/10/IMG_3208.JPG)
 
-Digital City Adventure is a 24-hour event where the whole city of Mikkeli turns into a digital playfield. Participants explore the city and solve puzzles at the checkpoints using their own mobile devices. For more information see [Digital City Adventure site](http://http://www.digitaalinenkaupunkiseikkailu.fi/info/en/).
+Digital City Adventure is a 24-hour event where the whole city of Mikkeli turns into a digital playfield. Participants explore the city and solve puzzles at the checkpoints using their own mobile devices. For more information see [Digital City Adventure site](http://www.digitaalinenkaupunkiseikkailu.fi/info/en/).
 
 ![](/blog/content/images/2015/10/IMG_3191.JPG)
 
