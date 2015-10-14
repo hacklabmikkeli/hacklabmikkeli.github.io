@@ -16,4 +16,4 @@ Myöskin Hacklab.fi yhteistyön kehittämistä suunniteltiin ja päätettiin mm.
 
 Suuret kiitokset Helsinki Hacklabille hyvin järjestetystä tapahtumasta sekä kaikille osallistujille mukavasta viikonlopusta.
 
-![HSF15½](/blog/content/images/2015/07/IMG_1915.JPG)
+![HSF15½](/public/images/hsf1512-1.jpg)

@@ -12,16 +12,16 @@ So Scratch for software, what about hardware? [Arduino](http://www.arduino.cc/) 
 
 We wanted to keep "the robot" simple. Nothing too difficult but still enough functionality to be enjoyable for all ages and skill levels. In the future the students can equip it for example with sensors or break it down into pieces and use the Arduinos for something completely different. Three wheels, two motors, one Arduino. Powered by either USB or 4 x AA batteries.
 
-<img alt="Our simple robot" src="/blog/content/images/2015/05/pielavesi-robotti.jpg" width="800">
+![](/public/images/pielavesi-robotti.jpg)
 
 But the technical part was only half of the whole workshop. Next we needed to instruct and teach the young ones how to work with the robots. Most of the people didn't know about programming, some were familiar with basic logics of programming with Scratch. All four of us from Hacklab Mikkeli had a great day making robots with local people.
 
-<img alt="Belvain talking about programming" src="/blog/content/images/2015/05/pielavesi-belvain.jpg" width="800">
+![](/public/images/pielavesi-belvain.jpg)
 
 We weren't the only group presenting their do-it-yourself hobby. Around 30 other groups joined the fun with activities ranging from park yoga to cupcake decoration workshop. It felt like the whole community was there enjoying their Saturday.
 
 It was nice to notice how creative and enthusiastic kids can be. Local school had participated in [Tämä toimii!](http://tech.teknologiateollisuus.fi/openet/fi/tamatoimii.html) challenge where teams formed of 4th-6th graders create totally new toys from pre-assigned set of materials. Case presented at the event was called *Disco-Doggy*. Two tiny motors making weird noise and moving it around. Impressive!
 
-<img alt="Disco-Doggy!" src="/blog/content/images/2015/05/pielavesi-discodoggy.jpg" width="800">
+![](/public/images/pielavesi-discodoggy.jpg)
 
 The event was part of pilot project run by [the Finnish Innovation Fund Sitra](http://www.sitra.fi/en). Sitra's New Education Forum and its projects aim to explore ways in which Finnish education can be improved. We enjoyed the whole trip having fun together with people and the great hospitality of our hosts. Thank you!

@@ -6,7 +6,7 @@ date: '2015-02-24 10:39:45'
 
 Hacklab Mikkeli ry:n perustamiskokous järjestettiin 19.2.2015 ja paikalle saapuikin runsaasti väkeä. Paikkana oli tuttuun tapaan Mikkelin ammattikorkeakoulun Xinno. Yhdistyksen sääntöjä oli suunniteltu jo etukäteen tutustuen muiden hacklab-yhdistysten sääntöihin sekä hakemalla tukea Hacklab Summit Finlandista. Kovin rasittavasta tapahtumasta ei siis ollut kyse, lähinnä korjailtiin sanamuotoja ja täytettiin lomaketta Patentti- ja rekisterihallituksen verkkopalvelussa.
 
-![Hacklab Mikkelin perustamiskokous, kuva &copy; aple](/blog/content/images/2015/02/hacklabmikkeli-perustamiskokous-aple.JPG)
+![Hacklab Mikkelin perustamiskokous, kuva &copy; aple / Hacklab Mikkeli](/public/images/hacklabmikkeli-perustamiskokous-aple.jpg)
 
 Hallituspaikoista kiinnostuneita oli tiedusteltu etukäteen ja heitä oli ilmoittautunut kuusi. Keskusteltiin ja todettiin, että kuuden hengen hallitus on sopivan kokoinen toimiakseen tehokkaasti. Hallituksen lain vaatimiin tehtäviin oli samoin tiedusteltu halukkaita ja melko pian olikin selvillä, mikä kokoonpano on Hacklab Mikkeli ry:n ensimmäinen hallitus.
 

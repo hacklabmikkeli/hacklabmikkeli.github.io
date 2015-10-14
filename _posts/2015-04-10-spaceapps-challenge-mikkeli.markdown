@@ -10,5 +10,4 @@ Space Apps Challenge on viikonlopun mittainen hackathon, jossa Hacklab Mikkeli t
 
 Hacklabillamme on  tapahtumassa oma paikallinen haaste: osallistujien haasteena on toteuttaa jokin NASA:n virallisista haasteista tavalla joka on "completely awesome" ja olla tapahtuman "coolest hack." Palkintona haasteen voittanut tiimi saa jotain yhtä hienoa...
 
-![](/blog/content/images/2015/04/IMG_0044.JPG)
-Photo by Tytti
+![Space Apps Challenge Bootcamp - Photo by Tytti / Hacklab Mikkeli](/public/images/bootcamp-1.jpg)

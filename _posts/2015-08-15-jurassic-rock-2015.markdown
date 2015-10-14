@@ -8,7 +8,7 @@ Hacklab Mikkelille tarjoutui mahdollisuus osallistua Jurassic Rock festareiden y
 
 Hacklab Mikkelin osuus tapahtumassa oli esitellä 3D-tulostamista sekä yleisesti kertoa hacklab-toiminnasta.
 
-![](/blog/content/images/2015/08/jura_1.jpg)
+![](/public/images/jura-1.jpg)
 
 Kiinnostus 3D-tulostusta kohtaan oli suurta ja kojulla kävikin viikonlopun aikana reippaasti ihmettelijöitä. Myös hacklabin toiminnasta oltiin kovasti kiinnostuneita. Markkinoinnin tuloksista ei vielä ole raportoitavaa mutta toivotaan että joku eksyisi kojulta myös "keskiviikko-hack":iin.
 
