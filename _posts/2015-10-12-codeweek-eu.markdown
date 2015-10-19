@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CodeWeek EU / IOT Hackathon
+title: CodeWeek EU and IoT Hackathon
 date: '2015-10-12 17:25:41'
 ---
 
