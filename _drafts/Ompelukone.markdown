@@ -1,0 +1,1 @@
+#Ompelukoneen käyttöohje
