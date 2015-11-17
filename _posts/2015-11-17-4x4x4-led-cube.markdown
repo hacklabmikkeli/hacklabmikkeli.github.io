@@ -1,0 +1,105 @@
+---
+layout: post
+title: 4x4x4 led cube
+date: '2015-11-17 12:00:00'
+---
+
+Enought complex project in both as mechanical and, possibly, how complex pattern one wants to show up on cube.
+As this is 4-square cube, pattern can't be much complicated, so i added bit more touch in with clock and . 
+Time is in memory of special chip. If you have normal radio-clock, you might have noticed that when/if main power goes out
+so does time, gets nulled and must be set again. RTC chip keeps time, and is handy also when making stuff to happen in excact 
+intervals like putting coffee machine or car heater on, you name it.
+The idea behind using mirror-plating is to create same illusion as in infinity mirrors seen on web:
+When general room is brightly lit, mirror-plating acts like mirror. When it's dark, you can see throught it
+This is how it looks in bright room:
+![Brightroomcube-off](http://i.imgur.com/tnVL1M5.jpg)
+Bright room, with power:
+![Brightroomcube-on](http://i.imgur.com/z8CHEUc.jpg)
+Dark room, power on:
+![darkroomcube-on](http://i.imgur.com/hHg1sDC.jpg)
+
+*Cube construction*
+Construction of even small cubes can be tricky process, but small things matter,
+like supporting and holding things together while swinging around with soledring iron.
+That said, it's important that joints are smooth, and used small amount of solder, you don't want any shortcircuits in finished product!
+Construction starts by checking(DOA's and other malfunctions can be possible)  and bending cathodes of each led.
+On the background is seen handy jig, just plywood, with holes drilled, in how frequent one wants cube to be.
+The thinner it is, the harder it is to solder and transparency suffers
+the thicker, easier to solder, but takes more space and must be looked farther away
+![ledbent](http://i.imgur.com/8NEjrJM.jpg)
+Then, bent leds are placed in series in a way, clusters of 3, which are then soldered cathoded together.
+Alligator clip holds led together while soldering
+![ledrow](http://i.imgur.com/pYIeVzH.jpg)
+![ledcluster](http://i.imgur.com/6dALH0K.jpg)
+The end cathode of each led rows, is slighly bent to make it easier to join them together at last row
+![ledclusterbentcathode](http://i.imgur.com/6xjpThL.jpg)
+rows circuit
+![circuitrow](http://i.imgur.com/BWwmAhU.jpg)
+The bend soldered on last row, forgot to say, last row has 4 leds in row, so there's 3 pieces of 3 leds rows, and one 4 led rows, on each layer (4 layers)
+![bentsoldered](http://i.imgur.com/KJzzVjD.jpg)
+Sadly, i didn't take photo of situation where leds are floating, but there is situation when leds are ''floating'' unsupported on other end
+Small piece of wire is joined to ''floating'' end of layer
+![layersupport](http://i.imgur.com/8t7L5ZJ.jpg)
+small hook, easier to solder and start soldering that prementioned support
+![layersupporthook](http://i.imgur.com/FuveFoc.jpg)
+layers circuit
+![circuitlayer](http://i.imgur.com/i561j4k.jpg)
+finished layer, DON'T cut that tail of cathode yet, it serves as testing post for each layers cathode (in this scale of project, it's better to test now and then)
+![finishedlayer](http://i.imgur.com/58gWZHZ.jpg)
+with added strength for faith
+![finishedlayershrinks](http://i.imgur.com/0o1ac7F.jpg)
+Now comes annoying part: you have 4 layers, gotta solder them together top of each other.
+Bend each anode of each led, this serves as base where to plant next layer coming.
+When you start soldering, solder each bar/columns anodes togehter, so in end product you have only 4 cathodes, but anodes 16.
+Hard to describe...this is one of annoying parts of this project!
+finished cube should look like this.
+![finishedcube](http://i.imgur.com/0tPz59O.jpg)
+Then it's placed on veroboard, painted black on purpose. Also, now there are layer cathodes going down too, they decide what layer is on at what time.
+![finishedcubeblackpcb](http://i.imgur.com/AqHo7mZ.jpg)
+And you need to make connection for all anodes and layer cathodes, make some sort of order/organization to make it clear for yourself.
+Green wires are layer cathodes
+![finishedcubebackpcb](http://i.imgur.com/rLw0rSR.jpg)
+
+*Controller board (shift regsisters and RTC)
+In control, shift registers play big role: what they do, simply put, control in this case lot of input/outputs in few microcontroller pins
+without these, 20 pins would be needed, but now 3 is needed
+Data is sent in serial-format, these shift registers i use are 74595 Serial in-paraller out and they are very fast, no idea how many you can chain together
+RTC is not yet seen in this photo
+![controllerfront](http://i.imgur.com/jxyfEqz.jpg)
+had to place jumper wires behind board too
+![controllerback](http://i.imgur.com/U6eQ1Ze.jpg)
+RTC is shown here, in breadboard, i2c-bus, ds1307
+![RTC](http://i.imgur.com/IPYgFDx.jpg)
+to further eliminate pins needed in microcontroller, i used i2c in lcd too, it goes in same pins with RTC
+The i2c enables just this, placing many stuff in same pins. Think it like addresses: each house has their own address, and get their own mail
+Didn't have any OLED screens, but lcd will do.
+![i2clcd](http://i.imgur.com/5EtCwfC.jpg)
+As microcontroller i use arduino pro mini, due small size mainly, FTDI-USB converter also seen on photo
+![micro](http://i.imgur.com/VdtENUV.jpg)
+And here's all electronic stuff that must be stuffed in enclosure, excepct FTDI, that is only used in programming, or as as USB power adapter if you want
+![electronics](http://i.imgur.com/amdLySk.jpg)
+
+*Enclosure*
+This part is much easier if you decide to buy plastic box, or steel you know the drill
+But, i decided to make one from oak
+There is used stopped grooves, so special technique is used, wooden blocks are used as stops do deside lenght of groove
+![groovebit](http://i.imgur.com/Mdkixhw.jpg)
+![groovestops](http://i.imgur.com/Jq94y29.jpg)
+Also, groove, or more like straight plunge bit is used in making hole for lcd
+![lcdhole](http://i.imgur.com/mGLJpEf.jpg)
+Box thus far, without finishing
+![boxunfinished](http://i.imgur.com/HRsAzKE.jpg)
+Raw cuts for frames
+![frames](http://i.imgur.com/mnQaCHa.jpg)
+Now there's linseed oil on box, along with mounted electronic stuff inside
+![finishedbox](http://i.imgur.com/7Q7qH4Z.jpg)
+On back there is power and programming connections
+![finishedboxback](http://i.imgur.com/dJHRHzN.jpg)
+I didn't feel confortable cutting glass, so i decided to try plexiglass for windows: cut grooves and slam/snap along table edge
+I highly suggest using safety glasses, plexi can be unpredictable
+![cuttingplexi](http://i.imgur.com/0FOvFfc.jpg)
+And couple of shots from different situations, mainly to show how mirror plating behaves
+![brightoff](http://i.imgur.com/65wPjIQ.jpg)
+![brighton](http://i.imgur.com/kMNv5ny.jpg)
+![darkon](http://i.imgur.com/Vrygzwn.jpg)
+
