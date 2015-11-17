@@ -1,3 +1,7 @@
+---
+layout: page
+title: "(Ompelukone)"
+---
 #Ompelukoneen käyttöohje
 
 Ohjevideo (editoimaton): https://drive.google.com/file/d/1UhoMytGWlz8mRZLl0J-rlAa0xGKu0C9uaw/view
