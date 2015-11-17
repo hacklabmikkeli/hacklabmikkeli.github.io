@@ -6,3 +6,5 @@ Ohjevideo (editoimaton): https://drive.google.com/file/d/1UhoMytGWlz8mRZLl0J-rlA
 * Neulasuositus N. 70-90 mitä isompi numero, sitä paksumpaa materiaalia voi ommella.
 * Nahkaa ommellessa käytettävä nahkaan sopivaa neulaa, erottaa kirjaimista Lr.
 * Trikoota ommellessa käytettävä pallokärkineulaa.
+
+[ylälanka]: https://lh4.googleusercontent.com/rgWEHBb8WJoYUldekSMNb9AnrR0q6XJ3n16H1_rsPg2tBIb7AZQIZl-Tc2lI1fiUpe7KpQ=w1879-h897 "ylälanka"
