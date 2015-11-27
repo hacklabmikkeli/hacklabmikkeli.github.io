@@ -27,6 +27,8 @@ Lisäksi kannustamme toimimaan tiloissamme oma-aloitteisesti <a href="https://ww
 
 Hacklab-yhteisön toiminnan mahdollistamiseksi on perustettu ja rekisteröity yhdistys Hacklab Mikkeli ry. Yhdistys on perustettu palvelemaan yhteisön tahtoa ja tavoitteita - ei päinvastoin. Yhdistys toimii yhteisöä edustavana oikeushenkilönä ja on tehnyt siinä roolissa myös vuokrasopimuksen nykyisistä tiloista. Yhdistys voi myös hakea ja anoa erilaisia avustuksia. 
 
+<img src="{{ site.baseurl }}public/images/kulttuurikannustin.png" alt="Mikkelin kulttuuripalvelut - KulttuuriKannustin" />
+
 Maaliskuussa 2015 Hacklab Mikkeli ry. sai Mikkelin kaupungilta 1000 euron KulttuuriKannustin-palkinnon.
 
 Huhtikuussa 2015 Fuugin säätiö <a href="http://fuug.fi/2015/hacklab-mikkelin-varustaminen/">myönsi</a> 2000 euron avustuksen tilojen varusteluun.
