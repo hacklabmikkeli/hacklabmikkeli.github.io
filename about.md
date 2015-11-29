@@ -35,5 +35,5 @@ Huhtikuussa 2015 Fuugin säätiö <a href="http://fuug.fi/2015/hacklab-mikkelin-
 
 Yhdistyksen jäsenyyttä voit hakea maksamalla <a href="https://holvi.com/shop/hacklabmikkeli/product/8b2a67ea30ddcc96eaac32c7333f3d2c/">jäsenmaksun</a> holvi.com-palvelussa. Yhdistyksen hallitus käsittelee jäsenhakemukset mahdollisimman ripeästi ja lähettää uusille jäsenille kattavan tietopaketin.
 
-Yhdistyksen jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tarkoittaa 24/7 pääsyä labin tiloihin sekä mahdollisuutta säilyttää omia projekteja labin tiloissa. Tilankäyttömaksut ovat myös toimitilamme pääasiallinen ja toistaiseksi ainoa rahoituksen lähde.
+Yhdistyksen jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tarkoittaa 24/7 pääsyä labin tiloihin sekä mahdollisuutta säilyttää omia projekteja labin tiloissa. Tilankäyttömaksut ovat myös toimitilamme pääasiallinen ja toistaiseksi ainoa rahoituksen lähde. Tilankäyttömaksun voit maksaa <a href="https://holvi.com/shop/hacklabmikkeli/">hovissa</a>.
 
