@@ -23,3 +23,4 @@ Tilankäytön tuomia vastuita:
 
 Muuta:
 * Hacklabillä odotetaan hieman omatoimisuutta ja yhteistyökykyä, kehitysideat ovat tervetulleita eikä ole olemassa tyhmiä kysymyksiä. Muista kuitenkin jutella asioista ennen kuin lähdet tekemään jotain mikä voi vaikuttaa muihin jäseniin.
+* Hackläbillä olevat laitteet tuppaavat välillä menemään rikki, jos osaat ja haluat korjata niin se on vain positiivinen asia. Ethän silti tee mitään vaarallisia virityksiä ja teippipatentteja jos korjaus voidaan tehdä kunnolla.
