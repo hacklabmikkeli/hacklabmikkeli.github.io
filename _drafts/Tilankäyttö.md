@@ -14,7 +14,7 @@ Yhdistyksen jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tar
 Mitä tilankäytöllä saa:
 * 24/7 pääsyn hacklabin tiloihin, tämä tapahtuu toistaiseksi niin että sinun täytyy pyytää Heikki Kurhista lisäämään puhelinnumerosi sähkölukkoon.
 * Oikeuden käyttää yhteisiä työkaluja ja laitteita sekä mahdollisuuden lainata muiden jäsenien työkaluja ja laitteita. Muiden jäsenien omaisuuden kohdalla on kuitenkin tärkeää kysyä lupa ja noudattaa ohjeita mikäli kyseessä on monimutkaisempi laite.
-* Pääsyn läbin varastoon josta voi lähes vapaasti hakea materiaalia projekteihin ja johon voi tuoda itselleen tarpeetonta materiaalia, muista kuitenkin pitää hylly järjestyksessä.
+* Pääsyn läbin varastoon josta voi lähes vapaasti hakea materiaalia projekteihin ja johon voi tuoda itselleen tarpeetonta materiaalia, muista kuitenkin pitää hyllyt järjestyksessä.
 * Voit säilyttää projektejasi läbillä, pienille projekteille kannattaa hommata kannellinen smartstore tai vastaava laatikko. Isommista projekteista kannattaa jutella muiden jäsenten kanssa (tälläisiä ovat mm. sähkömoottoripyörä).
 
 
