@@ -13,6 +13,7 @@ Tilankäyttön hankkimisen jälkeen voit nauttia hacklabin kaikista eduista.
 
 Mitä tilankäytöllä saa:
 -24/7 pääsyn hacklabin tiloihin, tämä tapahtuu toistaiseksi niin että sinun täytyy pyytää Heikki Kurhista lisäämään puhelinnumerosi sähkölukkoon.
+-Oikeuden käyttää yhteisiä työkaluja sekä mahdollisuuden lainata muiden jäsenien työkaluja. Muiden jäsenien työkalujen kohdalla on kuitenkin tärkeää kysyä lupa ja noudattaa ohjeita mikäli kyseessä on monimutkaisempi laite.
 -Voit säilyttää projektejasi läbillä, pienille projekteille kannattaa hommata kannellinen smartstore tai vastaava laatikko. Isommista projekteista kannattaa jutella muiden jäsenten kanssa (tälläisiä ovat mm. sähkömoottoripyörä).
 
 
