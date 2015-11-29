@@ -18,7 +18,7 @@ Mitä tilankäytöllä saa:
 
 
 Tilankäytön tuomia vastuita:
-*Pidä huolta läbistä, siivoa jälkesi ja auta pitämään yllä yleistä siisteyttä.
+* Pidä huolta läbistä, siivoa jälkesi ja auta pitämään yllä yleistä siisteyttä.
 
 Muuta:
 * Hacklabillä odotetaan hieman omatoimisuutta ja yhteistyökykyä, kehitysideat ovat tervetulleita eikä ole olemassa tyhmiä kysymyksiä. Muista kuitenkin jutella asioista ennen kuin lähdet tekemään jotain mikä voi vaikuttaa muihin jäseniin.
