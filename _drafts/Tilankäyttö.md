@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "(Ompelukone)"
+title: "Tilankäyttö"
 ---
 #Tilankäyttö#
 Tilankäyttömaksun voit maksaa <a href="https://holvi.com/shop/hacklabmikkeli/">holvissa</a>
