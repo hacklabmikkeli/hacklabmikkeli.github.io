@@ -27,11 +27,13 @@ Lisäksi kannustamme toimimaan tiloissamme oma-aloitteisesti <a href="https://ww
 
 Hacklab-yhteisön toiminnan mahdollistamiseksi on perustettu ja rekisteröity yhdistys Hacklab Mikkeli ry. Yhdistys on perustettu palvelemaan yhteisön tahtoa ja tavoitteita - ei päinvastoin. Yhdistys toimii yhteisöä edustavana oikeushenkilönä ja on tehnyt siinä roolissa myös vuokrasopimuksen nykyisistä tiloista. Yhdistys voi myös hakea ja anoa erilaisia avustuksia. 
 
+<img src="{{ site.baseurl }}public/images/kulttuurikannustin.png" alt="Mikkelin kulttuuripalvelut - KulttuuriKannustin" />
+
 Maaliskuussa 2015 Hacklab Mikkeli ry. sai Mikkelin kaupungilta 1000 euron KulttuuriKannustin-palkinnon.
 
 Huhtikuussa 2015 Fuugin säätiö <a href="http://fuug.fi/2015/hacklab-mikkelin-varustaminen/">myönsi</a> 2000 euron avustuksen tilojen varusteluun.
 
 Yhdistyksen jäsenyyttä voit hakea maksamalla <a href="https://holvi.com/shop/hacklabmikkeli/product/8b2a67ea30ddcc96eaac32c7333f3d2c/">jäsenmaksun</a> holvi.com-palvelussa. Yhdistyksen hallitus käsittelee jäsenhakemukset mahdollisimman ripeästi ja lähettää uusille jäsenille kattavan tietopaketin.
 
-Yhdistyksen jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tarkoittaa 24/7 pääsyä labin tiloihin sekä mahdollisuutta säilyttää omia projekteja labin tiloissa. Tilankäyttömaksut ovat myös toimitilamme pääasiallinen ja toistaiseksi ainoa rahoituksen lähde.
+Yhdistyksen jäsenyys oikeuttaa sinut ryhtymään tilankäyttäjäksi, mikä tarkoittaa 24/7 pääsyä labin tiloihin sekä mahdollisuutta säilyttää omia projekteja labin tiloissa. Tilankäyttömaksut ovat myös toimitilamme pääasiallinen ja toistaiseksi ainoa rahoituksen lähde. Tilankäyttömaksun voit maksaa <a href="https://holvi.com/shop/hacklabmikkeli/">holvissa</a>.
 
