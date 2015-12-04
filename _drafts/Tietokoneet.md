@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Tietokoneet"
+---
 Speksit vielä tarkistettava.
 
 #Tietokoneet#
@@ -16,3 +20,5 @@ Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
  * Pentium D 2,8GHz 4GiB ram, 160GB kiintolevy(?), Atin tahmainen näytönohjain
 
 Hacklabin tietokoneiden yleiskäyttäjän tunnus ja salasana on hacklab. Ethän kuitenkaan asenna koneille mitään sellaista mikä estää/häiritsee niiden käyttöä.
+
+Hacklabille voi tietenkin tuoda myös oman tietokoneensa mikäli tila antaa myöten. Useimmiten viisainta on kuitenkin tuoda kannettava.
