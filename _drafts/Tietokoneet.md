@@ -23,4 +23,4 @@ Hacklabin tietokoneiden yleiskäyttäjän tunnus ja salasana on hacklab. Ethän 
 
 #Omat tietokoneet#
 
-Hacklabille voi tietenkin tuoda myös oman tietokoneensa mikäli tila antaa myöten. Useimmiten viisainta on kuitenkin tuoda kannettava.
+Hacklabille voi tietenkin tuoda myös oman tietokoneensa mikäli tila antaa myöten, useimmiten viisainta onkin tuoda kannettava.
