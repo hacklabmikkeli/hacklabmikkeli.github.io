@@ -15,7 +15,7 @@ Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
 * 3D-tulostuskone on Cleanissa oikealla heti laatikoiden jälkeen. Tätä konetta käytetään pääasiassa 3D-tulostamiseen, mutta koneella voi tehdä pikaisia mallinnuksia tarvittaessa.
  * Tuplaydinprosessori, 8GiB RAM, 160GB kiintolevy(?)
 * Apple Imac G5 retrokone Launchin nurkilla on pääasiassa kevyeen netin selaamiseen ja irkkaamiseen sekä tietysti vanhojen softien ajamiseen tarkoitettu.
- * Leopard, 1GiB RAM, 250GB kiintolevy 800MHz(?)
+ * Leopard, 1GiB RAM, 250GB kiintolevy, 800MHz(?)
 * Elektroniikkalabrassa on myös yksi kone kevyempiä softia ja netin selaamista varten.
  * Pentium D 2,8GHz 4GiB ram, 160GB kiintolevy(?), Atin tahmainen näytönohjain
 
