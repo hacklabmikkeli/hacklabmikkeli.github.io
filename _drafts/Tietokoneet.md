@@ -3,7 +3,7 @@ Speksit vielä tarkistettava.
 #Tietokoneet#
 Labiltä löytyy 6 erilaista tietokonetta hieman eri käyttötarkoituksiin suunnattuina:
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
-* Core2Duo E7400, 8GiB RAM, Geforce 8800GT(?), 2 kiintolevyä(?), Ubuntu 14.04(?) ja Windows 10
+ * Core2Duo E7400, 8GiB RAM, Geforce 8800GT(?), 2 kiintolevyä(?), Ubuntu 14.04(?) ja Windows 10
 * Kevyempään työskentelyyn tarkoitettu kone löytyy mallinnuskoneen vierestä vasemmalta. Core2Duo E7400, 4GiB RAM, Ubuntu 14.04(?)
 * Cleanin perällä oikealla oleva kone on tarkoitettu raskaamapaan työskentelyyn ja studiokäyttöön, E7400, 4GiB RAM, Geforce 8800GT, 80GB ja 300GB(?) kiintolevy, Windows 7.
 * 3D-tulostuskone on Cleanissa oikealla heti laatikoiden jälkeen. Tuplaydinprosessori, 8GiB RAM, 160GB kiintolevy(?)
