@@ -1,7 +1,7 @@
 Speksit vielä tarkistettava.
 
 #Tietokoneet#
-Labiltä löytyy 6 erilaista tietokonetta hieman eri käyttötarkoituksiin suunnattuina:
+Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
  * Core2Duo E7400, 8GiB RAM, Geforce 8800GT(?), 2 kiintolevyä(?), Ubuntu 14.04(?) ja Windows 10
 * Kevyempään työskentelyyn tarkoitettu kone löytyy mallinnuskoneen vierestä vasemmalta.
