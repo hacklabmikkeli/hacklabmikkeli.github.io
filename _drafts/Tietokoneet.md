@@ -48,24 +48,25 @@ Hacklab ei olisi hacklab ilman tietokoneita, tästä johtuen tarjoamme tietokone
  * 4GiB DDR2 välimuistia
  * 160GB kiintolevy
  * ATI näytönohjain
+ * 
+* Raspberry Pi 2
+ * 900MHz neliydin ARM Cortex-A7 suoritin
+ * 1GB välimuisti
+ * Neljä USB-porttia
+ * 40 GPIO pinniä
+ * HDMI-portti
+ * RJ45-verkkoportti
+ * 3,5mm yhdistelmäportti äänelle ja komposiittivideolle
+ * MicroSD-korttipaikka
+ * VideoCore IV 3D grafiikkaydin
+ * Kameraliitäntä (CSI)
+ * Näyttöliitäntä (DSI)
 
 Hacklabin tietokoneiden yleiskäyttäjän tunnus ja salasana on hacklab. Ethän kuitenkaan asenna koneille mitään sellaista mikä estää/häiritsee niiden käyttöä.
 
-##Raspberry Pi 2##
+Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita (Raspberry Pi 2), nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
 
-Hacklabiltä löytyy myös kaksi kappaletta yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita, nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
 
-* 900MHz neliydin ARM Cortex-A7 suoritin
-* 1GB välimuisti
-* Neljä USB-porttia
-* 40 GPIO pinniä
-* HDMI-portti
-* RJ45-verkkoportti
-* 3,5mm yhdistelmäportti äänelle ja komposiittivideolle
-* MicroSD-korttipaikka
-* VideoCore IV 3D grafiikkaydin
-* Kameraliitäntä (CSI)
-* Näyttöliitäntä (DSI)
 
 ##Omat tietokoneet##
 
