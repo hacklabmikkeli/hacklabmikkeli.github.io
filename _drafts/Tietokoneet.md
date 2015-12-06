@@ -7,7 +7,11 @@ Speksit vielä tarkistettava.
 #Tietokoneet#
 Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
- * Core2Duo E7400, 8GiB RAM, Geforce 8800GT(?), 2 kiintolevyä(?), Ubuntu 14.04(?) ja Windows 10
+ * Intel Core2Duo E7400
+ * 8GiB RAM
+ * Nvidia Geforce 8800GT
+ * 2 kiintolevyä
+ * Ubuntu 14.04 ja Windows 10
 * Kevyempään työskentelyyn tarkoitettu kone löytyy mallinnuskoneen vierestä vasemmalta.
  * Core2Duo E7400, 4GiB RAM, Ubuntu 14.04(?)
 * Cleanin perällä oikealla oleva kone on tarkoitettu raskaamapaan työskentelyyn ja studiokäyttöön.
