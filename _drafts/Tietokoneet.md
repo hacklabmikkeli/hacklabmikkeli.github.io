@@ -6,8 +6,9 @@ Speksit vielä tarkistettava.
 
 #Tietokoneet#
 
+Hacklab ei olisi hacklab ilman tietokoneita, tästä johtuen tarjoamme tietokoneita eri käyttötarkoituksiin. Lisäksi voit tietenkin tuoda oman tietokoneesi.
 
-##Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:##
+##Yhteiskäyttöiset tietokoneet##
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
  * Intel Core2Duo E7400 2,80Ghz suoritin
  * 8GiB DDR2 välimuisti
@@ -54,6 +55,18 @@ Hacklabin tietokoneiden yleiskäyttäjän tunnus ja salasana on hacklab. Ethän 
 
 Hacklabiltä löytyy myös kaksi kappaletta yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita, nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
 
-#Omat tietokoneet#
+* 900MHz neliydin ARM Cortex-A7 suoritin
+* 1GB välimuisti
+* Neljä USB-porttia
+* 40 GPIO pinniä
+* HDMI-portti
+* RJ45-verkkoportti
+* 3,5mm yhdistelmäportti äänelle ja komposiittivideolle
+* MicroSD-korttipaikka
+* VideoCore IV 3D grafiikkaydin
+* Kameraliitäntä (CSI)
+* Näyttöliitäntä (DSI)
+
+##Omat tietokoneet##
 
 Hacklabille voi tietenkin tuoda myös oman tietokoneensa mikäli tila antaa myöten, useimmiten viisainta onkin tuoda kannettava.
