@@ -33,9 +33,10 @@ Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
  * 160GB kiintolevy
  * Ubuntu 14.04 käyttöjärjestelmä
 
-* Apple Imac G5 retrokone Launchin nurkilla on pääasiassa kevyeen netin selaamiseen ja irkkaamiseen sekä tietysti vanhojen softien ajamiseen tarkoitettu.
+* Apple Imac G4 retrokone Launchin nurkilla on pääasiassa kevyeen netin selaamiseen ja irkkaamiseen sekä tietysti vanhojen softien ajamiseen tarkoitettu.
  * PPC 800MHz suoritin
- * 1GiB Välimuisti
+ * 1GiB SDRAM Välimuisti
+ * nVidia GeForce 2 MX 32 MB näytönohjain
  * 250GB kiintolevy
  * Leopard käyttöjärjestelmä
  
