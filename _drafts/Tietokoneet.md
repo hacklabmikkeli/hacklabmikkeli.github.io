@@ -36,7 +36,7 @@ Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia
 
 * 3D-tulostuskone on Cleanissa oikealla heti laatikoiden jälkeen. Tätä konetta käytetään pääasiassa 3D-tulostamiseen, mutta koneella voi tehdä pikaisia mallinnuksia tarvittaessa.
  * Intel Pentium D 2,80GHz suoritin
- * 8GiB DDR2 välimuistia
+ * 8GiB DDR2 välimuisti
  * Nvidia GeForce GT 640 näytönohjain
  * 160GB kiintolevy
  * Ubuntu 14.04 käyttöjärjestelmä
@@ -50,9 +50,15 @@ Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia
  
 * Elektroniikkalabrassa on myös yksi kone kevyempiä softia ja netin selaamista varten.
  * Intel Pentium D 2,80GHz
- * 4GiB DDR2 välimuistia
+ * 4GiB DDR2 välimuisti
  * 160GB kiintolevy
  * ATI näytönohjain
+
+* Launchin "tykkikone" on tarkoitettu pääasiassa videotykin kanssa käytettäväksi.
+ * Intel Pentium D
+ * 2GiB DDR2 välimuisti
+ * ATI näytönohjain
+ * 80GB kiintolevy
 
 * Raspberry Pi 2
  * 900MHz neliydin ARM Cortex-A7 suoritin
