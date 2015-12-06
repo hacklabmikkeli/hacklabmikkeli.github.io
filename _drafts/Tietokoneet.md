@@ -5,7 +5,9 @@ title: "Tietokoneet"
 Speksit vielä tarkistettava.
 
 #Tietokoneet#
-Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
+
+
+##Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:##
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
  * Intel Core2Duo E7400 2,80Ghz suoritin
  * 8GiB DDR2 välimuisti
@@ -47,6 +49,10 @@ Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
  * ATI näytönohjain
 
 Hacklabin tietokoneiden yleiskäyttäjän tunnus ja salasana on hacklab. Ethän kuitenkaan asenna koneille mitään sellaista mikä estää/häiritsee niiden käyttöä.
+
+##Raspberry Pi 2##
+
+Hacklabiltä löytyy myös kaksi kappaletta yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita, nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
 
 #Omat tietokoneet#
 
