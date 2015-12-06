@@ -8,6 +8,11 @@ Speksit vielä tarkistettava.
 
 Hacklab ei olisi hacklab ilman tietokoneita, tästä johtuen tarjoamme tietokoneita eri käyttötarkoituksiin. Lisäksi voit tietenkin tuoda oman tietokoneesi.
 
+Hacklabin tietokoneiden yleiskäyttäjän ***tunnus ja salasana on hacklab***. Ethän kuitenkaan asenna koneille mitään sellaista mikä estää/häiritsee niiden käyttöä.
+
+Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita (Raspberry Pi 2), nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
+
+
 ##Yhteiskäyttöiset tietokoneet##
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
  * Intel Core2Duo E7400 2,80Ghz suoritin
@@ -62,12 +67,9 @@ Hacklab ei olisi hacklab ilman tietokoneita, tästä johtuen tarjoamme tietokone
  * Kameraliitäntä (CSI)
  * Näyttöliitäntä (DSI)
 
-Hacklabin tietokoneiden yleiskäyttäjän tunnus ja salasana on hacklab. Ethän kuitenkaan asenna koneille mitään sellaista mikä estää/häiritsee niiden käyttöä.
-
-Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita (Raspberry Pi 2), nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
 
 
 
 ##Omat tietokoneet##
 
-Hacklabille voi tietenkin tuoda myös oman tietokoneensa mikäli tila antaa myöten, useimmiten viisainta onkin tuoda kannettava.
+Hacklabille voi tietenkin tuoda myös oman tietokoneensa mikäli tila antaa myöten, useimmiten viisainta onkin tuoda kannettava. Kannettavia on helpointa käyttää Elektroniikkalabran pöydillä tai tolppapöydällä. Useimmiten myös Cleaniin mahtuu.
