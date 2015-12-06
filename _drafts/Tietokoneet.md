@@ -41,7 +41,7 @@ Hacklabiltä löytyy 6 erilaista yhteiskäyttöön tarkoitettua tietokonetta:
  * Leopard käyttöjärjestelmä
  
 * Elektroniikkalabrassa on myös yksi kone kevyempiä softia ja netin selaamista varten.
- * Pentium D 2,8GHz
+ * Intel Pentium D 2,8GHz
  * 4GiB RAM
  * 160GB kiintolevy
  * ATI näytönohjain
