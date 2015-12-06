@@ -53,7 +53,7 @@ Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia
  * 4GiB DDR2 välimuistia
  * 160GB kiintolevy
  * ATI näytönohjain
- * 
+
 * Raspberry Pi 2
  * 900MHz neliydin ARM Cortex-A7 suoritin
  * 1GB välimuisti
