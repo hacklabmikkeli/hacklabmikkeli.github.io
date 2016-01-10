@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
+category: instructions
 title: "Tietokoneet"
 ---
-Speksit vielä tarkistettava.
 
 #Tietokoneet#
 

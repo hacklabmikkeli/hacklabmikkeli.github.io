@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+category: instructions
 title: "Työkalut"
 ---
 #Työkalut#
