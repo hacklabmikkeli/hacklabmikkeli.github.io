@@ -32,3 +32,16 @@ h1 {
  .ellipsis-link:hover {
      color: #aaa;
  }
+
+
+/* Inverse theme */
+.theme-inverse .sidebar,
+.theme-inverse .sidebar a {
+  background: none;
+  color: #ffffff;
+  mix-blend-mode: difference;
+}
+.theme-inverse .content a,
+.theme-inverse .related-posts li a:hover {
+  color: #aa759f;
+}
