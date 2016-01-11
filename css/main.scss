@@ -38,8 +38,9 @@ h1 {
 .theme-inverse .sidebar,
 .theme-inverse .sidebar a {
   background: none;
-  color: #ffffff;
-  mix-blend-mode: difference;
+  color: #000;
+  /* color: #ffffff; mix-blend-mode: difference; */
+
 }
 .theme-inverse .content a,
 .theme-inverse .related-posts li a:hover {
