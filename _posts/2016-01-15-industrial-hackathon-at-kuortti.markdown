@@ -4,7 +4,7 @@ title: Industrial Hackathon at Kuortti
 date: '2016-01-15 19:45:00'
 ---
 
-Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00 Kuortti. This time it was [Industrial Hackathon](http://www.industrialhackathon.fi/) with aim to improve processes of two local companies. These two hosting companies are [Pelaser](http://www.pelaser.fi/) [Plastep](http://www.plastep.fi/). Pelaser works with processing steel plates and sheet metal parts. Plastep is a plastic production company.
+Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00 at Kuortti. This time it was [Industrial Hackathon](http://www.industrialhackathon.fi/) with aim to improve processes of two local companies. These two hosting companies are [Pelaser](http://www.pelaser.fi/) [Plastep](http://www.plastep.fi/). Pelaser works with processing steel plates and sheet metal parts. Plastep is a plastic production company.
 
 ![alt](/public/images/kuortti-1.jpg)
 
@@ -16,5 +16,5 @@ Plastep challenges concentrate on common operational picture and quality. The ch
 
 ![alt](/public/images/kuortti-3.jpg)
 
-It was also really nice to meet again people who participated our [NASA Space Apps Hackathon](http://mikkeli.hacklab.fi/2015/04/13/space-apps-challenge-8-great-projects-as-a-result/) in April 2015. All of them had the same enthusiasm as before to solved the given challenges. About 18 hours time left for hacking...
+It was also really nice to meet again people who participated our [NASA Space Apps Hackathon](http://mikkeli.hacklab.fi/2015/04/13/space-apps-challenge-8-great-projects-as-a-result/) in April 2015. All of them had the same enthusiasm as before to solve the given challenges. About 18 hours time left for hacking...
 
