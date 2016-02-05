@@ -11,3 +11,5 @@ This dc-voltage from msgeq7 is then fed to teensy 3.2, microcontroller that does
 bus OLED screen (128x64, blue colour). There is also bit conversion made before showing data, and that is just simple mapping function.
 I don't have audio shield yet, but couple of those should arrive next week, and with that is possible to manipulate/mix and stuff like that real time at 16bit/44khz (cd quality)
 as well as control real time FFT. But, even this simple version works well:
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/oXUSYADG080" frameborder="0" allowfullscreen></iframe>
