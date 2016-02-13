@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mikkeli Maker Day
-date: '2016-02-13 13:45:00'
+date: '2016-02-13 10:45:00'
 ---
 
 We were invited to plan and execute a small event at local library. Something that involves different examples from our hacklab projects. Something that could make people from junior to senior happy. Something that we can handle with our resources. We would also need a nice name for the event... mmh... this was the most difficult part. Eventually someone screamed out something like Mikkeli Maker Day. Close enough.
