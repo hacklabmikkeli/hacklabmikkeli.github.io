@@ -13,7 +13,8 @@ Hacklabin tietokoneiden yleiskäyttäjän ***tunnus ja salasana on hacklab***. E
 Hacklabiltä löytyy myös yhteiskäyttöön tarkoitettuja luottokortin kokoisia tietokoneita (Raspberry Pi 2), nämä on tarkoitettu pääasiassa elektroniikkaprojektien kanssa käytettäviksi.
 
 
-##Yhteiskäyttöiset tietokoneet##
+## Yhteiskäyttöiset tietokoneet
+
 * Mallinnuskone Cleanin perällä vasemmassa nurkkassa on tehokkain.
  * Intel Core2Duo E7400 2,80Ghz suoritin
  * 8GiB DDR2 välimuisti
