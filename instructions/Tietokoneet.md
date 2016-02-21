@@ -4,7 +4,7 @@ category: instructions
 title: "Tietokoneet"
 ---
 
-#Tietokoneet#
+# Tietokoneet
 
 Hacklab ei olisi hacklab ilman tietokoneita, tästä johtuen tarjoamme tietokoneita eri käyttötarkoituksiin. Lisäksi voit tietenkin tuoda oman tietokoneesi.
 
