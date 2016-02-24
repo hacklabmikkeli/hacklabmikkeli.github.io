@@ -32,7 +32,9 @@ h1 {
  .ellipsis-link:hover {
      color: #aaa;
  }
-
+.theme-inverse {
+    //background-image: url("/public/backgrounds/IMG_2200.JPG");
+}
 
 /* Inverse theme */
 .theme-inverse .sidebar,
@@ -40,7 +42,6 @@ h1 {
   background: none;
   color: #000;
   /* color: #ffffff; mix-blend-mode: difference; */
-
 }
 .theme-inverse .content a,
 .theme-inverse .related-posts li a:hover {
