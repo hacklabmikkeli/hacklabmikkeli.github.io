@@ -12,11 +12,11 @@ title: Blogi
 <div class="slider">
  	<ul>
 		<li><img src="{{ site.baseurl }}public/slider-images/1.jpg"></li>
-		<li><img src="{{ site.baseurl }}public/slider-images/2.jpg"></li>
-        <li><img src="{{ site.baseurl }}public/slider-images/3.jpg"></li>
-        <li><img src="{{ site.baseurl }}public/slider-images/4.jpg"></li>
-        <li><img src="{{ site.baseurl }}public/slider-images/5.jpg"></li>
-        <li><img src="{{ site.baseurl }}public/slider-images/6.jpg"></li>
+		<li class="slider-hide"><img src="{{ site.baseurl }}public/slider-images/2.jpg"></li>
+        <li class="slider-hide"><img src="{{ site.baseurl }}public/slider-images/3.jpg"></li>
+        <li class="slider-hide"><img src="{{ site.baseurl }}public/slider-images/4.jpg"></li>
+        <li class="slider-hide"><img src="{{ site.baseurl }}public/slider-images/5.jpg"></li>
+        <li class="slider-hide"><img src="{{ site.baseurl }}public/slider-images/6.jpg"></li>
 	</ul>
 </div>
 
@@ -106,6 +106,7 @@ title: Blogi
                 autoplay: false, arrows: false, dots: true, fluid: true
                 
             });
+            $('.slider-hide').removeClass('slider-hide');
 		});
         
 

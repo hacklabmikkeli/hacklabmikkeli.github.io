@@ -23,9 +23,12 @@ h1 {
      list-style-type: none;
  }
 
- .slider li + li {
+ .slider-hide {
      display: none;
-     border-radius: 4px;
+ }
+
+ .slider li {
+     border-radius: 2px;
  }
 
  .map-source {
