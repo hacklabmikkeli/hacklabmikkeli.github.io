@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/kuortti-3.jpg'
 title: Industrial Hackathon at Kuortti
-date: '2016-01-15 19:45:00'
+date:   2016-01-01 20:09:41
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00 at Kuortti. This time it was [Industrial Hackathon](http://www.industrialhackathon.fi/) with aim to improve processes of two local companies. These two hosting companies are [Pelaser](http://www.pelaser.fi/) [Plastep](http://www.plastep.fi/). Pelaser works with processing steel plates and sheet metal parts. Plastep is a plastic production company.

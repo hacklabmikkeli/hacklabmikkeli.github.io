@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: false
 title: 7-band equalizer
-date: '2016-02-05 15:41:41'
+date:   2016-02-05 15:41:41
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
 
 Not yet FFT, but getting close, this is simple 7-band graphic equalizer. Microphone amplifier, which has fixed gain of 20db, measures

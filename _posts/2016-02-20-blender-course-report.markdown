@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/blender-course.jpg'
 title: Blender Course Report
-date: '2016-02-20 12:00:00'
+date:   2016-02-20 12:00:00
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 First course to begin our year 2016 was 3D modelling basics with [Blender](http://www.blender.org/). We asked what courses our community was interested in and 3D modelling basics was voted to first place. Luckily we have some talented Blender users in our members who also volunteered to lead the course. 

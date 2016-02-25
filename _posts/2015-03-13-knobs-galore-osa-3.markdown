@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'http://i.imgur.com/JEhXoJF.png'
 title: Knobs Galore, osa 3
-date: '2015-03-13 12:04:00'
+date:   2015-03-13 12:04:00
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
 
 Nyt on jo ääninäytettä tarjolla!

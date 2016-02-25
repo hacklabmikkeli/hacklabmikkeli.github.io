@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/jura-1.jpg'
 title: Jurassic Rock 2015
-date: '2015-08-15 12:47:42'
+date:   2015-08-15 12:47:42
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Hacklab Mikkelille tarjoutui mahdollisuus osallistua Jurassic Rock festareiden yhteydessä järjestettyyn Designer's + Hacker's Corner - markkinointitapahtumaan. Tapahtuman tarkoitus oli markkinoida syksyllä Mikkelissä järjestettävää Mikkeli art & design week tapahtumaa sekä paikallista käsityöläis- ja "maker" osaamista.

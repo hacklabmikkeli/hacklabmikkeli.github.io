@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/hackathon-liste.jpg'
 title: CodeWeek EU and IoT Hackathon
-date: '2015-10-12 17:25:41'
+date:   2015-10-12 17:25:41
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 To celebrate [the Europe Code Week 2015](http://www.codeweek.eu/) Hacklab Mikkeli organized its own event in Mikkeli. Our event was built from bunch of different sub-events. The major event was Internet of Things Hackathon which describes itself with its name. Other events included planning and luckily also starting local [Koodikerho](http://koodikerho.fi/) activity, 3D modelling and printing workshop, [API:Suomi](http://www.apisuomi.fi/) meeting which lead to starting API Meetup community to Mikkeli, and last but not least [Open Finland Challenge](http://openfinlandchallenge.fi/) workshop.

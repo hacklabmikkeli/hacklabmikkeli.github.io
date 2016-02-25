@@ -1,24 +1,44 @@
 ---
-layout: page
-title: Ohjeet &bull; Instructions
+layout: default
+cover: 'false'
+class: 'tag-template'
+navigation: True
+logo: 'assets/images/alien_pink.svg'
+current: instructions
 ---
 
-<div class="pages">
+<!-- If we have a tag cover, display that - else blog cover - else nothing -->
+<header class="main-header tag-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{% if new_cover %}{{ new_cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
+    <nav class="main-nav overlay clearfix">
+        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.navigation %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        {% endif %}
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">Instructions</h1>
+            <h2 class="page-description">
+              Instructions on how to use Hacklab and it's equipment
+            </h2>
+        </div>
+    </div>
+</header>
+
+<!-- The main content area on the homepage -->
+<main id="content" class="content" role="main">
+
   {% for page in site.pages %}
   {% if page.category == 'instructions' %}
-  <div class="post">
-    <h2 class="post-title">
-      <a href="{{ page.url }}">
-        {{ page.title }}
-      </a>
-    </h1>
-
-    {{ page.excerpt }}
-
-    <a class="ellipsis-link" href="{{ page.url }}">
-      Lue lisää &bull; read more...
-    </a>
-  </div>
+  <article class="post">
+      <header class="post-header">
+          <h2 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+      </header>
+      <section class="post-excerpt">
+          <p>{{ page.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ page.url }}">&raquo;</a></p>
+      </section>
+  </article>
   {% endif %}
   {% endfor %}
-</div>
+
+</main>

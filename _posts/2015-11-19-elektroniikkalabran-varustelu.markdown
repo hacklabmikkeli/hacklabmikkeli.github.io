@@ -1,9 +1,12 @@
 ---
 layout: post
+cover: 'public/images/fuug-2.jpg'
 title: Elektroniikkalabran varustelu
-date: '2015-11-19 19:30:00'
+date:   2015-11-19 19:30:00
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
-
 
 Hacklab Mikkelin ensimmäinen toimintavuosi alkaa lähestyä loppuaan. Vuoteen mahtui niin perustaminen helmikuussa kuin Fuugin säätiön rahoituksen saaminen myöhemmin keväällä. Käytännössä rahoituksen avulla oli mahdollista saada toimintaan nopea lähtö ja toteuttaa missiota alusta saakka.
 

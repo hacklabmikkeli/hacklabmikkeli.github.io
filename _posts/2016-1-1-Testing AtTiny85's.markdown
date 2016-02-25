@@ -1,8 +1,13 @@
 ---
 layout: post
+cover: 'http://i.imgur.com/sW9Hx79.jpg'
 title: Testing AtTiny85's
-date: '2016-01-01 20:09:41'
+date:   2016-01-01 20:09:41
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
+
 *Testing....*
 ![AtTiny85_test](http://i.imgur.com/sW9Hx79.jpg)
 Some projects doesn't need big'n beefy microcontroller, this little one can tackle many projects like RTC clock

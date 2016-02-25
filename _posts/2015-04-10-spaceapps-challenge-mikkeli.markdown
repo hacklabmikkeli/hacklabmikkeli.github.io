@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/bootcamp-1.jpg'
 title: NASA Space Apps Challenge Data Bootcamp
-date: '2015-04-10 18:59:33'
+date:   2015-04-10 18:59:33
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 NASA Space Apps Challengen [Mikkelin tapahtuma](http://spaceapps.hack4mikkeli.fi/) käynnistyi tänään data bootcampilla eli illan mittaisella tutustumisella dataan, ohjelmointiin ja toki kaiken mahdollisen hackaamiseen.

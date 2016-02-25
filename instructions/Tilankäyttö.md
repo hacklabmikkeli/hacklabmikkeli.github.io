@@ -1,7 +1,9 @@
 ---
-layout: default
-category: instructions
+layout: page
 title: Tilankäyttö
+navigation: True
+logo: 'assets/images/alien_pink.svg'
+category: instructions
 ---
 
 # Tilankäyttö

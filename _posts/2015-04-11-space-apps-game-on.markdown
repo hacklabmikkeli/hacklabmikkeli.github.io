@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/space-2.jpg'
 title: Space Apps - Game on!
-date: '2015-04-11 15:19:06'
+date:   2015-04-11 15:19:06
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 After Data Bootcamp yesterday it was time to begin the  hackathon. First we had some nice keynotes from real space professionals: "*Finland in space 1985-2015*" by Pauli Stigell from [Tekes / Space Finland](http://spacefinland.fi/) and "*Realtime satellite and space weather data for online use*" by Ilkka Sillanpää from [Finnish Meteorology Institute](http://ilmatieteenlaitos.fi/tutkimustoiminta). 

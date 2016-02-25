@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/dks-3.jpg'
 title: Digital City Adventure 2015
-date: '2015-10-04 14:25:41'
+date:   2015-10-04 14:25:41
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Hacklab Mikkeli had a possibility to host a checkpoint in Digital City Adventure 2015. Of course we accepted the challenge and did our best making the checkpoint a nice experience for all participants.

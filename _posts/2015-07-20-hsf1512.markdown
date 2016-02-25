@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/hsf1512-1.jpg'
 title: HSF15½
-date: '2015-07-20 10:21:46'
+date:   2015-07-20 10:21:46
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Hacklab Mikkeli otti osaa HSF15½ tapahtumaan joka järjestettiin Helsinki Hacklabin tiloissa. Mikkelin lisäksi tapahtumaan osallistui porukkaa Helsingin, Turun, Tampereen, Porin ja Vaasan Hacklabeilta.

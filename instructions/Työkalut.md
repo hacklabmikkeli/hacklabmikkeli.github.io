@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
+title: Työkalut
+navigation: True
+logo: 'assets/images/alien_pink.svg'
 category: instructions
-title: "Työkalut"
 ---
 
 # Työkalut

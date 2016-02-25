@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
+title: Tietokoneet
+navigation: True
+logo: 'assets/images/alien_pink.svg'
 category: instructions
-title: "Tietokoneet"
 ---
 
 # Tietokoneet

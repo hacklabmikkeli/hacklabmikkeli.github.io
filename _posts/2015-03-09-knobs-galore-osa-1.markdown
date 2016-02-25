@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'http://i.imgur.com/uMUln3El.jpg'
 title: Knobs Galore, osa 1
-date: '2015-03-09 19:00:15'
+date:   2015-03-09 19:00:15
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
 
 Knobs Galore on kehitteillä oleva digitaalinen syntetisaattori, jota rakennan halvan lelupianon runkoon. Se toimii Casion CZ-linjan syntetisaattoreissaan käyttämällä vaihevääristymäsynteesitekniikalla, josta käytetään joskus lyhennettä *PD (Phase Distortion)*. PD:n voidaan kuvailla olevan jotakuinkin vaihemodulaatiosynteesin ("FM"-synteesi) ja analogisissa syntetisaattoreissa käytetyn subtraktiivisen synteesin välimaastossa. Valitsin vaihevääristymäsynteesin, koska FM:n verrattuna siinä on paljon vähemmän parametreja (joten se on helpompi oppia), ja toisin kuin subtraktiivisessa synteesissä, siinä ei tarvita digitaalisia suodattimia.

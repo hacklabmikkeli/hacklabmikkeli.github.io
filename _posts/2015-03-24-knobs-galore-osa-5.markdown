@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: false
 title: Knobs Galore, osa 5
-date: '2015-03-24 15:30:11'
+date:   2015-03-24 15:30:11
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
 
 Tein äänisimulaation muutamista soundeista:

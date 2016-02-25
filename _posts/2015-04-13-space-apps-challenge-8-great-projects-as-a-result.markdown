@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/spaceapps-2.jpg'
 title: Space Apps Challenge Mikkeli - 8 great projects as a result
-date: '2015-04-13 11:16:34'
+date:   2015-04-13 11:16:34
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Space Apps Challenge Mikkeli was one wonderful weekend. No question about it. 74 registered participants which of great majority arrived and started working on NASA Challenges. On Sunday afternoon it was time for the award ceremony...

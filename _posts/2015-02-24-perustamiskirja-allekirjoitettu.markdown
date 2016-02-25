@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/hacklabmikkeli-perustamiskokous-aple.jpg'
 title: Yhdistys perustettu ja hallitus valittu
-date: '2015-02-24 10:39:45'
+date:   2015-02-24 10:39:45
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Hacklab Mikkeli ry:n perustamiskokous järjestettiin 19.2.2015 ja paikalle saapuikin runsaasti väkeä. Paikkana oli tuttuun tapaan Mikkelin ammattikorkeakoulun Xinno. Yhdistyksen sääntöjä oli suunniteltu jo etukäteen tutustuen muiden hacklab-yhdistysten sääntöihin sekä hakemalla tukea Hacklab Summit Finlandista. Kovin rasittavasta tapahtumasta ei siis ollut kyse, lähinnä korjailtiin sanamuotoja ja täytettiin lomaketta Patentti- ja rekisterihallituksen verkkopalvelussa.

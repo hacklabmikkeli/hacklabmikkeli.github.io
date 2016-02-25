@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: false
 title: Knobs Galore, osa 4
-date: '2015-03-14 11:44:52'
+date:   2015-03-14 11:44:52
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
 
 Rakensin pienen "koskettimiston" breadboardille, joten nyt härpäkettä voi soittaakin!

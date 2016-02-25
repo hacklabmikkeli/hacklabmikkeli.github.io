@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'http://i.imgur.com/trexEFyl.jpg'
 title: Knobs Galore, osa 2
-date: '2015-03-10 15:32:11'
+date:   2015-03-10 15:32:11
+tags: project
+subclass: 'post tag-project'
+categories: 'casper'
 ---
 
 Käytän syntetisaattorin runkona saksalaisen Simban *My Music World*-lelukosketinsoitinta. Kyseisellä nimellä myydään useita soittimia, mutta minun soittimeni on kuulemma oikein [modernin tyylinen](http://simbatoys.de/en/brands__products/my_music_world/keyboard_instruments/detail.shtml?sArtNr=106835366). Kosketinsoitin on varsin sopiva tarkoituksiini: siinä on juuri sopiva määrä näppäimiä käyttöliittymää varten ja se on melko pieni, mutta sen sisään on helppo laittaa esimerkiksi Papilio (tai muu piirilevy). Ennen kaikkea kuitenkin siinä koskettimisto ja näppäimistö ovat erillään itse elektroniikasta, lattakaapelilla yhdistettynä, joten ne on helppo yhdistää omiin tekeleisiini! Soitin maksoi uutena 14 euroa Mikkelin Prismassa.

@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: false
 title: Kutsu Hacklab Mikkeli ry:n perustamiskokoukseen
-date: '2015-02-17 14:58:27'
+date:   2015-02-17 14:58:27
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Suunnittelu hacklab-toiminnan käynnistämisestä Mikkeliin on edennyt talven aikana ja on tullut aika perustaa yhdistys.

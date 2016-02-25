@@ -1,0 +1,88 @@
+    <!-- Previous/next page links - only displayed on page 2+ -->
+    <div class="extra-pagination inner">
+        {% if page.class == 'home-template' %}
+            {% include post_pagination.html %}
+        {% elsif page.class == 'page-template' %}
+            {% include post_pagination.html %}
+        {% elsif page.class == 'author-template' %}
+            {% include author_pagination.html %}
+        {% elsif page.class == 'tag-template' %}
+            {% include tag_pagination.html %}
+        {% else %}
+            {% include post_pagination.html %}
+        {% endif %}
+    </div>
+
+    {% if paginator.page == 1 %}
+    {% if page.current == 'home' %}
+    <article class="post">
+        <header class="post-header">
+           <h2 class="post-title"><a href="#">Tule mukaan toimintaan!</a></h2>
+        </header>
+        <section class="post-excerpt">
+          <br/>
+            <ul>
+              <li>Osoite &bull; Address: <b>Pietarinkatu 23 e 22 (käynti Yrjönkadun puolelta &bull; access from Yrjönkatu)</b></li>
+              <li>Sähköposti &bull; Email: <b>hallitus аt mikkeli dоt hacklab dоt fi</b></li>
+              <li>Koordinaatit &bull; Coordinates: <b>N 61&deg; 41' 36", E 27&deg; 15' 44"</b></li>
+              <li>IRC (Internet Relay Chat): <b><a href="http://webchat.freenode.net/?nick=vieras_...&channels=hacklabmikkeli&prompt=1">#hacklabmikkeli@Freenode</a></b></li>
+              <li>Avoimet ovet &bull; Open house: <b>Torstaisin &bull; Thursdays 17:00&mdash;</b></li>
+              <li>Pankkiyhteys &bull; Donations IBAN: <b>DE18 5123 0800 6530 0402 96, BIC: WIREDEMM (Maa: Saksa)</b></li>
+            </ul>
+            <br>
+            <div class="map">
+                <a href="http://osm.org/go/0x9tWfvsE-?m=">
+                    <img src="{{ site.baseurl }}public/images/map.png" />
+                </a>
+                <p class="map-source">
+                    &copy;
+                    <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>
+                    contributors
+                </p>
+            </div>
+        </section>
+    </article>
+    {% endif %}
+    {% endif %}
+    
+    <!-- This is the post loop - each post will be output using this markup -->
+    {% for post in paginator.posts %}
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">&raquo;</a></p>
+        </section>
+        <footer class="post-meta">
+            {% if site.image %}<img class="author-thumb" src="{{ site.baseurl }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
+            <!-- author -->
+            {{ site.author }}
+            <!-- [[tags prefix=" on "]] -->
+            {% if post.tags.size > 0 %} 
+                on 
+                {% for tag in post.tags %}
+                    {% if forloop.index == post.tags.size %}
+                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
+                    {% else %}
+                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
+                    {% endif %}   
+                {% endfor %}
+            {% endif %}
+            <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
+        </footer>
+    </article>
+    {% endfor %}
+
+    <!-- Previous/next page links - displayed on every page -->
+    {% if page.class == 'home-template' %}
+        {% include post_pagination.html %}
+    {% elsif page.class == 'page-template' %}
+        {% include post_pagination.html %}
+    {% elsif page.class == 'author-template' %}
+        {% include author_pagination.html %}
+    {% elsif page.class == 'tag-template' %}
+        {% include tag_pagination.html %}
+    {% else %}
+        {% include post_pagination.html %}
+    {% endif %}

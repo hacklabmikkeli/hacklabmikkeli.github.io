@@ -1,7 +1,11 @@
 ---
 layout: post
+cover: 'public/images/pielavesi-robotti.jpg'
 title: Making things in Pielavesi
-date: '2015-05-18 12:26:18'
+date:   2015-05-18 12:26:18
+tags: event
+subclass: 'post tag-event'
+categories: 'casper'
 ---
 
 Hacklab Mikkeli was invited to "Wärkkee-päevä" in Pielavesi to host a basic workshop about programmable robots and 3D printing. Audience for the workshop was supposed to be all visitors of the event but in particular the students of local schools.
