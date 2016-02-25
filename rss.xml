@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Hacklab Mikkeli</title>
+    <link>http://mikkeli.hacklab.fi</link>
+    <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
+    <pubDate>Sat, 20 Feb 2016 12:00:00 +0000</pubDate>
+    <item>
+      <title>Blender Course Report</title>
+      <link>http://mikkeli.hacklab.fi/blender-course-report</link>
+      <description>First course to begin our year 2016 was 3D modelling basics with [Blender](http://www.blender.org/). We asked what courses our community was interested in and 3D modelling basics was voted to first place. Luckily we have some talented Blender users in our members who also volunteered to lead the course. 
+
+</description>
+      <pubDate>Sat, 20 Feb 2016 12:00:00 +0000</pubDate>
+      <dc:date>2016-02-20T12:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Hacklab Mikkeli 1 Year!</title>
+      <link>http://mikkeli.hacklab.fi/hacklab-mikkeli-1-year</link>
+      <description>We have survived as a registered association for one whole year! One year ago we met and decided to make this thing official - 19 brave hackers signed our charter of foundation. Of course we had began planning the hacklab earlier but after receiving huge support from other Finnish hacklabs at Hacklab Summit Finland 2015 in Tampere we had to make the move. After that we have found a place for our hacklab, renovated it to suit our purposes and after that had fun participating and arranging many wonderful events. 
+
+</description>
+      <pubDate>Fri, 19 Feb 2016 22:00:00 +0000</pubDate>
+      <dc:date>2016-02-19T22:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Mikkeli Maker Day</title>
+      <link>http://mikkeli.hacklab.fi/mikkeli-maker-day</link>
+      <description>We were invited to plan and execute a small event at local library. Something that involves different examples from our hacklab projects. Something that could make people from junior to senior happy. Something that we can handle with our resources. We would also need a nice name for the event... mmh... this was the most difficult part. Eventually someone screamed out something like Mikkeli Maker Day. Close enough.
+
+</description>
+      <pubDate>Sat, 13 Feb 2016 10:45:00 +0000</pubDate>
+      <dc:date>2016-02-13T10:45:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>7-band equalizer</title>
+      <link>http://mikkeli.hacklab.fi/seven-band-equalizer</link>
+      <description>Not yet FFT, but getting close, this is simple 7-band graphic equalizer. Microphone amplifier, which has fixed gain of 20db, measures
+surrounding noises. These noises are then fed to msgeq7-chip, made by MSI. Bit expensive chip, and so far only sparkfun seems to sell them.
+What it does, is creates 7-band of different frequency regions, all are peak-detected and well filtered. Also, it creates 20db amplification.
+This dc-voltage from msgeq7 is then fed to teensy 3.2, microcontroller that does rest of magic; controls msgeq7, reads and stores values, as well controls i2c 
+bus OLED screen (128x64, blue colour). There is also bit conversion made before showing data, and that is just simple mapping function.
+I don't have audio shield yet, but couple of those should arrive next week, and with that is possible to manipulate/mix and stuff like that real time at 16bit/44khz (cd quality)
+as well as control real time FFT. But, even this simple version works well:
+
+</description>
+      <pubDate>Fri, 05 Feb 2016 15:41:41 +0000</pubDate>
+      <dc:date>2016-02-05T15:41:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Industrial Hackathon at Kuortti</title>
+      <link>http://mikkeli.hacklab.fi/industrial-hackathon-at-kuortti</link>
+      <description>Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00 at Kuortti. This time it was [Industrial Hackathon](http://www.industrialhackathon.fi/) with aim to improve processes of two local companies. These two hosting companies are [Pelaser](http://www.pelaser.fi/) [Plastep](http://www.plastep.fi/). Pelaser works with processing steel plates and sheet metal parts. Plastep is a plastic production company.
+
+</description>
+      <pubDate>Fri, 01 Jan 2016 20:09:41 +0000</pubDate>
+      <dc:date>2016-01-01T20:09:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Testing AtTiny85's</title>
+      <link>http://mikkeli.hacklab.fi/Testing%20AtTiny85's</link>
+      <description>*Testing....*
+![AtTiny85_test](http://i.imgur.com/sW9Hx79.jpg)
+Some projects doesn't need big'n beefy microcontroller, this little one can tackle many projects like RTC clock
+or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
+but some people have managed to install it as internal freguency.
+Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
+10hz led-blinker, but that's enough proof whether ic works at all, and It's fast to load this code.
+
+</description>
+      <pubDate>Fri, 01 Jan 2016 20:09:41 +0000</pubDate>
+      <dc:date>2016-01-01T20:09:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Elektroniikkalabran varustelu</title>
+      <link>http://mikkeli.hacklab.fi/elektroniikkalabran-varustelu</link>
+      <description>Hacklab Mikkelin ensimmäinen toimintavuosi alkaa lähestyä loppuaan. Vuoteen mahtui niin perustaminen helmikuussa kuin Fuugin säätiön rahoituksen saaminen myöhemmin keväällä. Käytännössä rahoituksen avulla oli mahdollista saada toimintaan nopea lähtö ja toteuttaa missiota alusta saakka.
+
+</description>
+      <pubDate>Thu, 19 Nov 2015 19:30:00 +0000</pubDate>
+      <dc:date>2015-11-19T19:30:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>4x4x4 led cube</title>
+      <link>http://mikkeli.hacklab.fi/4x4x4-led-cube</link>
+      <description>Enought complex project in both as mechanical and, possibly, how complex pattern one wants to show up on cube.
+As this is 4-square cube, pattern can't be much complicated, so i added bit more touch in with clock and . 
+Time is in memory of special chip. If you have normal radio-clock, you might have noticed that when/if main power goes out
+so does time, gets nulled and must be set again. RTC chip keeps time, and is handy also when making stuff to happen in excact 
+intervals like putting coffee machine or car heater on, you name it.
+The idea behind using mirror-plating is to create same illusion as in infinity mirrors seen on web:
+When general room is brightly lit, mirror-plating acts like mirror. When it's dark, you can see throught it
+This is how it looks in bright room:
+![Brightroomcube-off](http://i.imgur.com/tnVL1M5.jpg)
+Bright room, with power:
+![Brightroomcube-on](http://i.imgur.com/z8CHEUc.jpg)
+Dark room, power on:
+![darkroomcube-on](http://i.imgur.com/hHg1sDC.jpg)
+
+</description>
+      <pubDate>Tue, 17 Nov 2015 12:00:00 +0000</pubDate>
+      <dc:date>2015-11-17T12:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>CodeWeek EU and IoT Hackathon</title>
+      <link>http://mikkeli.hacklab.fi/codeweek-eu</link>
+      <description>To celebrate [the Europe Code Week 2015](http://www.codeweek.eu/) Hacklab Mikkeli organized its own event in Mikkeli. Our event was built from bunch of different sub-events. The major event was Internet of Things Hackathon which describes itself with its name. Other events included planning and luckily also starting local [Koodikerho](http://koodikerho.fi/) activity, 3D modelling and printing workshop, [API:Suomi](http://www.apisuomi.fi/) meeting which lead to starting API Meetup community to Mikkeli, and last but not least [Open Finland Challenge](http://openfinlandchallenge.fi/) workshop.
+
+</description>
+      <pubDate>Mon, 12 Oct 2015 17:25:41 +0000</pubDate>
+      <dc:date>2015-10-12T17:25:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Digital City Adventure 2015</title>
+      <link>http://mikkeli.hacklab.fi/digital-city-adventure-2015</link>
+      <description>Hacklab Mikkeli had a possibility to host a checkpoint in Digital City Adventure 2015. Of course we accepted the challenge and did our best making the checkpoint a nice experience for all participants.
+
+</description>
+      <pubDate>Sun, 04 Oct 2015 14:25:41 +0000</pubDate>
+      <dc:date>2015-10-04T14:25:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Jurassic Rock 2015</title>
+      <link>http://mikkeli.hacklab.fi/jurassic-rock-2015</link>
+      <description>Hacklab Mikkelille tarjoutui mahdollisuus osallistua Jurassic Rock festareiden yhteydessä järjestettyyn Designer's + Hacker's Corner - markkinointitapahtumaan. Tapahtuman tarkoitus oli markkinoida syksyllä Mikkelissä järjestettävää Mikkeli art &amp; design week tapahtumaa sekä paikallista käsityöläis- ja &quot;maker&quot; osaamista.
+
+</description>
+      <pubDate>Sat, 15 Aug 2015 12:47:42 +0000</pubDate>
+      <dc:date>2015-08-15T12:47:42+00:00</dc:date>
+    </item>
+    <item>
+      <title>HSF15½</title>
+      <link>http://mikkeli.hacklab.fi/hsf1512</link>
+      <description>Hacklab Mikkeli otti osaa HSF15½ tapahtumaan joka järjestettiin Helsinki Hacklabin tiloissa. Mikkelin lisäksi tapahtumaan osallistui porukkaa Helsingin, Turun, Tampereen, Porin ja Vaasan Hacklabeilta.
+
+</description>
+      <pubDate>Mon, 20 Jul 2015 10:21:46 +0000</pubDate>
+      <dc:date>2015-07-20T10:21:46+00:00</dc:date>
+    </item>
+    <item>
+      <title>Making things in Pielavesi</title>
+      <link>http://mikkeli.hacklab.fi/making-things-in-pielavesi</link>
+      <description>Hacklab Mikkeli was invited to &quot;Wärkkee-päevä&quot; in Pielavesi to host a basic workshop about programmable robots and 3D printing. Audience for the workshop was supposed to be all visitors of the event but in particular the students of local schools.
+
+</description>
+      <pubDate>Mon, 18 May 2015 12:26:18 +0000</pubDate>
+      <dc:date>2015-05-18T12:26:18+00:00</dc:date>
+    </item>
+    <item>
+      <title>Space Apps Challenge Mikkeli - 8 great projects as a result</title>
+      <link>http://mikkeli.hacklab.fi/space-apps-challenge-8-great-projects-as-a-result</link>
+      <description>Space Apps Challenge Mikkeli was one wonderful weekend. No question about it. 74 registered participants which of great majority arrived and started working on NASA Challenges. On Sunday afternoon it was time for the award ceremony...
+
+</description>
+      <pubDate>Mon, 13 Apr 2015 11:16:34 +0000</pubDate>
+      <dc:date>2015-04-13T11:16:34+00:00</dc:date>
+    </item>
+    <item>
+      <title>Space Apps - Game on!</title>
+      <link>http://mikkeli.hacklab.fi/space-apps-game-on</link>
+      <description>After Data Bootcamp yesterday it was time to begin the  hackathon. First we had some nice keynotes from real space professionals: &quot;*Finland in space 1985-2015*&quot; by Pauli Stigell from [Tekes / Space Finland](http://spacefinland.fi/) and &quot;*Realtime satellite and space weather data for online use*&quot; by Ilkka Sillanpää from [Finnish Meteorology Institute](http://ilmatieteenlaitos.fi/tutkimustoiminta). 
+
+</description>
+      <pubDate>Sat, 11 Apr 2015 15:19:06 +0000</pubDate>
+      <dc:date>2015-04-11T15:19:06+00:00</dc:date>
+    </item>
+    <item>
+      <title>NASA Space Apps Challenge Data Bootcamp</title>
+      <link>http://mikkeli.hacklab.fi/spaceapps-challenge-mikkeli</link>
+      <description>NASA Space Apps Challengen [Mikkelin tapahtuma](http://spaceapps.hack4mikkeli.fi/) käynnistyi tänään data bootcampilla eli illan mittaisella tutustumisella dataan, ohjelmointiin ja toki kaiken mahdollisen hackaamiseen.
+
+</description>
+      <pubDate>Fri, 10 Apr 2015 18:59:33 +0000</pubDate>
+      <dc:date>2015-04-10T18:59:33+00:00</dc:date>
+    </item>
+    <item>
+      <title>Knobs Galore, osa 5</title>
+      <link>http://mikkeli.hacklab.fi/knobs-galore-osa-5</link>
+      <description>Tein äänisimulaation muutamista soundeista:
+
+</description>
+      <pubDate>Tue, 24 Mar 2015 15:30:11 +0000</pubDate>
+      <dc:date>2015-03-24T15:30:11+00:00</dc:date>
+    </item>
+    <item>
+      <title>Knobs Galore, osa 4</title>
+      <link>http://mikkeli.hacklab.fi/knobs-galore-osa-4</link>
+      <description>Rakensin pienen &quot;koskettimiston&quot; breadboardille, joten nyt härpäkettä voi soittaakin!
+
+</description>
+      <pubDate>Sat, 14 Mar 2015 11:44:52 +0000</pubDate>
+      <dc:date>2015-03-14T11:44:52+00:00</dc:date>
+    </item>
+    <item>
+      <title>Knobs Galore, osa 3</title>
+      <link>http://mikkeli.hacklab.fi/knobs-galore-osa-3</link>
+      <description>Nyt on jo ääninäytettä tarjolla!
+
+</description>
+      <pubDate>Fri, 13 Mar 2015 12:04:00 +0000</pubDate>
+      <dc:date>2015-03-13T12:04:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Knobs Galore, osa 2</title>
+      <link>http://mikkeli.hacklab.fi/knobs-galore-osa-2</link>
+      <description>Käytän syntetisaattorin runkona saksalaisen Simban *My Music World*-lelukosketinsoitinta. Kyseisellä nimellä myydään useita soittimia, mutta minun soittimeni on kuulemma oikein [modernin tyylinen](http://simbatoys.de/en/brands__products/my_music_world/keyboard_instruments/detail.shtml?sArtNr=106835366). Kosketinsoitin on varsin sopiva tarkoituksiini: siinä on juuri sopiva määrä näppäimiä käyttöliittymää varten ja se on melko pieni, mutta sen sisään on helppo laittaa esimerkiksi Papilio (tai muu piirilevy). Ennen kaikkea kuitenkin siinä koskettimisto ja näppäimistö ovat erillään itse elektroniikasta, lattakaapelilla yhdistettynä, joten ne on helppo yhdistää omiin tekeleisiini! Soitin maksoi uutena 14 euroa Mikkelin Prismassa.
+
+</description>
+      <pubDate>Tue, 10 Mar 2015 15:32:11 +0000</pubDate>
+      <dc:date>2015-03-10T15:32:11+00:00</dc:date>
+    </item>
+    <item>
+      <title>Knobs Galore, osa 1</title>
+      <link>http://mikkeli.hacklab.fi/knobs-galore-osa-1</link>
+      <description>Knobs Galore on kehitteillä oleva digitaalinen syntetisaattori, jota rakennan halvan lelupianon runkoon. Se toimii Casion CZ-linjan syntetisaattoreissaan käyttämällä vaihevääristymäsynteesitekniikalla, josta käytetään joskus lyhennettä *PD (Phase Distortion)*. PD:n voidaan kuvailla olevan jotakuinkin vaihemodulaatiosynteesin (&quot;FM&quot;-synteesi) ja analogisissa syntetisaattoreissa käytetyn subtraktiivisen synteesin välimaastossa. Valitsin vaihevääristymäsynteesin, koska FM:n verrattuna siinä on paljon vähemmän parametreja (joten se on helpompi oppia), ja toisin kuin subtraktiivisessa synteesissä, siinä ei tarvita digitaalisia suodattimia.
+
+</description>
+      <pubDate>Mon, 09 Mar 2015 19:00:15 +0000</pubDate>
+      <dc:date>2015-03-09T19:00:15+00:00</dc:date>
+    </item>
+    <item>
+      <title>KulttuuriKannustin-palkinto Hacklab Mikkelille</title>
+      <link>http://mikkeli.hacklab.fi/untitled-2</link>
+      <description>Hacklab Mikkeli on saanut 1000 euron KulttuuriKannustin-palkinnon. KulttuuriKannustin on Mikkelin kaupungin kulttuuri-, nuoriso- ja liikuntalautakunnan myöntämä palkinto, jonka tarkoituksena on edistää kaupungissa monipuolisia kulttuuriympäristöjä, pyrkiä luomaan uudenlaista otetta kulttuuriin ja taiteeseen sekä tarjota entistä monipuolisempia kulttuurimahdollisuuksia. 
+
+</description>
+      <pubDate>Thu, 05 Mar 2015 13:45:55 +0000</pubDate>
+      <dc:date>2015-03-05T13:45:55+00:00</dc:date>
+    </item>
+    <item>
+      <title>Yhdistys perustettu ja hallitus valittu</title>
+      <link>http://mikkeli.hacklab.fi/perustamiskirja-allekirjoitettu</link>
+      <description>Hacklab Mikkeli ry:n perustamiskokous järjestettiin 19.2.2015 ja paikalle saapuikin runsaasti väkeä. Paikkana oli tuttuun tapaan Mikkelin ammattikorkeakoulun Xinno. Yhdistyksen sääntöjä oli suunniteltu jo etukäteen tutustuen muiden hacklab-yhdistysten sääntöihin sekä hakemalla tukea Hacklab Summit Finlandista. Kovin rasittavasta tapahtumasta ei siis ollut kyse, lähinnä korjailtiin sanamuotoja ja täytettiin lomaketta Patentti- ja rekisterihallituksen verkkopalvelussa.
+
+</description>
+      <pubDate>Tue, 24 Feb 2015 10:39:45 +0000</pubDate>
+      <dc:date>2015-02-24T10:39:45+00:00</dc:date>
+    </item>
+    <item>
+      <title>Kutsu Hacklab Mikkeli ry:n perustamiskokoukseen</title>
+      <link>http://mikkeli.hacklab.fi/kutsu-hacklab-mikkeli-ryn-perustamiskokoukseen</link>
+      <description>Suunnittelu hacklab-toiminnan käynnistämisestä Mikkeliin on edennyt talven aikana ja on tullut aika perustaa yhdistys.
+
+</description>
+      <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
+      <dc:date>2015-02-17T14:58:27+00:00</dc:date>
+    </item>
+    <dc:date>2016-02-20T12:00:00+00:00</dc:date>
+  </channel>
+</rss>

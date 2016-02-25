@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- [[! Document Settings ]] -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- [[! Page Meta ]] -->
+    <title>Testing AtTiny85's</title>
+    <meta name="description" content="Hacklab Mikkeli - Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" >
+
+    <!-- [[! Styles'n'Scripts ]] -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css"
+          href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css" />
+    
+    <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
+        <link rel="canonical" href="/" />
+    <meta name="referrer" content="origin" />
+    <link rel="next" href="/page2/" />
+
+    <meta property="og:site_name" content="Hacklab Mikkeli" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Hacklab Mikkeli" />
+    <meta property="og:description" content="Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli" />
+    <meta property="og:url" content="/" />
+    <meta property="og:image" content="/assets/images/cover1.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Hacklab Mikkeli" />
+    <meta name="twitter:description" content="Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli" />
+    <meta name="twitter:url" content="/" />
+    <meta name="twitter:image:src" content="/assets/images/cover1.jpg" />
+
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Website",
+    "publisher": "Finding The Way Home",
+    "url": "/",
+    "image": "/assets/images/cover1.jpg",
+    "description": "Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli"
+}
+    </script>
+
+    <meta name="generator" content="Jekyll 3.0.0" />
+    <link rel="alternate" type="application/rss+xml" title="Hacklab Mikkeli" href="/rss.xml" />
+
+</head>
+<body class="post-template nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        <li class="nav-home " role="presentation"><a href="/">Home</a></li>
+        <li class="nav-about " role="presentation"><a href="/about">About</a></li>
+        <li class="nav-events " role="presentation"><a href="/tag/event">Events</a></li>
+        <li class="nav-projects " role="presentation"><a href="/tag/project">Projects</a></li>
+        <li class="nav-instructions " role="presentation"><a href="/instructions">Instructions</a></li>
+        <li class="nav-webshop role="presentation"><a href="https://holvi.com/shop/hacklabmikkeli/">Webshop</a></li>
+        <li class="nav-gh role="presentation"><a href="https://github.com/hacklabmikkeli">Github</a></li>
+        <li class="nav-twitter role="presentation"><a href="https://twitter.com/HacklabMikkeli">Twitter</a></li>
+        <li class="nav-fb role="presentation"><a href=" https://facebook.com/hacklabmikkeli">Facebook</a></li>
+        
+    </ul>
+    <a class="subscribe-button icon-feed" href="/rss.xml">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+    <div class="site-wrapper">
+
+        <!-- [[! Everything else gets inserted here ]] -->
+        <!-- < default -->
+
+<!-- The comment above "< default" means - insert everything in this file into -->
+    <!-- the [body] of the default.hbs template, which contains our header/footer. -->
+
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<header class="main-header post-head " style="background-image: url(http://i.imgur.com/sW9Hx79.jpg)  ">
+    <nav class="main-nav  overlay  clearfix">
+        
+        <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+
+    <article class="post tag-project">
+
+        <header class="post-header">
+            <h1 class="post-title">Testing AtTiny85's</h1>
+            <section class="post-meta">
+            <!-- <a href='/'>Hacklab Mikkeli</a> -->
+            <time class="post-date" datetime="2016-01-01">01 Jan 2016</time>
+                <!-- [[tags prefix=" on "]] -->
+                 
+                on 
+                
+                    
+                       <a href='/tag/project'>Project</a>
+                       
+                
+                
+            </section>
+        </header>
+
+        <section class="post-content">
+            
+            <p><em>Testing....</em>
+<img src="http://i.imgur.com/sW9Hx79.jpg" alt="AtTiny85_test">
+Some projects doesn&#39;t need big&#39;n beefy microcontroller, this little one can tackle many projects like RTC clock
+or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
+but some people have managed to install it as internal freguency.
+Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
+10hz led-blinker, but that&#39;s enough proof whether ic works at all, and It&#39;s fast to load this code.</p>
+
+<p>After testing, better to store these accordingly, ready to be used now:
+<img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
+
+
+        </section>
+
+        <footer class="post-footer">
+
+            <!-- Everything inside the #author tags pulls data from the author -->
+            <!-- #author-->
+
+            
+            <figure class="author-image">
+                <a class="img" href="/" style="background-image: url(/assets/images/alien_pink.svg)"><span class="hidden">'s Picture</span></a>
+            </figure>
+            
+
+            <section class="author">
+                <h4>Hacklab Mikkeli</h4>
+                
+                
+                    <p> An open and community-based workspace for people with interest in science, technology and digital arts</p>
+                
+                <div class="author-meta">
+                    <span class="author-location icon-location"> Mikkeli, FINLAND</span> 
+                    <span class="author-link icon-link"><a href="http://mikkeli.hacklab.fi"> mikkeli.hacklab.fi</a></span> 
+                </div>
+            </section>
+
+            <!-- /author  -->
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="http://twitter.com/share?text=Testing AtTiny85's&amp;url=http://mikkeli.hacklab.fiTesting%20AtTiny85's"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://mikkeli.hacklab.fiTesting%20AtTiny85's"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://mikkeli.hacklab.fiTesting%20AtTiny85's"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+            
+            <!-- Add Disqus Comments -->
+            
+            
+        </footer>
+
+    </article>
+
+</main>
+
+<aside class="read-next">
+
+    <!-- [[! next_post ]] -->
+    
+        <a class="read-next-story " style="background-image: url(/public/images/kuortti-3.jpg)" href="/industrial-hackathon-at-kuortti">
+            <section class="post">
+                <h2>Industrial Hackathon at Kuortti</h2>
+                <p>Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00...</p>
+            </section>
+        </a>
+    
+    <!-- [[! /next_post ]] -->
+    <!-- [[! prev_post ]] -->
+    
+        <a class="read-next-story prev " style="background-image: url(/public/images/fuug-2.jpg)" href="/elektroniikkalabran-varustelu">
+            <section class="post">
+                <h2>Elektroniikkalabran varustelu</h2>
+                <p>Hacklab Mikkelin ensimmäinen toimintavuosi alkaa lähestyä loppuaan. Vuoteen mahtui niin perustaminen helmikuussa kuin Fuugin säätiön...</p>
+            </section>
+        </a>
+    
+    <!-- [[! /prev_post ]] -->
+</aside>
+
+<!-- /post -->
+
+
+        <footer class="site-footer clearfix">
+          <section class="copyright"><a href="/">Hacklab Mikkeli</a> &copy; 2016</section>
+          <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> using <a href="https://github.com/biomadeira/jasper">Jasper</a></section>
+        </footer>
+    </div>
+    <!-- [[! Ghost outputs important scripts and data with this tag ]] -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- [[! The main JavaScript file for Casper ]] -->
+    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/assets/js/index.js"></script>
+
+    <!-- Add Google Analytics  -->
+        <!-- Google Analytics Tracking code -->
+     <script>
+	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	    ga('create', 'UA-59054179-1', 'auto');
+	    ga('send', 'pageview');
+
+     </script>   
+</body>
+</html>

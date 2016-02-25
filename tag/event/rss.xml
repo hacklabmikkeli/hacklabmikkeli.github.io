@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>mikkeli.hacklab.fi</title>
+   
+   <link>http://mikkeli.hacklab.fi</link>
+   <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
+   <language>en-uk</language>
+   <managingEditor> Hacklab Mikkeli</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Blender Course Report</title>
+	  <link>//blender-course-report</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-02-20T12:00:00+00:00</pubDate>
+	  <guid>//blender-course-report</guid>
+	  <description><![CDATA[
+	     <p>First course to begin our year 2016 was 3D modelling basics with <a href="http://www.blender.org/">Blender</a>. We asked what courses our community was interested in and 3D modelling basics was voted to first place. Luckily we have some talented Blender users in our members who also volunteered to lead the course. </p>
+
+<p><img src="/public/images/blender-course.jpg" alt="Photo: People at Blender course"> </p>
+
+<p>Earlier our courses have been about eletronics and robotics, so now we needed a whole different layout of tables and seating. Course material and instructing was also designed to suit the skills of participating people which varied from beginner to advanced. These facts made the course a test in many ways.</p>
+
+<p>Everything went fine. Even better than expected. Many of participants found 3D modelling interesting and want to learn more. Easily worth the early wakeup on Saturday morning.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Hacklab Mikkeli 1 Year!</title>
+	  <link>//hacklab-mikkeli-1-year</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-02-19T22:00:00+00:00</pubDate>
+	  <guid>//hacklab-mikkeli-1-year</guid>
+	  <description><![CDATA[
+	     <p>We have survived as a registered association for one whole year! One year ago we met and decided to make this thing official - 19 brave hackers signed our charter of foundation. Of course we had began planning the hacklab earlier but after receiving huge support from other Finnish hacklabs at Hacklab Summit Finland 2015 in Tampere we had to make the move. After that we have found a place for our hacklab, renovated it to suit our purposes and after that had fun participating and arranging many wonderful events. </p>
+
+<p>It was time for cake!</p>
+
+<p><img src="/public/images/cake.jpg" alt="alt"></p>
+
+<p>We would like to thank all those wonderful people, companies and institutions who have supported us during our first year!</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Mikkeli Maker Day</title>
+	  <link>//mikkeli-maker-day</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-02-13T10:45:00+00:00</pubDate>
+	  <guid>//mikkeli-maker-day</guid>
+	  <description><![CDATA[
+	     <p>We were invited to plan and execute a small event at local library. Something that involves different examples from our hacklab projects. Something that could make people from junior to senior happy. Something that we can handle with our resources. We would also need a nice name for the event... mmh... this was the most difficult part. Eventually someone screamed out something like Mikkeli Maker Day. Close enough.</p>
+
+<p>The plan was simple: let&#39;s gather our things and carry them there. First on display was an arcade cabinet (12 mm mdf, Retropie, some used parts, some new parts):</p>
+
+<p><img src="/public/images/mmd4.JPG" alt="alt"></p>
+
+<p>Of course we had to bring our tweeting cactus, Teuvo (he is @TeuvoHacklabMLI):</p>
+
+<p><img src="/public/images/mmd3.JPG" alt="alt"> </p>
+
+<p>...and Seppo, the clever robot seen at HSF&#39;16:</p>
+
+<p><img src="/public/images/mmd2.JPG" alt="alt"></p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Seppo the <a href="https://twitter.com/hashtag/Robot?src=hash">#Robot</a> and unexpected obstacles appearing in his way... <a href="https://twitter.com/hashtag/Mikkeli?src=hash">#Mikkeli</a> <a href="https://twitter.com/hashtag/Maker?src=hash">#Maker</a> <a href="https://twitter.com/hashtag/Day?src=hash">#Day</a> <a href="https://twitter.com/Mikkelikirjasto">@Mikkelikirjasto</a> <a href="https://twitter.com/hashtag/ERNOD?src=hash">#ERNOD</a> <a href="https://t.co/kyy6AUhNfU">pic.twitter.com/kyy6AUhNfU</a></p>&mdash; Hacklab Mikkeli (@HacklabMikkeli) <a href="https://twitter.com/HacklabMikkeli/status/698455624229715969">February 13, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>More photos and some videos can be found at Hacklab Mikkeli&#39;s <a href="https://twitter.com/HacklabMikkeli">Twitter</a> and <a href="https://www.facebook.com/hacklabmikkeli/">Facebook</a> accounts.</p>
+
+<p><i>The inviting party for the event was Mikkeli City Library working in co-operation with ERNOD project. They had a media club which themed in finding a use for discarded library books.</i></p>
+
+<p><img src="/public/images/mmd5.JPG" alt="alt"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Industrial Hackathon at Kuortti</title>
+	  <link>//industrial-hackathon-at-kuortti</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-01-01T20:09:41+00:00</pubDate>
+	  <guid>//industrial-hackathon-at-kuortti</guid>
+	  <description><![CDATA[
+	     <p>Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00 at Kuortti. This time it was <a href="http://www.industrialhackathon.fi/">Industrial Hackathon</a> with aim to improve processes of two local companies. These two hosting companies are <a href="http://www.pelaser.fi/">Pelaser</a> <a href="http://www.plastep.fi/">Plastep</a>. Pelaser works with processing steel plates and sheet metal parts. Plastep is a plastic production company.</p>
+
+<p><img src="/public/images/kuortti-1.jpg" alt="alt"></p>
+
+<p>Challenges for Pelaser are about logistics and pricing. Finding a solution or developing an application to improve the transparency and efficiency of internal logistics. The pricing challenge in detail is to find a solution or develop an application that intelligently automates the interal product pricing process.</p>
+
+<p><img src="/public/images/kuortti-2.jpg" alt="alt"></p>
+
+<p>Plastep challenges concentrate on common operational picture and quality. The challenges about common operational picture could be solved by developing an application that improvaes situational awareness of production status. Quality challenge aims to improve quality control and traceability throughout the whole manufacturing process. </p>
+
+<p><img src="/public/images/kuortti-3.jpg" alt="alt"></p>
+
+<p>It was also really nice to meet again people who participated our <a href="http://mikkeli.hacklab.fi/2015/04/13/space-apps-challenge-8-great-projects-as-a-result/">NASA Space Apps Hackathon</a> in April 2015. All of them had the same enthusiasm as before to solve the given challenges. About 18 hours time left for hacking...</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>CodeWeek EU and IoT Hackathon</title>
+	  <link>//codeweek-eu</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2015-10-12T17:25:41+00:00</pubDate>
+	  <guid>//codeweek-eu</guid>
+	  <description><![CDATA[
+	     <p>To celebrate <a href="http://www.codeweek.eu/">the Europe Code Week 2015</a> Hacklab Mikkeli organized its own event in Mikkeli. Our event was built from bunch of different sub-events. The major event was Internet of Things Hackathon which describes itself with its name. Other events included planning and luckily also starting local <a href="http://koodikerho.fi/">Koodikerho</a> activity, 3D modelling and printing workshop, <a href="http://www.apisuomi.fi/">API:Suomi</a> meeting which lead to starting API Meetup community to Mikkeli, and last but not least <a href="http://openfinlandchallenge.fi/">Open Finland Challenge</a> workshop.</p>
+
+<p><img src="/public/images/hackathon-liste.jpg" alt="Hacklab Mikkeli member liste teaching some basics of electronics"></p>
+
+<p>One quite interesting project was presented by locusf (Aleksi Suomalainen) from <a href="http://kuopio.hacklab.fi/">Kuopio Hacklab</a>. He has been working on a project that combines Raspberry Pi with SailfishOS. A SailPi tablet. For more detailed information see his blog article: <a href="https://sailpi.wordpress.com/2015/10/11/deployment-and-use-of-the-sailpi-tablet-as-real-standalone-tablet/">Deployment and use of the SailPi tablet as real standalone tablet</a></p>
+
+<p><img src="/public/images/hackathon-boots.jpg" alt=""></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Digital City Adventure 2015</title>
+	  <link>//digital-city-adventure-2015</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2015-10-04T14:25:41+00:00</pubDate>
+	  <guid>//digital-city-adventure-2015</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli had a possibility to host a checkpoint in Digital City Adventure 2015. Of course we accepted the challenge and did our best making the checkpoint a nice experience for all participants.</p>
+
+<p><img src="/public/images/dks-1.jpg" alt=""></p>
+
+<p>Digital City Adventure is a 24-hour event where the whole city of Mikkeli turns into a digital playfield. Participants explore the city and solve puzzles at the checkpoints using their own mobile devices. For more information see <a href="http://www.digitaalinenkaupunkiseikkailu.fi/info/en/">Digital City Adventure site</a>.</p>
+
+<p><img src="/public/images/dks-2.jpg" alt=""></p>
+
+<p>We opened our checkpoint same the game began. Within first ten minutes participants started arriving. First it looked like we can handle the situation easily. We could even count the visitors. We could instruct the visitors making a protective gear against harmful radiation. </p>
+
+<p>After first hour things changed. The hacklab was totally crowded. All 90 meters of tin foil was used. No more protection. In total we counted 210 visitors. Real figure is something like &plusmn;50. In any case lots of nice people, lots of them interested in hacklab activity. We hope to see them again on open Thursdays!</p>
+
+<p><img src="/public/images/dks-3.jpg" alt=""></p>
+
+<p>Part of our checkpoint was this weird gizmo. Something the Digital City Adventure participants had to solve to get full points from our checkpoint. First they had to access our local network by using social engineering. </p>
+
+<p>Next they had to access web server - once again by using social engineering for clues - to control lights. In certain combination the lights made it possible to hear the correct code for the checkpoint. In Morse code.</p>
+
+<p><em>Hacklab Mikkeli&#39;s late summer has been busy. We have been building programmable robots with 7th graders (see <a href="http://yle.fi/uutiset/robotiikka_tulee_peruskouluihin_kylla_tama_aina_ruotsintunnit_voittaa/8299602">YLE News</a> for details). We also spent one whole day at Mikkeli University of Applied Sciences on a Hobby Fair recruiting new members.</em></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Jurassic Rock 2015</title>
+	  <link>//jurassic-rock-2015</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2015-08-15T12:47:42+00:00</pubDate>
+	  <guid>//jurassic-rock-2015</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkelille tarjoutui mahdollisuus osallistua Jurassic Rock festareiden yhteydessä järjestettyyn Designer&#39;s + Hacker&#39;s Corner - markkinointitapahtumaan. Tapahtuman tarkoitus oli markkinoida syksyllä Mikkelissä järjestettävää Mikkeli art &amp; design week tapahtumaa sekä paikallista käsityöläis- ja &quot;maker&quot; osaamista.</p>
+
+<p>Hacklab Mikkelin osuus tapahtumassa oli esitellä 3D-tulostamista sekä yleisesti kertoa hacklab-toiminnasta.</p>
+
+<p><img src="/public/images/jura-1.jpg" alt=""></p>
+
+<p>Kiinnostus 3D-tulostusta kohtaan oli suurta ja kojulla kävikin viikonlopun aikana reippaasti ihmettelijöitä. Myös hacklabin toiminnasta oltiin kovasti kiinnostuneita. Markkinoinnin tuloksista ei vielä ole raportoitavaa mutta toivotaan että joku eksyisi kojulta myös &quot;keskiviikko-hack&quot;:iin.</p>
+
+<p>Tapahtumaan osallistuminen oli ainakin allekirjoittaneen mielestä positiivinen kokemus ja tässä kohtaa pitääkin muistaa kiittää kaikkia tapahtumaan osallistuneita mukavasta viikonlopusta. Mielestäni hacklabin kannattaa myös jatkossa osallistua vastaaviin tapahtumiin, jatkossa voitaisiin tuoda esille myös muuta kun 3D-tulostus teknologiaa.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>HSF15½</title>
+	  <link>//hsf1512</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2015-07-20T10:21:46+00:00</pubDate>
+	  <guid>//hsf1512</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli otti osaa HSF15½ tapahtumaan joka järjestettiin Helsinki Hacklabin tiloissa. Mikkelin lisäksi tapahtumaan osallistui porukkaa Helsingin, Turun, Tampereen, Porin ja Vaasan Hacklabeilta.</p>
+
+<p>Viikonlopun aikana ohjelmassa oli mm. paintballia, kierros patterimäen linnoitusalueella, robokisa, saunomista ja grillausta sekä paljon muuta. Häpeäkseen Mikkeli ei kerennyt mukaan robokisaan tällä kertaa mutta seuraavalla kerralla luvataan yrittää kovemmin. Kilpailussa radan kaltevuus, ahtaus sekä maasto-olosuhteet pääsivät yllättämään osan kilpailijoista mutta voiton vei kuitenkin Tampereen O10-nimeä kantanut robotti. </p>
+
+<p>Myöskin Hacklab.fi yhteistyön kehittämistä suunniteltiin ja päätettiin mm.</p>
+
+<ul>
+<li>Siirtää #hacklab.fi kanava IRCnetistä freenodeen.</li>
+<li>Säilyttää &quot;organisaation&quot; nimi hacklab.fi</li>
+<li>Uudistaa hacklab.fi nettisivu.</li>
+</ul>
+
+<p>Suuret kiitokset Helsinki Hacklabille hyvin järjestetystä tapahtumasta sekä kaikille osallistujille mukavasta viikonlopusta.</p>
+
+<p><img src="/public/images/hsf1512-1.jpg" alt="HSF15½"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Making things in Pielavesi</title>
+	  <link>//making-things-in-pielavesi</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2015-05-18T12:26:18+00:00</pubDate>
+	  <guid>//making-things-in-pielavesi</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli was invited to &quot;Wärkkee-päevä&quot; in Pielavesi to host a basic workshop about programmable robots and 3D printing. Audience for the workshop was supposed to be all visitors of the event but in particular the students of local schools.</p>
+
+<p>Programmable robots for students? First that felt like a challenge but soon we managed to gather our ideas together. We had a clue that they teach <a href="https://scratch.mit.edu/">Scratch</a> programming language in schools in Pielavesi. Scratch itself sounds great: it is open source, it works with most major operating systems and it is said to be quite easy way to get introduced into programming.</p>
+
+<p>So Scratch for software, what about hardware? <a href="http://www.arduino.cc/">Arduino</a> was our first idea. It is open source just like Scratch and can be acquired easily at low price. Arduino has also pretty nice userbase. Boards we used in our case were Arduino Uno clones. Luckily for us there is a project called <a href="http://www.s4a.cat/">S4A</a> which is a modified version of Scratch that works with Arduino.</p>
+
+<p>We wanted to keep &quot;the robot&quot; simple. Nothing too difficult but still enough functionality to be enjoyable for all ages and skill levels. In the future the students can equip it for example with sensors or break it down into pieces and use the Arduinos for something completely different. Three wheels, two motors, one Arduino. Powered by either USB or 4 x AA batteries.</p>
+
+<p><img src="/public/images/pielavesi-robotti.jpg" alt=""></p>
+
+<p>But the technical part was only half of the whole workshop. Next we needed to instruct and teach the young ones how to work with the robots. Most of the people didn&#39;t know about programming, some were familiar with basic logics of programming with Scratch. All four of us from Hacklab Mikkeli had a great day making robots with local people.</p>
+
+<p><img src="/public/images/pielavesi-belvain.jpg" alt=""></p>
+
+<p>We weren&#39;t the only group presenting their do-it-yourself hobby. Around 30 other groups joined the fun with activities ranging from park yoga to cupcake decoration workshop. It felt like the whole community was there enjoying their Saturday.</p>
+
+<p>It was nice to notice how creative and enthusiastic kids can be. Local school had participated in <a href="http://tech.teknologiateollisuus.fi/openet/fi/tamatoimii.html">Tämä toimii!</a> challenge where teams formed of 4th-6th graders create totally new toys from pre-assigned set of materials. Case presented at the event was called <em>Disco-Doggy</em>. Two tiny motors making weird noise and moving it around. Impressive!</p>
+
+<p><img src="/public/images/pielavesi-discodoggy.jpg" alt=""></p>
+
+<p>The event was part of pilot project run by <a href="http://www.sitra.fi/en">the Finnish Innovation Fund Sitra</a>. Sitra&#39;s New Education Forum and its projects aim to explore ways in which Finnish education can be improved. We enjoyed the whole trip having fun together with people and the great hospitality of our hosts. Thank you!</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Space Apps Challenge Mikkeli - 8 great projects as a result</title>
+	  <link>//space-apps-challenge-8-great-projects-as-a-result</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2015-04-13T11:16:34+00:00</pubDate>
+	  <guid>//space-apps-challenge-8-great-projects-as-a-result</guid>
+	  <description><![CDATA[
+	     <p>Space Apps Challenge Mikkeli was one wonderful weekend. No question about it. 74 registered participants which of great majority arrived and started working on NASA Challenges. On Sunday afternoon it was time for the award ceremony...</p>
+
+<p><img src="/public/images/spaceapps-1.jpg" alt=""></p>
+
+<p>First prize went to <a href="https://2015.spaceappschallenge.org/project/spaceshield/">SpaceShield</a> team. Four students from Mikkeli University of Applied Sciences successfully solved the <a href="https://2015.spaceappschallenge.org/challenge/neuromorphic-studies-asteroid-imagery/">Neuromorphic Studies of Asteroid Imagery</a>. Lots of excellent work which also received enthusiastic feedback from NASA. You should take a look at their comprehensive <a href="https://spaceshield.hackpad.com/SpaceShield-MW4Tamjypzr#:h=Results">report</a>.</p>
+
+<p><img src="/public/images/spaceapps-2.jpg" alt=""></p>
+
+<p>We as Hacklab Mikkeli wanted to award two teams - insteaf of just one as planned - due to extreme dedication on hacking shown by both two teams. <em>Hacking &gt; sleep</em>. Also keeping up the morale in the hackathon was considered a nice bonus. Both teams did meet their goals and break their technical skill limits. Some might say this was a learning experience. The awarded teams were <a href="https://2015.spaceappschallenge.org/project/isstagram/">2 Guys 1 ISS</a> and <a href="https://2015.spaceappschallenge.org/project/fast-aid-kit/">Challenge? Accepted!</a>.</p>
+
+<p>This was <span style="text-decoration:line-through;">maybe</span> the biggest hackathon ever in Mikkeli. Wonderful people. Wonderful weekend. Wonderful hacking. Wonderful sponsors. Wonderful organizing teams. Hacklab Mikkeli will be definitely arranging more events like this.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
