@@ -20,18 +20,22 @@ Pävitykseen tarvitset seuraavat työkalut: (Klikkaa työkalun nimeä päästäk
 
 ### Nettisivujen päivitys:
 
-1.Kloonaa repository
+Kloonaa repository
+
     git clone git@github.com:hacklabmikkeli/hacklabmikkeli.github.io.git
 
-2.Vaihda oikeaan branchiin
+Vaihda oikeaan branchiin
+
     git checkout source
 
-3.Tee haluamasi muokkaukset / lisäykset. Voit kokeilla muutoksia ajamalla komennon `jekyll serve` joka kääntää sivuston ja hostaa sen paikallisesti osoitteessa [http://localhost:4000](http://localhost:4000)
+Tee haluamasi muokkaukset / lisäykset. Voit kokeilla muutoksia ajamalla komennon `jekyll serve` joka kääntää sivuston ja hostaa sen paikallisesti osoitteessa [http://localhost:4000](http://localhost:4000)
 
-4.Tee commit
+Tee commit
+
     git commit -m 'Tein sitä ja tätä ja tuota'
 
-5.Puske muutokset takaisin githubiin. (huomioi tässäkin nimenomaan 'source' branchin käyttö)
+Puske muutokset takaisin githubiin. (huomioi tässäkin nimenomaan 'source' branchin käyttö)
+
     git push origin source
 
 Muutaman minuutin kuluttua travis kääntää uuden version nettisivusta ja julkaisee käännetyn html:än master branchiin jolloin muutokset ovat nähtävissä nettisivuilla.
