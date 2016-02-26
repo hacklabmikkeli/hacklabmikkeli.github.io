@@ -124,20 +124,20 @@ Hacklabin nettisivut löytyvät <a href="https://github.com/hacklabmikkeli/hackl
 
 <h3>Nettisivujen päivitys:</h3>
 
-<p>1.Kloonaa repository
-    git clone git@github.com:hacklabmikkeli/hacklabmikkeli.github.io.git</p>
+<p>Kloonaa repository</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">git clone git@github.com:hacklabmikkeli/hacklabmikkeli.github.io.git
+</code></pre></div>
+<p>Vaihda oikeaan branchiin</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">git checkout source
+</code></pre></div>
+<p>Tee haluamasi muokkaukset / lisäykset. Voit kokeilla muutoksia ajamalla komennon <code>jekyll serve</code> joka kääntää sivuston ja hostaa sen paikallisesti osoitteessa <a href="http://localhost:4000">http://localhost:4000</a></p>
 
-<p>2.Vaihda oikeaan branchiin
-    git checkout source</p>
-
-<p>3.Tee haluamasi muokkaukset / lisäykset. Voit kokeilla muutoksia ajamalla komennon <code>jekyll serve</code> joka kääntää sivuston ja hostaa sen paikallisesti osoitteessa <a href="http://localhost:4000">http://localhost:4000</a></p>
-
-<p>4.Tee commit
-    git commit -m &#39;Tein sitä ja tätä ja tuota&#39;</p>
-
-<p>5.Puske muutokset takaisin githubiin. (huomioi tässäkin nimenomaan &#39;source&#39; branchin käyttö)
-    git push origin source</p>
-
+<p>Tee commit</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">git commit -m &#39;Tein sitä ja tätä ja tuota&#39;
+</code></pre></div>
+<p>Puske muutokset takaisin githubiin. (huomioi tässäkin nimenomaan &#39;source&#39; branchin käyttö)</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">git push origin source
+</code></pre></div>
 <p>Muutaman minuutin kuluttua travis kääntää uuden version nettisivusta ja julkaisee käännetyn html:än master branchiin jolloin muutokset ovat nähtävissä nettisivuilla.</p>
 
         </section>
