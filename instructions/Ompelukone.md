@@ -6,8 +6,6 @@ logo: 'assets/images/alien_pink.svg'
 category: instructions
 ---
 
-#Ompelukoneen käyttöohje
-
 Ohjevideo (editoimaton): https://drive.google.com/file/d/1UhoMytGWlz8mRZLl0J-rlAa0xGKu0C9uaw/view
 
 * Käyttää teollisuusompelukoneeseen sopivia pyöreitä neuloja, tavalliset neulat eivät käy.

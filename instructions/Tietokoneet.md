@@ -6,8 +6,6 @@ logo: 'assets/images/alien_pink.svg'
 category: instructions
 ---
 
-# Tietokoneet
-
 Hacklab ei olisi hacklab ilman tietokoneita, tästä johtuen tarjoamme tietokoneita eri käyttötarkoituksiin. Lisäksi voit tietenkin tuoda oman tietokoneesi.
 
 Hacklabin tietokoneiden yleiskäyttäjän ***tunnus ja salasana on hacklab***. Ethän kuitenkaan asenna koneille mitään sellaista mikä estää/häiritsee niiden käyttöä.
