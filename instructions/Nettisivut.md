@@ -18,7 +18,7 @@ Pävitykseen tarvitset seuraavat työkalut: (Klikkaa työkalun nimeä päästäk
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Jekyll](http://jekyllrb.com/docs/installation/) (jos haluat kokeilla muutoksia lokaalisti ennen julkaisua)
 
-### Nettisivujen päivitys:
+#### Työnkulku:
 
 Kloonaa repository
 
