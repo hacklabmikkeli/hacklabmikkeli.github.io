@@ -6,8 +6,6 @@ logo: 'assets/images/alien_pink.svg'
 category: instructions
 ---
 
-# LASER CUTTER – LASER ENGRAVER
-
 _(Documentation written by Vaasa Hacklab, https://vaasa.hacklab.fi/)_
 
 25 W CO<sub>2</sub> tube laser cutter with a working area of 70 mm by 120 mm capable of cutting paper, cardboard, acrylic up to 6 mm and wood and plywood (~ 4 mm).
@@ -36,8 +34,6 @@ Engrave (https://10.10.0.21:631/printers/Laser)
 If the laptop for some reason does not boot the original power button is on top of the laptop on a separate circuit board. The button is the one furthest away from the joining connector. The power led is blue.
 
 When the system is up and running you can print Generic Postscript to the laser. Known to work is Microsoft Publisher (imaging) driver.
-
----
 
 Tulostettaessa kaivertimelle kannattaa ilmeisesti käyttää custom-paperikokoa ja määritellä kooksi 120 x 70mm.
 
