@@ -12,6 +12,27 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Started doing car computer</title>
+	  <link>//Starting%20of%20car%20computer</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-03-03T22:46:41+00:00</pubDate>
+	  <guid>//Starting%20of%20car%20computer</guid>
+	  <description><![CDATA[
+	     <p>Long time I&#39;ve longed for this project as I lacked skill. Now was great time for this project, as I&#39;ve stumbled on teensy 3.2. 
+Teensy 3.2 has horsepower and memory for pretty much all projects possiblse, and in this case I&#39;m planning to combine quite many tasks
+to one microcontroller; car computer data, RTC, gps tracking(which also has combined feature of theft-alarm, using SIM800L) as well as
+real-time audio manipulation along FFT. First things first, I started checking simple commands, like read battery voltage, and true indeed,
+it worked. The device I use for talking with car computer (ECU) is sparkfun&#39;s obd-uart board, which allows any serial capable device to serve as end-terminal
+for diagnostics.
+I&#39;ve so far managed to put code that allows pretty much all real-time data to be checked, even throttle and stress levels, as well as draw bar display of reguested values.
+In this photo is initial test which has echo as well as carbage characters, but they were ok back the initial testing whether my car&#39;s protocol is supported or not.
+Also, screen is in photo 20x4 alphanumeric LCD, but currently I&#39;m using 0,96&quot; 128x32 OLED, it has many benefits over lcd, except size, but I&#39;ll place it anyway right on front of my eyes so 0,96&quot; is enought.
+<img src="http://i.imgur.com/taSULgy.jpg?1" alt="computer"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>7-band equalizer</title>
 	  <link>//seven-band-equalizer</link>
 	  <author>Hacklab Mikkeli</author>

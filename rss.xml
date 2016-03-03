@@ -8,7 +8,26 @@
     <title>Hacklab Mikkeli</title>
     <link>http://mikkeli.hacklab.fi</link>
     <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
-    <pubDate>Sat, 20 Feb 2016 12:00:00 +0000</pubDate>
+    <pubDate>Thu, 03 Mar 2016 22:46:41 +0000</pubDate>
+    <item>
+      <title>Started doing car computer</title>
+      <link>http://mikkeli.hacklab.fi/Starting%20of%20car%20computer</link>
+      <description>Long time I've longed for this project as I lacked skill. Now was great time for this project, as I've stumbled on teensy 3.2. 
+Teensy 3.2 has horsepower and memory for pretty much all projects possiblse, and in this case I'm planning to combine quite many tasks
+to one microcontroller; car computer data, RTC, gps tracking(which also has combined feature of theft-alarm, using SIM800L) as well as
+real-time audio manipulation along FFT. First things first, I started checking simple commands, like read battery voltage, and true indeed,
+it worked. The device I use for talking with car computer (ECU) is sparkfun's obd-uart board, which allows any serial capable device to serve as end-terminal
+for diagnostics.
+I've so far managed to put code that allows pretty much all real-time data to be checked, even throttle and stress levels, as well as draw bar display of reguested values.
+In this photo is initial test which has echo as well as carbage characters, but they were ok back the initial testing whether my car's protocol is supported or not.
+Also, screen is in photo 20x4 alphanumeric LCD, but currently I'm using 0,96&quot; 128x32 OLED, it has many benefits over lcd, except size, but I'll place it anyway right on front of my eyes so 0,96&quot; is enought.
+![computer](http://i.imgur.com/taSULgy.jpg?1)
+
+
+</description>
+      <pubDate>Thu, 03 Mar 2016 22:46:41 +0000</pubDate>
+      <dc:date>2016-03-03T22:46:41+00:00</dc:date>
+    </item>
     <item>
       <title>Blender Course Report</title>
       <link>http://mikkeli.hacklab.fi/blender-course-report</link>
@@ -249,6 +268,6 @@ Dark room, power on:
       <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
       <dc:date>2015-02-17T14:58:27+00:00</dc:date>
     </item>
-    <dc:date>2016-02-20T12:00:00+00:00</dc:date>
+    <dc:date>2016-03-03T22:46:41+00:00</dc:date>
   </channel>
 </rss>

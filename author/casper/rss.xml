@@ -12,6 +12,27 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Started doing car computer</title>
+	  <link>//Starting%20of%20car%20computer</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-03-03T22:46:41+00:00</pubDate>
+	  <guid>//Starting%20of%20car%20computer</guid>
+	  <description><![CDATA[
+	     <p>Long time I&#39;ve longed for this project as I lacked skill. Now was great time for this project, as I&#39;ve stumbled on teensy 3.2. 
+Teensy 3.2 has horsepower and memory for pretty much all projects possiblse, and in this case I&#39;m planning to combine quite many tasks
+to one microcontroller; car computer data, RTC, gps tracking(which also has combined feature of theft-alarm, using SIM800L) as well as
+real-time audio manipulation along FFT. First things first, I started checking simple commands, like read battery voltage, and true indeed,
+it worked. The device I use for talking with car computer (ECU) is sparkfun&#39;s obd-uart board, which allows any serial capable device to serve as end-terminal
+for diagnostics.
+I&#39;ve so far managed to put code that allows pretty much all real-time data to be checked, even throttle and stress levels, as well as draw bar display of reguested values.
+In this photo is initial test which has echo as well as carbage characters, but they were ok back the initial testing whether my car&#39;s protocol is supported or not.
+Also, screen is in photo 20x4 alphanumeric LCD, but currently I&#39;m using 0,96&quot; 128x32 OLED, it has many benefits over lcd, except size, but I&#39;ll place it anyway right on front of my eyes so 0,96&quot; is enought.
+<img src="http://i.imgur.com/taSULgy.jpg?1" alt="computer"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Blender Course Report</title>
 	  <link>//blender-course-report</link>
 	  <author>Hacklab Mikkeli</author>
@@ -303,36 +324,6 @@ And couple of shots from different situations, mainly to show how mirror plating
 <p>One quite interesting project was presented by locusf (Aleksi Suomalainen) from <a href="http://kuopio.hacklab.fi/">Kuopio Hacklab</a>. He has been working on a project that combines Raspberry Pi with SailfishOS. A SailPi tablet. For more detailed information see his blog article: <a href="https://sailpi.wordpress.com/2015/10/11/deployment-and-use-of-the-sailpi-tablet-as-real-standalone-tablet/">Deployment and use of the SailPi tablet as real standalone tablet</a></p>
 
 <p><img src="/public/images/hackathon-boots.jpg" alt=""></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Digital City Adventure 2015</title>
-	  <link>//digital-city-adventure-2015</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-10-04T14:25:41+00:00</pubDate>
-	  <guid>//digital-city-adventure-2015</guid>
-	  <description><![CDATA[
-	     <p>Hacklab Mikkeli had a possibility to host a checkpoint in Digital City Adventure 2015. Of course we accepted the challenge and did our best making the checkpoint a nice experience for all participants.</p>
-
-<p><img src="/public/images/dks-1.jpg" alt=""></p>
-
-<p>Digital City Adventure is a 24-hour event where the whole city of Mikkeli turns into a digital playfield. Participants explore the city and solve puzzles at the checkpoints using their own mobile devices. For more information see <a href="http://www.digitaalinenkaupunkiseikkailu.fi/info/en/">Digital City Adventure site</a>.</p>
-
-<p><img src="/public/images/dks-2.jpg" alt=""></p>
-
-<p>We opened our checkpoint same the game began. Within first ten minutes participants started arriving. First it looked like we can handle the situation easily. We could even count the visitors. We could instruct the visitors making a protective gear against harmful radiation. </p>
-
-<p>After first hour things changed. The hacklab was totally crowded. All 90 meters of tin foil was used. No more protection. In total we counted 210 visitors. Real figure is something like &plusmn;50. In any case lots of nice people, lots of them interested in hacklab activity. We hope to see them again on open Thursdays!</p>
-
-<p><img src="/public/images/dks-3.jpg" alt=""></p>
-
-<p>Part of our checkpoint was this weird gizmo. Something the Digital City Adventure participants had to solve to get full points from our checkpoint. First they had to access our local network by using social engineering. </p>
-
-<p>Next they had to access web server - once again by using social engineering for clues - to control lights. In certain combination the lights made it possible to hear the correct code for the checkpoint. In Morse code.</p>
-
-<p><em>Hacklab Mikkeli&#39;s late summer has been busy. We have been building programmable robots with 7th graders (see <a href="http://yle.fi/uutiset/robotiikka_tulee_peruskouluihin_kylla_tama_aina_ruotsintunnit_voittaa/8299602">YLE News</a> for details). We also spent one whole day at Mikkeli University of Applied Sciences on a Hobby Fair recruiting new members.</em></p>
 
 	  ]]></description>
 	</item>
