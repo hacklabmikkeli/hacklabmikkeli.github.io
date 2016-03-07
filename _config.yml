@@ -22,7 +22,7 @@ google_analytics: UA-59054179-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
-
+rss_name: feed.xml
 # Permalinks
 permalink: /:title
 # permalink: /author/:username
