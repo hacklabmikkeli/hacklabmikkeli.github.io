@@ -12,6 +12,35 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Car voltage meter</title>
+	  <link>//Car%20voltage%20meter</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-03-17T22:46:41+00:00</pubDate>
+	  <guid>//Car%20voltage%20meter</guid>
+	  <description><![CDATA[
+	     <p>Part of this bigger project, car computer, I wanted sepatate meter for voltage, in case of alternator fault.
+Idea is simple; voltage divider circuit converts voltage for more suitable level for AtTiny85 that can handle up to 5 volts to ADC (analog to digital converter
+and Attiny then converts this data and shows it in 7-segment display. Also there is bargraph display to give another perspective, easier to look on-road that charge level is in &quot;green&quot;
+region, not too much or too low.
+<img src="http://i.imgur.com/bvQljwu.jpg" alt="voltagemetercircuit"></p>
+
+<p>Once again, prototyping started at breadboard, and I also made AtTiny programming shield for easier coding sessions, no need to play that much with jumper wires.
+<img src="http://i.imgur.com/QUHLYzB.jpg" alt="voltagemeterbreadboard">
+<img src="http://i.imgur.com/RMdzoNE.jpg" alt="voltagemetershield"></p>
+
+<p>There was quite chore to place all stuff in confined area (inline fuse is also coming in final installation):
+<img src="http://i.imgur.com/oflhAzT.jpg" alt="voltagemeterproto">
+<img src="http://i.imgur.com/vHHT4UJ.jpg" alt="voltagemeterproto1"></p>
+
+<p>Another trouble was finding suitable enclosure, but recently bought 52mm dashboard meter casings, and all that was needed was meter panel, solution was 3d-printer.
+<img src="http://i.imgur.com/AFH2g7X.jpg" alt="voltagemeter3dprint">
+And in the end, it looks quite good in dark too:
+<img src="http://i.imgur.com/kgAxl9h.jpg?1" alt="voltagemeterdark"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Started doing car computer</title>
 	  <link>//Starting%20of%20car%20computer</link>
 	  <author>Hacklab Mikkeli</author>
@@ -123,6 +152,27 @@ as well as control real time FFT. But, even this simple version works well:</p>
 	</item>
 
 	<item>
+	  <title>Testing AtTiny85's</title>
+	  <link>//Testing%20AtTiny85's</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-01-01T20:09:41+00:00</pubDate>
+	  <guid>//Testing%20AtTiny85's</guid>
+	  <description><![CDATA[
+	     <p><em>Testing....</em>
+<img src="http://i.imgur.com/sW9Hx79.jpg" alt="AtTiny85_test">
+Some projects doesn&#39;t need big&#39;n beefy microcontroller, this little one can tackle many projects like RTC clock
+or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
+but some people have managed to install it as internal freguency.
+Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
+10hz led-blinker, but that&#39;s enough proof whether ic works at all, and It&#39;s fast to load this code.</p>
+
+<p>After testing, better to store these accordingly, ready to be used now:
+<img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Industrial Hackathon at Kuortti</title>
 	  <link>//industrial-hackathon-at-kuortti</link>
 	  <author>Hacklab Mikkeli</author>
@@ -142,27 +192,6 @@ as well as control real time FFT. But, even this simple version works well:</p>
 <p><img src="/public/images/kuortti-3.jpg" alt="alt"></p>
 
 <p>It was also really nice to meet again people who participated our <a href="http://mikkeli.hacklab.fi/2015/04/13/space-apps-challenge-8-great-projects-as-a-result/">NASA Space Apps Hackathon</a> in April 2015. All of them had the same enthusiasm as before to solve the given challenges. About 18 hours time left for hacking...</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Testing AtTiny85's</title>
-	  <link>//Testing%20AtTiny85's</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2016-01-01T20:09:41+00:00</pubDate>
-	  <guid>//Testing%20AtTiny85's</guid>
-	  <description><![CDATA[
-	     <p><em>Testing....</em>
-<img src="http://i.imgur.com/sW9Hx79.jpg" alt="AtTiny85_test">
-Some projects doesn&#39;t need big&#39;n beefy microcontroller, this little one can tackle many projects like RTC clock
-or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
-but some people have managed to install it as internal freguency.
-Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
-10hz led-blinker, but that&#39;s enough proof whether ic works at all, and It&#39;s fast to load this code.</p>
-
-<p>After testing, better to store these accordingly, ready to be used now:
-<img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
 
 	  ]]></description>
 	</item>
@@ -306,24 +335,6 @@ And couple of shots from different situations, mainly to show how mirror plating
 <img src="http://i.imgur.com/65wPjIQ.jpg" alt="brightoff">
 <img src="http://i.imgur.com/kMNv5ny.jpg" alt="brighton">
 <img src="http://i.imgur.com/Vrygzwn.jpg" alt="darkon"></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>CodeWeek EU and IoT Hackathon</title>
-	  <link>//codeweek-eu</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-10-12T17:25:41+00:00</pubDate>
-	  <guid>//codeweek-eu</guid>
-	  <description><![CDATA[
-	     <p>To celebrate <a href="http://www.codeweek.eu/">the Europe Code Week 2015</a> Hacklab Mikkeli organized its own event in Mikkeli. Our event was built from bunch of different sub-events. The major event was Internet of Things Hackathon which describes itself with its name. Other events included planning and luckily also starting local <a href="http://koodikerho.fi/">Koodikerho</a> activity, 3D modelling and printing workshop, <a href="http://www.apisuomi.fi/">API:Suomi</a> meeting which lead to starting API Meetup community to Mikkeli, and last but not least <a href="http://openfinlandchallenge.fi/">Open Finland Challenge</a> workshop.</p>
-
-<p><img src="/public/images/hackathon-liste.jpg" alt="Hacklab Mikkeli member liste teaching some basics of electronics"></p>
-
-<p>One quite interesting project was presented by locusf (Aleksi Suomalainen) from <a href="http://kuopio.hacklab.fi/">Kuopio Hacklab</a>. He has been working on a project that combines Raspberry Pi with SailfishOS. A SailPi tablet. For more detailed information see his blog article: <a href="https://sailpi.wordpress.com/2015/10/11/deployment-and-use-of-the-sailpi-tablet-as-real-standalone-tablet/">Deployment and use of the SailPi tablet as real standalone tablet</a></p>
-
-<p><img src="/public/images/hackathon-boots.jpg" alt=""></p>
 
 	  ]]></description>
 	</item>

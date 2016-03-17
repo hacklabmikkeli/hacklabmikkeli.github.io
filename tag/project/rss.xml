@@ -12,6 +12,35 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Car voltage meter</title>
+	  <link>//Car%20voltage%20meter</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-03-17T22:46:41+00:00</pubDate>
+	  <guid>//Car%20voltage%20meter</guid>
+	  <description><![CDATA[
+	     <p>Part of this bigger project, car computer, I wanted sepatate meter for voltage, in case of alternator fault.
+Idea is simple; voltage divider circuit converts voltage for more suitable level for AtTiny85 that can handle up to 5 volts to ADC (analog to digital converter
+and Attiny then converts this data and shows it in 7-segment display. Also there is bargraph display to give another perspective, easier to look on-road that charge level is in &quot;green&quot;
+region, not too much or too low.
+<img src="http://i.imgur.com/bvQljwu.jpg" alt="voltagemetercircuit"></p>
+
+<p>Once again, prototyping started at breadboard, and I also made AtTiny programming shield for easier coding sessions, no need to play that much with jumper wires.
+<img src="http://i.imgur.com/QUHLYzB.jpg" alt="voltagemeterbreadboard">
+<img src="http://i.imgur.com/RMdzoNE.jpg" alt="voltagemetershield"></p>
+
+<p>There was quite chore to place all stuff in confined area (inline fuse is also coming in final installation):
+<img src="http://i.imgur.com/oflhAzT.jpg" alt="voltagemeterproto">
+<img src="http://i.imgur.com/vHHT4UJ.jpg" alt="voltagemeterproto1"></p>
+
+<p>Another trouble was finding suitable enclosure, but recently bought 52mm dashboard meter casings, and all that was needed was meter panel, solution was 3d-printer.
+<img src="http://i.imgur.com/AFH2g7X.jpg" alt="voltagemeter3dprint">
+And in the end, it looks quite good in dark too:
+<img src="http://i.imgur.com/kgAxl9h.jpg?1" alt="voltagemeterdark"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Started doing car computer</title>
 	  <link>//Starting%20of%20car%20computer</link>
 	  <author>Hacklab Mikkeli</author>
@@ -313,32 +342,6 @@ And couple of shots from different situations, mainly to show how mirror plating
 <li>äänenvoimakkuudelle (<code>Vol</code>) sekä</li>
 <li>ohjelmamuistille (<code>Preset</code>, <code>Load</code>, <code>Save</code>)</li>
 </ul>
-
-<hr>
-
-<p>Projektin lähdekoodit ovat saatavilla <a href="https://github.com/hacklabmikkeli/knobs-galore/tree/master">GitHubissa</a>.</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Knobs Galore, osa 1</title>
-	  <link>//knobs-galore-osa-1</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-03-09T19:00:15+00:00</pubDate>
-	  <guid>//knobs-galore-osa-1</guid>
-	  <description><![CDATA[
-	     <p>Knobs Galore on kehitteillä oleva digitaalinen syntetisaattori, jota rakennan halvan lelupianon runkoon. Se toimii Casion CZ-linjan syntetisaattoreissaan käyttämällä vaihevääristymäsynteesitekniikalla, josta käytetään joskus lyhennettä <em>PD (Phase Distortion)</em>. PD:n voidaan kuvailla olevan jotakuinkin vaihemodulaatiosynteesin (&quot;FM&quot;-synteesi) ja analogisissa syntetisaattoreissa käytetyn subtraktiivisen synteesin välimaastossa. Valitsin vaihevääristymäsynteesin, koska FM:n verrattuna siinä on paljon vähemmän parametreja (joten se on helpompi oppia), ja toisin kuin subtraktiivisessa synteesissä, siinä ei tarvita digitaalisia suodattimia.</p>
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/W6vyCNWJVME" frameborder="0" allowfullscreen></iframe>
-
-<p><em>Esimerkki vaihevääristymäsynteesistä</em></p>
-
-<p>Ajattelin aluksi toteuttaa syntetisaattorin mikrokontrolleripohjaisena, mutta huomasin pian, että ainakin 8-bittisten mikrokontrollerien tehot jäivät liian pieniksi polyfoniselle syntetisaattorille &mdash; esimerkiksi 44kHz näytteenottotaajuudella kunkin näytteen laskeminen vie 23 mikrosekuntia, jollon 1MHz prosessorilla 8 ääntä käyttäen on alle 3 kelloa aikaa kutakin näytettä varten. Tilannetta voisi helpottaa puskuroinnilla ja DMA:lla, mutta siihenkään ei pelkkä mikrokontrolleri riitä. Lopulta päätin tehdä syntetisaattorin FPGA:ta käyttämällä, jolloin kullakin kellolla voi tehdä paljon enemmän. Valitsin Papilio-merkkisen FPGA-protoilulaudan, koska se on melko halpa, siihen on saatavilla paljon lisäkrääsää, kuten valmis 3,5mm-jakkiliitinmoduli (ja MIDI-moduli), ja siinä on kattava ohjeistus.</p>
-
-<p><img src="http://i.imgur.com/uMUln3El.jpg" alt="Papilio One"></p>
-
-<p><em>Papilio One</em></p>
 
 <hr>
 

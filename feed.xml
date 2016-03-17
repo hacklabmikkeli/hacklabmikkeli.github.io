@@ -8,7 +8,20 @@
     <title>Hacklab Mikkeli</title>
     <link>http://mikkeli.hacklab.fi</link>
     <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
-    <pubDate>Thu, 03 Mar 2016 22:46:41 +0000</pubDate>
+    <pubDate>Thu, 17 Mar 2016 22:46:41 +0000</pubDate>
+    <item>
+      <title>Car voltage meter</title>
+      <link>http://mikkeli.hacklab.fi/Car%20voltage%20meter</link>
+      <description>Part of this bigger project, car computer, I wanted sepatate meter for voltage, in case of alternator fault.
+Idea is simple; voltage divider circuit converts voltage for more suitable level for AtTiny85 that can handle up to 5 volts to ADC (analog to digital converter
+and Attiny then converts this data and shows it in 7-segment display. Also there is bargraph display to give another perspective, easier to look on-road that charge level is in &quot;green&quot;
+region, not too much or too low.
+![voltagemetercircuit](http://i.imgur.com/bvQljwu.jpg)
+
+</description>
+      <pubDate>Thu, 17 Mar 2016 22:46:41 +0000</pubDate>
+      <dc:date>2016-03-17T22:46:41+00:00</dc:date>
+    </item>
     <item>
       <title>Started doing car computer</title>
       <link>http://mikkeli.hacklab.fi/Starting%20of%20car%20computer</link>
@@ -268,6 +281,6 @@ Dark room, power on:
       <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
       <dc:date>2015-02-17T14:58:27+00:00</dc:date>
     </item>
-    <dc:date>2016-03-03T22:46:41+00:00</dc:date>
+    <dc:date>2016-03-17T22:46:41+00:00</dc:date>
   </channel>
 </rss>
