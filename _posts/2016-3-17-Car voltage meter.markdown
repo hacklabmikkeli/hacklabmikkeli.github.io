@@ -12,7 +12,7 @@ Part of this bigger project, car computer, I wanted sepatate meter for voltage, 
 Idea is simple; voltage divider circuit converts voltage for more suitable level for AtTiny85 that can handle up to 5 volts to ADC (analog to digital converter
 and Attiny then converts this data and shows it in 7-segment display. Also there is bargraph display to give another perspective, easier to look on-road that charge level is in "green"
 region, not too much or too low.
-![voltagemetercircuit](http://i.imgur.com/bvQljwu.jpg)
+![voltagemetercircuit](http://i.imgur.com/hHYGoGx.jpg)
 
 Once again, prototyping started at breadboard, and I also made AtTiny programming shield for easier coding sessions, no need to play that much with jumper wires.
 ![voltagemeterbreadboard](http://i.imgur.com/QUHLYzB.jpg)
