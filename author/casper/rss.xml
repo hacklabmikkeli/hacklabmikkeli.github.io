@@ -12,6 +12,25 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>New spectrum analyzer and vector network analyzer</title>
+	  <link>//spectrum-analyzer-and-vector-network-analyzer</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-03-29T12:00:00+00:00</pubDate>
+	  <guid>//spectrum-analyzer-and-vector-network-analyzer</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli has bought new RF equipment: Rohde &amp; Schwarz FSB 100Hz &mdash;
+5GHz spectrum analyzer, and HP 8711B vector network analyzer. They can be
+used to measure, for example, frequency, amplitude, spectrum, S/N ratio, THD,
+antenna SWR, amplitude response and phase response in a wide frequency range.
+The spectrum analyzer can additionally be used as a radio tuner!
+Both devices are available to subscribers, and require training to operate. </p>
+
+<p><img src="public/images/rf-equipment-closeup.jpg" alt="Closeup of equipment"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Car voltage meter</title>
 	  <link>//Car%20voltage%20meter</link>
 	  <author>Hacklab Mikkeli</author>
@@ -152,27 +171,6 @@ as well as control real time FFT. But, even this simple version works well:</p>
 	</item>
 
 	<item>
-	  <title>Testing AtTiny85's</title>
-	  <link>//Testing%20AtTiny85's</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2016-01-01T20:09:41+00:00</pubDate>
-	  <guid>//Testing%20AtTiny85's</guid>
-	  <description><![CDATA[
-	     <p><em>Testing....</em>
-<img src="http://i.imgur.com/sW9Hx79.jpg" alt="AtTiny85_test">
-Some projects doesn&#39;t need big&#39;n beefy microcontroller, this little one can tackle many projects like RTC clock
-or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
-but some people have managed to install it as internal freguency.
-Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
-10hz led-blinker, but that&#39;s enough proof whether ic works at all, and It&#39;s fast to load this code.</p>
-
-<p>After testing, better to store these accordingly, ready to be used now:
-<img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
-
-	  ]]></description>
-	</item>
-
-	<item>
 	  <title>Industrial Hackathon at Kuortti</title>
 	  <link>//industrial-hackathon-at-kuortti</link>
 	  <author>Hacklab Mikkeli</author>
@@ -192,6 +190,27 @@ Only problem with this chip is that there is no hardware serial (well, there is 
 <p><img src="/public/images/kuortti-3.jpg" alt="alt"></p>
 
 <p>It was also really nice to meet again people who participated our <a href="http://mikkeli.hacklab.fi/2015/04/13/space-apps-challenge-8-great-projects-as-a-result/">NASA Space Apps Hackathon</a> in April 2015. All of them had the same enthusiasm as before to solve the given challenges. About 18 hours time left for hacking...</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Testing AtTiny85's</title>
+	  <link>//Testing%20AtTiny85's</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-01-01T20:09:41+00:00</pubDate>
+	  <guid>//Testing%20AtTiny85's</guid>
+	  <description><![CDATA[
+	     <p><em>Testing....</em>
+<img src="http://i.imgur.com/sW9Hx79.jpg" alt="AtTiny85_test">
+Some projects doesn&#39;t need big&#39;n beefy microcontroller, this little one can tackle many projects like RTC clock
+or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
+but some people have managed to install it as internal freguency.
+Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
+10hz led-blinker, but that&#39;s enough proof whether ic works at all, and It&#39;s fast to load this code.</p>
+
+<p>After testing, better to store these accordingly, ready to be used now:
+<img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
 
 	  ]]></description>
 	</item>
@@ -226,115 +245,6 @@ Only problem with this chip is that there is no hardware serial (well, there is 
 <p><img src="/public/images/fuug-4.jpg" alt=""></p>
 
 <p>Internet of Things hackathon, osana kansainvälistä EU Koodiviikkoa. Kuvassa edustettuina Open Knowledge Finland, API:Suomi sekä kolmen eri Hacklabin perustajia. Kiitos avustuksen turvin ostettujen varusteiden, tämäkin tapahtuma oli mahdollista toteuttaa.</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>4x4x4 led cube</title>
-	  <link>//4x4x4-led-cube</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-11-17T12:00:00+00:00</pubDate>
-	  <guid>//4x4x4-led-cube</guid>
-	  <description><![CDATA[
-	     <p>Enought complex project in both as mechanical and, possibly, how complex pattern one wants to show up on cube.
-As this is 4-square cube, pattern can&#39;t be much complicated, so i added bit more touch in with clock and . 
-Time is in memory of special chip. If you have normal radio-clock, you might have noticed that when/if main power goes out
-so does time, gets nulled and must be set again. RTC chip keeps time, and is handy also when making stuff to happen in excact 
-intervals like putting coffee machine or car heater on, you name it.
-The idea behind using mirror-plating is to create same illusion as in infinity mirrors seen on web:
-When general room is brightly lit, mirror-plating acts like mirror. When it&#39;s dark, you can see throught it
-This is how it looks in bright room:
-<img src="http://i.imgur.com/tnVL1M5.jpg" alt="Brightroomcube-off">
-Bright room, with power:
-<img src="http://i.imgur.com/z8CHEUc.jpg" alt="Brightroomcube-on">
-Dark room, power on:
-<img src="http://i.imgur.com/hHg1sDC.jpg" alt="darkroomcube-on"></p>
-
-<p><em>Cube construction</em>
-Construction of even small cubes can be tricky process, but small things matter,
-like supporting and holding things together while swinging around with soledring iron.
-That said, it&#39;s important that joints are smooth, and used small amount of solder, you don&#39;t want any shortcircuits in finished product!
-Construction starts by checking(DOA&#39;s and other malfunctions can be possible)  and bending cathodes of each led.
-On the background is seen handy jig, just plywood, with holes drilled, in how frequent one wants cube to be.
-The thinner it is, the harder it is to solder and transparency suffers
-the thicker, easier to solder, but takes more space and must be looked farther away
-<img src="http://i.imgur.com/8NEjrJM.jpg" alt="ledbent">
-Then, bent leds are placed in series in a way, clusters of 3, which are then soldered cathoded together.
-Alligator clip holds led together while soldering
-<img src="http://i.imgur.com/pYIeVzH.jpg" alt="ledrow">
-<img src="http://i.imgur.com/6dALH0K.jpg" alt="ledcluster">
-The end cathode of each led rows, is slighly bent to make it easier to join them together at last row
-<img src="http://i.imgur.com/6xjpThL.jpg" alt="ledclusterbentcathode">
-rows circuit
-<img src="http://i.imgur.com/BWwmAhU.jpg" alt="circuitrow">
-The bend soldered on last row, forgot to say, last row has 4 leds in row, so there&#39;s 3 pieces of 3 leds rows, and one 4 led rows, on each layer (4 layers)
-<img src="http://i.imgur.com/KJzzVjD.jpg" alt="bentsoldered">
-Sadly, i didn&#39;t take photo of situation where leds are floating, but there is situation when leds are &#39;&#39;floating&#39;&#39; unsupported on other end
-Small piece of wire is joined to &#39;&#39;floating&#39;&#39; end of layer
-<img src="http://i.imgur.com/8t7L5ZJ.jpg" alt="layersupport">
-small hook, easier to solder and start soldering that prementioned support
-<img src="http://i.imgur.com/FuveFoc.jpg" alt="layersupporthook">
-layers circuit
-<img src="http://i.imgur.com/i561j4k.jpg" alt="circuitlayer">
-finished layer, DON&#39;T cut that tail of cathode yet, it serves as testing post for each layers cathode (in this scale of project, it&#39;s better to test now and then)
-<img src="http://i.imgur.com/58gWZHZ.jpg" alt="finishedlayer">
-with added strength for faith
-<img src="http://i.imgur.com/0o1ac7F.jpg" alt="finishedlayershrinks">
-Now comes annoying part: you have 4 layers, gotta solder them together top of each other.
-Bend each anode of each led, this serves as base where to plant next layer coming.
-When you start soldering, solder each bar/columns anodes togehter, so in end product you have only 4 cathodes, but anodes 16.
-Hard to describe...this is one of annoying parts of this project!
-finished cube should look like this.
-<img src="http://i.imgur.com/0tPz59O.jpg" alt="finishedcube">
-Then it&#39;s placed on veroboard, painted black on purpose. Also, now there are layer cathodes going down too, they decide what layer is on at what time.
-<img src="http://i.imgur.com/AqHo7mZ.jpg" alt="finishedcubeblackpcb">
-And you need to make connection for all anodes and layer cathodes, make some sort of order/organization to make it clear for yourself.
-Green wires are layer cathodes
-<img src="http://i.imgur.com/rLw0rSR.jpg" alt="finishedcubebackpcb"></p>
-
-<p>*Controller board (shift regsisters and RTC)
-In control, shift registers play big role: what they do, simply put, control in this case lot of input/outputs in few microcontroller pins
-without these, 20 pins would be needed, but now 3 is needed
-Data is sent in serial-format, these shift registers i use are 74595 Serial in-paraller out and they are very fast, no idea how many you can chain together
-RTC is not yet seen in this photo
-<img src="http://i.imgur.com/jxyfEqz.jpg" alt="controllerfront">
-had to place jumper wires behind board too
-<img src="http://i.imgur.com/U6eQ1Ze.jpg" alt="controllerback">
-RTC is shown here, in breadboard, i2c-bus, ds1307
-<img src="http://i.imgur.com/IPYgFDx.jpg" alt="RTC">
-to further eliminate pins needed in microcontroller, i used i2c in lcd too, it goes in same pins with RTC
-The i2c enables just this, placing many stuff in same pins. Think it like addresses: each house has their own address, and get their own mail
-Didn&#39;t have any OLED screens, but lcd will do.
-<img src="http://i.imgur.com/5EtCwfC.jpg" alt="i2clcd">
-As microcontroller i use arduino pro mini, due small size mainly, FTDI-USB converter also seen on photo
-<img src="http://i.imgur.com/VdtENUV.jpg" alt="micro">
-And here&#39;s all electronic stuff that must be stuffed in enclosure, excepct FTDI, that is only used in programming, or as as USB power adapter if you want
-<img src="http://i.imgur.com/amdLySk.jpg" alt="electronics"></p>
-
-<p><em>Enclosure</em>
-This part is much easier if you decide to buy plastic box, or steel you know the drill
-But, i decided to make one from oak
-There is used stopped grooves, so special technique is used, wooden blocks are used as stops do deside lenght of groove
-<img src="http://i.imgur.com/Mdkixhw.jpg" alt="groovebit">
-<img src="http://i.imgur.com/Jq94y29.jpg" alt="groovestops">
-Also, groove, or more like straight plunge bit is used in making hole for lcd
-<img src="http://i.imgur.com/mGLJpEf.jpg" alt="lcdhole">
-Box thus far, without finishing
-<img src="http://i.imgur.com/HRsAzKE.jpg" alt="boxunfinished">
-Raw cuts for frames
-<img src="http://i.imgur.com/mnQaCHa.jpg" alt="frames">
-Now there&#39;s linseed oil on box, along with mounted electronic stuff inside
-<img src="http://i.imgur.com/7Q7qH4Z.jpg" alt="finishedbox">
-On back there is power and programming connections
-<img src="http://i.imgur.com/dJHRHzN.jpg" alt="finishedboxback">
-I didn&#39;t feel confortable cutting glass, so i decided to try plexiglass for windows: cut grooves and slam/snap along table edge
-I highly suggest using safety glasses, plexi can be unpredictable
-<img src="http://i.imgur.com/0FOvFfc.jpg" alt="cuttingplexi">
-And couple of shots from different situations, mainly to show how mirror plating behaves
-<img src="http://i.imgur.com/65wPjIQ.jpg" alt="brightoff">
-<img src="http://i.imgur.com/kMNv5ny.jpg" alt="brighton">
-<img src="http://i.imgur.com/Vrygzwn.jpg" alt="darkon"></p>
 
 	  ]]></description>
 	</item>

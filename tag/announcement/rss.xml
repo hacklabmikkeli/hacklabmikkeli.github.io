@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>mikkeli.hacklab.fi</title>
+   
+   <link>http://mikkeli.hacklab.fi</link>
+   <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
+   <language>en-uk</language>
+   <managingEditor> Hacklab Mikkeli</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>New spectrum analyzer and vector network analyzer</title>
+	  <link>//spectrum-analyzer-and-vector-network-analyzer</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-03-29T12:00:00+00:00</pubDate>
+	  <guid>//spectrum-analyzer-and-vector-network-analyzer</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli has bought new RF equipment: Rohde &amp; Schwarz FSB 100Hz &mdash;
+5GHz spectrum analyzer, and HP 8711B vector network analyzer. They can be
+used to measure, for example, frequency, amplitude, spectrum, S/N ratio, THD,
+antenna SWR, amplitude response and phase response in a wide frequency range.
+The spectrum analyzer can additionally be used as a radio tuner!
+Both devices are available to subscribers, and require training to operate. </p>
+
+<p><img src="public/images/rf-equipment-closeup.jpg" alt="Closeup of equipment"></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
