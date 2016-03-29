@@ -15,4 +15,4 @@ antenna SWR, amplitude response and phase response in a wide frequency range.
 The spectrum analyzer can additionally be used as a radio tuner!
 Both devices are available to subscribers, and require training to operate. 
 
-![Closeup of equipment](public/images/rf-equipment-closeup.jpg)
+![Closeup of equipment](/public/images/rf-equipment-closeup.jpg)
