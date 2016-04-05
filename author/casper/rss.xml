@@ -12,6 +12,44 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>PCB-etching with vinegar.</title>
+	  <link>//PCB-etching%20with%20vinegar</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-04-05T12:30:41+00:00</pubDate>
+	  <guid>//PCB-etching%20with%20vinegar</guid>
+	  <description><![CDATA[
+	     <p>Time to cook.</p>
+
+<p>So, decided to give shot of making pcb&#39;s at home now that I found rather easy method. To make PCB&#39;s at home, methods are either etching or using special router.
+When etching, mostly used stuff is ferrid chrolide, expensive but fast stuff. Then comes combination that involves muriatic acid (another nasty poison). This method that I used doesn&#39;t use that poisonous stuff at all
+, only acetone is considered as poison here (so no safety gear reguired, only with acetone I&#39;d recommend using safety gear, it&#39;s 100% acetone we&#39;re dealing with, not nail polish remover)
+To begin, we need laser printer (used to print mask/pcb tracks. No, you can&#39;t use inkjet because it just doesn&#39;t work.) The idea of using laser printer is that laser printer uses toner which is then transferred to pcb via either chemical transfer or heat transfer. Heat transfer is more common,
+but has downside of possible deform of PCB due uneven heat betweeb surfaces.  Chemical transfer uses acetone to dilute toner that then is left behind to PCB.
+also you need some fine sandpaper/steel wool to clean pcb.
+All other stuff can be bought at hardware store, but hydrogen is bought at pharmacy. Don&#39;t combine acetone to hydrogen peroxide, I read it can be quite nasty, but I doubt is as this hydrogen peroxide is quite mild (you can pour it open wound and It&#39;s used as healing stuff)
+<img src="http://i.imgur.com/k1HlVBO.jpg" alt="Incredients"></p>
+
+<p>First thing is to print out pcb tracks, in mirrored image (use glossy, shiny paper, like photopaper). Then, acetone is placed on cleaned pcb and mask that we printed is placed face-down on that acetone pool. Now, DON&#39;T move
+mask while it&#39;s setting/diluting. After few secods appply only perpendicular pressure evenly on all areas of mask. You should see mask throught paper, and this is good,
+it means acetone has effected toner. Now, wait until you can&#39;t see toner anymore, paper is now dry from acetone. Next you place that pcb on water so we can peel that paper off safely. If all wen&#39;t well, all toner should be on pcb, but none on paper.
+Wee, transfer is done!
+<img src="http://i.imgur.com/LKlJG8B.jpg" alt="transferok"></p>
+
+<p>Next is to make solution for etching, ratio that I use is 50/50 vinegar 10% and hydrogen peroxide 3%.Ventilated place is not mantadory, only thing that stinks is vinegar. Salt is added all the time during process.
+When you add salt, action takes place and bubbling will start.  Do use proper salt, not just some potassium stuff, it must be natrium salt, good stuff.
+<img src="http://i.imgur.com/1tK5c0W.jpg" alt="bath">
+You should also clean all oxides that appear, as well as blue powder (copper acetate, that can also be re-used) 
+<img src="http://i.imgur.com/b1142Gu.jpg" alt="dirt">
+When job is done, mask is removed with acetone. If you decide to dispose this blue water, be aware it has copper acetate in it, so it is
+hazard-waste, but you can evoparate liguid so only powder is left. Don&#39;t drink it....
+<img src="http://i.imgur.com/0nIDtB1.jpg" alt="bluewater">
+As you can see, mine product didn&#39;t came up 100%, and that&#39;s because there are stuff to consider like use of toner and proper cleaning of pcb as well as etching agent (portions of vinegar + hydrogen peroxide)
+<img src="http://i.imgur.com/nGxT5MK.jpg?1" alt="finished"></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Spectrum analyzer and vector network analyzer</title>
 	  <link>//spectrum-analyzer-and-vector-network-analyzer</link>
 	  <author>Hacklab Mikkeli</author>
@@ -211,40 +249,6 @@ Only problem with this chip is that there is no hardware serial (well, there is 
 
 <p>After testing, better to store these accordingly, ready to be used now:
 <img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Elektroniikkalabran varustelu</title>
-	  <link>//elektroniikkalabran-varustelu</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-11-19T19:30:00+00:00</pubDate>
-	  <guid>//elektroniikkalabran-varustelu</guid>
-	  <description><![CDATA[
-	     <p>Hacklab Mikkelin ensimmäinen toimintavuosi alkaa lähestyä loppuaan. Vuoteen mahtui niin perustaminen helmikuussa kuin Fuugin säätiön rahoituksen saaminen myöhemmin keväällä. Käytännössä rahoituksen avulla oli mahdollista saada toimintaan nopea lähtö ja toteuttaa missiota alusta saakka.</p>
-
-<p><a href="http://fuug.fi/saatio/">Fuugin säätiö</a> rahoitti Hacklab Mikkelin työtilan varustelua yhteensä 2000 eurolla. Avustuksella rahoitettiin mm. 3D-tulostin, joka tilattiin osina ja koottiin itse. Kokoaminen oli opettavainen projekti jo itsessään. Tulostin on myös yksi varustelun vetonauloista sekä tapahtumissa että työtilassa. Avustuksen turvin hankittiin uteliaiden käyttöön myös tulostuslankaa.</p>
-
-<p><img src="/public/images/fuug-1.jpg" alt=""></p>
-
-<p>3D-tulostin ja asiaankuuluva pikakorjaus teipillä.</p>
-
-<p>Lisäksi rahoituksella varustettiin uskottava elektroniikkapaja, johon kuuluu kolme työpistettä, juotosasemia, juotostelineitä, yleismittareita, teholähteitä, oskilloskooppi, logiikka-analysaattori, Arduinoja, Raspberry Pi 2 -tietokoneita ja tietysti paljon yhteiskäyttöön tarkoitettuja peruskomponentteja ja työkaluja. Elektroniikkapaja on ahkerassa käytössä viikoittain ja siellä on työstetty monia projekteja kuten moottoroitua longboardia, omavalmisteista syntetisaattoria, IoT-leivänpaahdinta ja erilaisia robotteja, sensoreita ja tietenkin vilkkuvaloja.</p>
-
-<p><img src="/public/images/fuug-2.jpg" alt=""></p>
-
-<p>Elektroniikkapaja alkaa muistuttaa ulkonäöltään perinteistä Hacklabia. Kuvassa myös MadBot: pölynimurin ja Twitter-botin risteytys.</p>
-
-<p><img src="/public/images/fuug-3.jpg" alt=""></p>
-
-<p>Pajassa tuunattu tee-se-itse syntetisaattori ja Fuugin rahoituksella ostettu digitaalinen oskilloskooppi.</p>
-
-<p>Varustelun ansiosta Hacklab on voinut tarjota jäsenilleen ja muille uteliaille avoimen työtilan sekä järjestää useita tapahtumia mm. kansainvälisellä EU koodiviikolla tapahtuneen Internet of Things -hackathonin. Hacklab tarjoaa myös ilmaisia ja avoimia elektroniikan ja 3D-tulostamisen peruskursseja. Työtila koostuu elektroniikkapajasta, 3D-tulostus- ja tietokonetilasta, sotkuisen työn tilasta ja hengailuloungesta.</p>
-
-<p><img src="/public/images/fuug-4.jpg" alt=""></p>
-
-<p>Internet of Things hackathon, osana kansainvälistä EU Koodiviikkoa. Kuvassa edustettuina Open Knowledge Finland, API:Suomi sekä kolmen eri Hacklabin perustajia. Kiitos avustuksen turvin ostettujen varusteiden, tämäkin tapahtuma oli mahdollista toteuttaa.</p>
 
 	  ]]></description>
 	</item>
