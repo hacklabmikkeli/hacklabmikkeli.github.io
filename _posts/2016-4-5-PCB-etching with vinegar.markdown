@@ -34,4 +34,5 @@ When job is done, mask is removed with acetone. If you decide to dispose this bl
 hazard-waste, but you can evoparate liguid so only powder is left. Don't drink it....
 ![bluewater](http://i.imgur.com/0nIDtB1.jpg)
 As you can see, mine product didn't came up 100%, and that's because there are stuff to consider like use of toner and proper cleaning of pcb as well as etching agent (portions of vinegar + hydrogen peroxide)
+![finished](http://i.imgur.com/nGxT5MK.jpg?1)
 
