@@ -1,7 +1,7 @@
 ---
 layout:     post
 cover:      'public/images/rf-equipment.jpg'
-title:      Mittaustekniikan oppitunnity alkavat
+title:      Mittaustekniikan oppitunnit alkavat
 date:       2016-04-07 12:00:00
 tags:       announcement
 subclass:   'post tag-announcement'
