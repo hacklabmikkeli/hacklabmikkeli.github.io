@@ -12,6 +12,29 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Mittaustekniikan oppitunnity alkavat</title>
+	  <link>//mittaustekniikka_2016</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-04-07T12:00:00+00:00</pubDate>
+	  <guid>//mittaustekniikka_2016</guid>
+	  <description><![CDATA[
+	     <p>Mittaustekniikan oppitunnit alkavat. Opimme käyttämään mm. oskilloskooppia, spektrianalysaattoria ja vektoripiirianalysaattoria.</p>
+
+<p>Ensimmäinen tunti on lauantaina <em>9.4.</em> kello <em>10-13:30</em>.</p>
+
+<p>Toinen tunti on sunnuntaina <em>17.4.</em> kello <em>18-21</em>.</p>
+
+<p>Myöhempien tuntien aikataulu julkaistaan myöhemmin.</p>
+
+<p>Tulkaa vapaasti osallistumaan!
+Oppimateriaali löytyy [GitBookista])(https://www.gitbook.com/…/hacklabm…/mittaustekniikka/details)</p>
+
+<p>Esitietovaatimuksia ei ole, mutta sähköopin perusasioiden osaaminen helpottaa osallistumista. Huomatkaa, että mittaamisen hallitseminen vähentää huomattavasti turhautumista myöhemmillä elektroniikan kursseilla (mm. digitaalitekniikka ja mikrokontrollerit).</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Spectrum analyzer and vector network analyzer</title>
 	  <link>//spectrum-analyzer-and-vector-network-analyzer</link>
 	  <author>Hacklab Mikkeli</author>

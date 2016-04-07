@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Hacklab Mikkeli</title>
+    <title>Mittaustekniikan oppitunnity alkavat</title>
     <meta name="description" content="Hacklab Mikkeli - Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli" />
 
     <meta name="HandheldFriendly" content="True" />
@@ -53,7 +53,7 @@
     <link rel="alternate" type="application/rss+xml" title="Hacklab Mikkeli" href="/rss.xml" />
 
 </head>
-<body class="tag-template nav-closed">
+<body class="post-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -79,113 +79,129 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
+        <!-- < default -->
 
+<!-- The comment above "< default" means - insert everything in this file into -->
+    <!-- the [body] of the default.hbs template, which contains our header/footer. -->
 
-<!-- < default}} -->
-<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
 
-<!-- If we have a tag cover, display that - else blog cover - else nothing -->
-<header class="main-header tag-head " style="background-image: url(/assets/images/cover2.jpg) ">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/"><img src="/assets/images/alien_pink.svg" alt="Blog Logo" /></a>
+<header class="main-header post-head " style="background-image: url(/public/images/rf-equipment.jpg)  ">
+    <nav class="main-nav  overlay  clearfix">
         
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-        
+        <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
     </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Announcement</h1>
-            <h2 class="page-description">
-            
-			    A 2-post collection
-            
-            </h2>
-        </div>
-    </div>
 </header>
 
-<!-- The main content area on the homepage -->
-<main id="content" class="content" role="main">
+<main class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs -->
-        <!-- Previous/next page links - only displayed on page 2+ -->
-    <div class="extra-pagination inner">
-        
-            <nav class="pagination" role="pagination">
-    
-    <span class="page-number"> Page 1 of 1 </span>
-     
-</nav>
-        
-    </div>
+    <article class="post tag-announcement">
 
-    
-    
-    
-    
-    <!-- This is the post loop - each post will be output using this markup -->
-    
-    <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/mittaustekniikka_2016">Mittaustekniikan oppitunnity alkavat</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Mittaustekniikan oppitunnit alkavat. Opimme käyttämään mm. oskilloskooppia, spektrianalysaattoria ja vektoripiirianalysaattoria. Ensimmäinen tunti on lauantaina 9.4. kello 10-13:30. Toinen tunti on sunnuntaina 17.4. kello 18-21. Myöhempien tuntien... <a class="read-more" href="/mittaustekniikka_2016">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/alien_pink.svg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            Hacklab Mikkeli
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/announcement'>Announcement</a>
-                       
-                
-            
+            <h1 class="post-title">Mittaustekniikan oppitunnity alkavat</h1>
+            <section class="post-meta">
+            <!-- <a href='/'>Hacklab Mikkeli</a> -->
             <time class="post-date" datetime="2016-04-07">07 Apr 2016</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/spectrum-analyzer-and-vector-network-analyzer">Spectrum analyzer and vector network analyzer</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Hacklab Mikkeli has bought RF equipment: Rohde &amp; Schwarz FSB 100Hz &mdash; 5GHz spectrum analyzer, and HP 8711B vector network analyzer. They can be used to... <a class="read-more" href="/spectrum-analyzer-and-vector-network-analyzer">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/alien_pink.svg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            Hacklab Mikkeli
-            <!-- [[tags prefix=" on "]] -->
-             
+                <!-- [[tags prefix=" on "]] -->
+                 
                 on 
                 
                     
                        <a href='/tag/announcement'>Announcement</a>
                        
                 
+                
+            </section>
+        </header>
+
+        <section class="post-content">
             
-            <time class="post-date" datetime="2016-03-29">29 Mar 2016</time>
+            <p>Mittaustekniikan oppitunnit alkavat. Opimme käyttämään mm. oskilloskooppia, spektrianalysaattoria ja vektoripiirianalysaattoria.</p>
+
+<p>Ensimmäinen tunti on lauantaina <em>9.4.</em> kello <em>10-13:30</em>.</p>
+
+<p>Toinen tunti on sunnuntaina <em>17.4.</em> kello <em>18-21</em>.</p>
+
+<p>Myöhempien tuntien aikataulu julkaistaan myöhemmin.</p>
+
+<p>Tulkaa vapaasti osallistumaan!
+Oppimateriaali löytyy [GitBookista])(https://www.gitbook.com/…/hacklabm…/mittaustekniikka/details)</p>
+
+<p>Esitietovaatimuksia ei ole, mutta sähköopin perusasioiden osaaminen helpottaa osallistumista. Huomatkaa, että mittaamisen hallitseminen vähentää huomattavasti turhautumista myöhemmillä elektroniikan kursseilla (mm. digitaalitekniikka ja mikrokontrollerit).</p>
+
+
+        </section>
+
+        <footer class="post-footer">
+
+            <!-- Everything inside the #author tags pulls data from the author -->
+            <!-- #author-->
+
+            
+            <figure class="author-image">
+                <a class="img" href="/" style="background-image: url(/assets/images/alien_pink.svg)"><span class="hidden">'s Picture</span></a>
+            </figure>
+            
+
+            <section class="author">
+                <h4>Hacklab Mikkeli</h4>
+                
+                
+                    <p> An open and community-based workspace for people with interest in science, technology and digital arts</p>
+                
+                <div class="author-meta">
+                    <span class="author-location icon-location"> Mikkeli, FINLAND</span> 
+                    <span class="author-link icon-link"><a href="http://mikkeli.hacklab.fi"> mikkeli.hacklab.fi</a></span> 
+                </div>
+            </section>
+
+            <!-- /author  -->
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="http://twitter.com/share?text=Mittaustekniikan oppitunnity alkavat&amp;url=http://mikkeli.hacklab.fimittaustekniikka_2016"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://mikkeli.hacklab.fimittaustekniikka_2016"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://mikkeli.hacklab.fimittaustekniikka_2016"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+            
+            <!-- Add Disqus Comments -->
+            
+            
         </footer>
+
     </article>
-    
-
-    <!-- Previous/next page links - displayed on every page -->
-    
-        <nav class="pagination" role="pagination">
-    
-    <span class="page-number"> Page 1 of 1 </span>
-     
-</nav>
-    
-
 
 </main>
+
+<aside class="read-next">
+
+    <!-- [[! next_post ]] -->
+    
+    <!-- [[! /next_post ]] -->
+    <!-- [[! prev_post ]] -->
+    
+        <a class="read-next-story prev " style="background-image: url(/http://i.imgur.com/nGxT5MK.jpg?1)" href="/PCB-etching%20with%20vinegar">
+            <section class="post">
+                <h2>PCB-etching with vinegar.</h2>
+                <p>Time to cook. So, decided to give shot of making pcb&#39;s at home now that...</p>
+            </section>
+        </a>
+    
+    <!-- [[! /prev_post ]] -->
+</aside>
+
+<!-- /post -->
+
 
         <footer class="site-footer clearfix">
           <section class="copyright"><a href="/">Hacklab Mikkeli</a> &copy; 2016</section>
