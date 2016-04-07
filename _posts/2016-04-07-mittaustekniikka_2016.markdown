@@ -16,7 +16,7 @@ Toinen tunti on sunnuntaina *17.4.* kello *18-21*.
 
 Myöhempien tuntien aikataulu julkaistaan myöhemmin.
 
-Tulkaa vapaasti osallistumaan!
+Hacklabin jäsenet saavat osallistua vapaasti.
 Oppimateriaali löytyy [GitBookista](https://www.gitbook.com/book/hacklabmikkeli/mittaustekniikka/details)
 
 Esitietovaatimuksia ei ole, mutta sähköopin perusasioiden osaaminen helpottaa osallistumista. Huomatkaa, että mittaamisen hallitseminen vähentää huomattavasti turhautumista myöhemmillä elektroniikan kursseilla (mm. digitaalitekniikka ja mikrokontrollerit).
