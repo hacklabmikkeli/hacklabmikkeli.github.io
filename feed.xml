@@ -8,7 +8,16 @@
     <title>Hacklab Mikkeli</title>
     <link>http://mikkeli.hacklab.fi</link>
     <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
-    <pubDate>Thu, 07 Apr 2016 12:00:00 +0000</pubDate>
+    <pubDate>Wed, 21 Sep 2016 12:13:37 +0000</pubDate>
+    <item>
+      <title>JonneBot - IRC-bot Framework</title>
+      <link>http://mikkeli.hacklab.fi/jonnebot-ircbot-framework</link>
+      <description>[JonneBot](https://github.com/jeeukko/jonnebot) on simppeli IRC-botti/frameworkki joka on käytössä Hacklab Mikkelin IRC-kanavalla.
+
+</description>
+      <pubDate>Wed, 21 Sep 2016 12:13:37 +0000</pubDate>
+      <dc:date>2016-09-21T12:13:37+00:00</dc:date>
+    </item>
     <item>
       <title>Mittaustekniikan oppitunnit alkavat</title>
       <link>http://mikkeli.hacklab.fi/mittaustekniikka_2016</link>
@@ -313,6 +322,6 @@ Dark room, power on:
       <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
       <dc:date>2015-02-17T14:58:27+00:00</dc:date>
     </item>
-    <dc:date>2016-04-07T12:00:00+00:00</dc:date>
+    <dc:date>2016-09-21T12:13:37+00:00</dc:date>
   </channel>
 </rss>

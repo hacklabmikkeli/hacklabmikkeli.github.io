@@ -12,6 +12,34 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>JonneBot - IRC-bot Framework</title>
+	  <link>//jonnebot-ircbot-framework</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-09-21T12:13:37+00:00</pubDate>
+	  <guid>//jonnebot-ircbot-framework</guid>
+	  <description><![CDATA[
+	     <p><a href="https://github.com/jeeukko/jonnebot">JonneBot</a> on simppeli IRC-botti/frameworkki joka on käytössä Hacklab Mikkelin IRC-kanavalla.</p>
+
+<h2>Historiaa</h2>
+
+<p>JonneBot oli alunperin kirjoitettu Pythonilla kovakoodattuine ominaisuuksineen. Version 2 (tai 3 jos uudelleenkirjoittettu Python versio lasketaan) oli koodattu Javalla ja siinä oli jopa RSS lukija.
+Java version sourcet ovat vielä tallessa <a href="https://github.com/jeeukko/jonnebot-old">GitHubissa</a>, Python versio(t) ovat kadonneen ajan saatossa.</p>
+
+<h2>Uusi version ja sekoileva versionumerointi</h2>
+
+<p>Nykyinen versio JonneBotista on kirjoitettu Node.js:llä ja on kokonaan modulaarinen. Kaikki vuorovaikutus on moduuleissa/plugineissa ja ladattavat moduulit voi määritellä konffissa.
+Versionumerointi alkoi mennä hankalaksi (koska en osannut enää määritellä versioiden rajoja) joten päätin aloittaa alusta. Tätä kirjoittaessa versio on 2.1
+Nykyään kehitys on aktiivisen epä-aktiivista johtuen muista kiireistä.</p>
+
+<h2>Loppusanat</h2>
+
+<p>Kehitysidoita voi kirjoittaa GitHub-repoon Idea-labelilla. Kaikenlainen palaute otetaan ilolla vastaan.
+Eihä siinä, jeeukko kiittää ja kuittaa.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>PCB-etching with vinegar.</title>
 	  <link>//PCB-etching%20with%20vinegar</link>
 	  <author>Hacklab Mikkeli</author>
@@ -317,33 +345,6 @@ And couple of shots from different situations, mainly to show how mirror plating
 <hr>
 
 <p>Projektin lähdekoodit ovat saatavilla <a href="https://github.com/hacklabmikkeli/knobs-galore">GitHubissa</a>.</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Knobs Galore, osa 3</title>
-	  <link>//knobs-galore-osa-3</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-03-13T12:04:00+00:00</pubDate>
-	  <guid>//knobs-galore-osa-3</guid>
-	  <description><![CDATA[
-	     <p>Nyt on jo ääninäytettä tarjolla!</p>
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/195661180&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-<p>Okei, se ei ole oikeasta vaan simuloidusta syntetisaattorista. Kyseistä näytettä varten toteutin ramppigeneraattorin, ADSR-vaippageneraattorin vaihevääristymäparametria (<em>&quot;cutoff&quot;</em>) varten, vaihevääristimen sekä siniaalto-look-up-taulukon. Lisäksi toteutettuna on D/A-muunnin ja rengaspuskuri, jotka tulevat lopulliseen syntetisaattoriin. Olen kasannut suunnitelmani oheiseen kuvaan, jonka mukaan toteuttamatta ovat vielä ohjaus ja vahvistus, sekä tietenkin integraatio koskettimistoon ja näppäimiin.</p>
-
-<p><img src="http://i.imgur.com/JEhXoJF.png" alt="Suunnitelmia">
-<em>Suunnitelma lopullisesta systeemistä</em></p>
-
-<p>Nykyisellään syntetisaattorin voi myös syntetisoida <em>(heh)</em> ja ladata Papilioon, mutta se on vain monofoninen, sillä äänten allokointia ei ole toteutettu. Ajattelin aluksi, että äänet allokoitaisiin &quot;älykkäästi&quot; (otetaan aina seuraava vapaana oleva kanava käyttöön), mutta Xilinx ISEn raporteista kävi ilmi, että nykyisellään vain 2% sliceistä on käytettynä. Kellopulssejakin on käytössä 488 kutakin näytettä kohden, joten voin yhtä hyvin varata kullekin koskettimelle yhden kanavan, joten äänien allokoinnista tulee triviaali tehtävä, ja bonuksena syntetisaattoriin tulee täysi polyfonia!</p>
-
-<p>Seuraavaksi aion kasata piirilevylle kalvokytkimistä pienen &quot;koskettimiston&quot;, joiden avulla syntetisaattoria voi soittaakkin (: sitä seuraavana listalla ovat myös vahvistuksen toteuttaminen (ajattelin toteuttaa sen yksinkertaisena look-up taulukkona, kuten vaihevääristymän ja aaltomuotogeneroinnin) ja moniäänisyys.</p>
-
-<hr>
-
-<p>Projektin lähdekoodit ovat saatavilla <a href="https://github.com/hacklabmikkeli/knobs-galore/">GitHubissa</a>.</p>
 
 	  ]]></description>
 	</item>

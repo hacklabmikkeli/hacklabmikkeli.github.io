@@ -12,6 +12,34 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>JonneBot - IRC-bot Framework</title>
+	  <link>//jonnebot-ircbot-framework</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2016-09-21T12:13:37+00:00</pubDate>
+	  <guid>//jonnebot-ircbot-framework</guid>
+	  <description><![CDATA[
+	     <p><a href="https://github.com/jeeukko/jonnebot">JonneBot</a> on simppeli IRC-botti/frameworkki joka on käytössä Hacklab Mikkelin IRC-kanavalla.</p>
+
+<h2>Historiaa</h2>
+
+<p>JonneBot oli alunperin kirjoitettu Pythonilla kovakoodattuine ominaisuuksineen. Version 2 (tai 3 jos uudelleenkirjoittettu Python versio lasketaan) oli koodattu Javalla ja siinä oli jopa RSS lukija.
+Java version sourcet ovat vielä tallessa <a href="https://github.com/jeeukko/jonnebot-old">GitHubissa</a>, Python versio(t) ovat kadonneen ajan saatossa.</p>
+
+<h2>Uusi version ja sekoileva versionumerointi</h2>
+
+<p>Nykyinen versio JonneBotista on kirjoitettu Node.js:llä ja on kokonaan modulaarinen. Kaikki vuorovaikutus on moduuleissa/plugineissa ja ladattavat moduulit voi määritellä konffissa.
+Versionumerointi alkoi mennä hankalaksi (koska en osannut enää määritellä versioiden rajoja) joten päätin aloittaa alusta. Tätä kirjoittaessa versio on 2.1
+Nykyään kehitys on aktiivisen epä-aktiivista johtuen muista kiireistä.</p>
+
+<h2>Loppusanat</h2>
+
+<p>Kehitysidoita voi kirjoittaa GitHub-repoon Idea-labelilla. Kaikenlainen palaute otetaan ilolla vastaan.
+Eihä siinä, jeeukko kiittää ja kuittaa.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Mittaustekniikan oppitunnit alkavat</title>
 	  <link>//mittaustekniikka_2016</link>
 	  <author>Hacklab Mikkeli</author>
@@ -227,30 +255,6 @@ I don&#39;t have audio shield yet, but couple of those should arrive next week, 
 as well as control real time FFT. But, even this simple version works well:</p>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oXUSYADG080" frameborder="0" allowfullscreen></iframe>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Industrial Hackathon at Kuortti</title>
-	  <link>//industrial-hackathon-at-kuortti</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2016-01-01T20:09:41+00:00</pubDate>
-	  <guid>//industrial-hackathon-at-kuortti</guid>
-	  <description><![CDATA[
-	     <p>Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00 at Kuortti. This time it was <a href="http://www.industrialhackathon.fi/">Industrial Hackathon</a> with aim to improve processes of two local companies. These two hosting companies are <a href="http://www.pelaser.fi/">Pelaser</a> <a href="http://www.plastep.fi/">Plastep</a>. Pelaser works with processing steel plates and sheet metal parts. Plastep is a plastic production company.</p>
-
-<p><img src="/public/images/kuortti-1.jpg" alt="alt"></p>
-
-<p>Challenges for Pelaser are about logistics and pricing. Finding a solution or developing an application to improve the transparency and efficiency of internal logistics. The pricing challenge in detail is to find a solution or develop an application that intelligently automates the interal product pricing process.</p>
-
-<p><img src="/public/images/kuortti-2.jpg" alt="alt"></p>
-
-<p>Plastep challenges concentrate on common operational picture and quality. The challenges about common operational picture could be solved by developing an application that improvaes situational awareness of production status. Quality challenge aims to improve quality control and traceability throughout the whole manufacturing process. </p>
-
-<p><img src="/public/images/kuortti-3.jpg" alt="alt"></p>
-
-<p>It was also really nice to meet again people who participated our <a href="http://mikkeli.hacklab.fi/2015/04/13/space-apps-challenge-8-great-projects-as-a-result/">NASA Space Apps Hackathon</a> in April 2015. All of them had the same enthusiasm as before to solve the given challenges. About 18 hours time left for hacking...</p>
 
 	  ]]></description>
 	</item>
