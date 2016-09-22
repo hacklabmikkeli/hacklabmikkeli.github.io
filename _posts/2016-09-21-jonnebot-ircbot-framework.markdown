@@ -2,7 +2,7 @@
 layout: post
 cover: 'http://i.imgur.com/BtjZedW.jpg'
 title: JonneBot - IRC-bot Framework
-date: 2016-21-09 12:13:37
+date: 2016-09-21 12:13:37
 tags: project
 subclass: 'post tag-project'
 categories: 'casper'
