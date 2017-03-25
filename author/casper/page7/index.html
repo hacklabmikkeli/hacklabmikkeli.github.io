@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Testing AtTiny85's</title>
+    <title>Author</title>
     <meta name="description" content="Hacklab Mikkeli - Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli" />
 
     <meta name="HandheldFriendly" content="True" />
@@ -53,7 +53,7 @@
     <link rel="alternate" type="application/rss+xml" title="Hacklab Mikkeli" href="/rss.xml" />
 
 </head>
-<body class="post-template nav-closed">
+<body class="paged archive-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -79,134 +79,104 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default -->
+        <!-- < default}} -->
+<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The comment above "< default" means - insert everything in this file into -->
-    <!-- the [body] of the default.hbs template, which contains our header/footer. -->
+<!-- The big featured header -->
 
-<!-- Everything inside the #post tags pulls data from the post -->
-<!-- #post -->
+<!-- Everything inside the #author tags pulls data from the author -->
+<!-- #author  -->
+    <header class="main-header author-head " style="background-image: url(/assets/images/cover4.jpg) ">
+        <nav class="main-nav overlay clearfix">
+            <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
+            
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+            
+        </nav>
+    </header>
 
-<header class="main-header post-head " style="background-image: url(http://i.imgur.com/sW9Hx79.jpg)  ">
-    <nav class="main-nav  overlay  clearfix">
+    <section class="author-profile inner">
         
-        <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-    </nav>
-</header>
+        <figure class="author-image">
+            <div class="img" style="background-image: url(/assets/images/alien_pink.svg)"><span class="hidden">Hacklab Mikkeli's Picture</span></div>
+        </figure>
+        
+        <h1 class="author-title">Hacklab Mikkeli</h1>
+        
+            <h2 class="author-bio">An open and community-based workspace for people with interest in science, technology and digital arts</h2>
+        
+        <div class="author-meta">
+            <span class="author-location icon-location">Mikkeli, FINLAND</span>
+            <span class="author-link icon-link"><a href="http://mikkeli.hacklab.fi">mikkeli.hacklab.fi</a></span>
+            <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
+            <span class="author-stats"><i class="icon-stats"></i>31 posts</span>
+        </div>
+    </section>
+<!-- /author -->
 
-<main class="content" role="main">
+<!-- The main content area on the homepage -->
+<main id="content" class="content" role="main">
 
-    <article class="post tag-project">
+    <!-- The tag below includes the post loop - partials/loop.hbs  -->
+        <!-- Previous/next page links - only displayed on page 2+ -->
+    <div class="extra-pagination inner">
+        
+            <nav class="pagination" role="pagination">
+    
+        
+            <a class="newer-posts" href="/author/Hacklab Mikkeli/page6/" title="Previous Page">&laquo; Newer Posts</a>
+      
+    
+    <span class="page-number"> Page 7 of 7 </span>
+     
+</nav>
+        
+    </div>
 
+    
+    
+    <!-- This is the post loop - each post will be output using this markup -->
+    
+    <article class="post">
         <header class="post-header">
-            <h1 class="post-title">Testing AtTiny85's</h1>
-            <section class="post-meta">
-            <!-- <a href='/'>Hacklab Mikkeli</a> -->
-            <time class="post-date" datetime="2016-01-01">01 Jan 2016</time>
-                <!-- [[tags prefix=" on "]] -->
-                 
+            <h2 class="post-title"><a href="/kutsu-hacklab-mikkeli-ryn-perustamiskokoukseen">Kutsu Hacklab Mikkeli ry:n perustamiskokoukseen</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>Suunnittelu hacklab-toiminnan käynnistämisestä Mikkeliin on edennyt talven aikana ja on tullut aika perustaa yhdistys. Kokoonnumme perustamiskokoukseen torstaina 19.2.2015 klo 17. Paikkana toimii aiempien kokoontumisten tapaan Mikkelin... <a class="read-more" href="/kutsu-hacklab-mikkeli-ryn-perustamiskokoukseen">&raquo;</a></p>
+        </section>
+        <footer class="post-meta">
+            <img class="author-thumb" src="/assets/images/alien_pink.svg" alt="Author image" nopin="nopin" />
+            <!-- author -->
+            Hacklab Mikkeli
+            <!-- [[tags prefix=" on "]] -->
+             
                 on 
                 
                     
-                       <a href='/tag/project'>Project</a>
+                       <a href='/tag/event'>Event</a>
                        
                 
-                
-                &raquo; <a href="http://mikkeli.hacklab.fi/">Hacklab Mikkeli website</a>
-            </section>
-        </header>
-
-        <section class="post-content">
             
-            <p><em>Testing....</em>
-<img src="http://i.imgur.com/sW9Hx79.jpg" alt="AtTiny85_test">
-Some projects doesn&#39;t need big&#39;n beefy microcontroller, this little one can tackle many projects like RTC clock
-or say matrises &amp; cubes with shift registers.  Clock frequency is selectable between 1Mhz-20Mhz, but 16 seems to be enough. 16 needs external crystal,
-but some people have managed to install it as internal freguency.
-Only problem with this chip is that there is no hardware serial (well, there is i2c bus but needs to be enabled separately, bit different than normal serial), but that can be created with code. Test code I burned was just simple
-10hz led-blinker, but that&#39;s enough proof whether ic works at all, and It&#39;s fast to load this code.</p>
-
-<p>After testing, better to store these accordingly, ready to be used now:
-<img src="http://i.imgur.com/i5yK14Q.jpg" alt="AtTiny85__test_OK"> </p>
-
-
-        </section>
-
-        <footer class="post-footer">
-
-            <!-- Everything inside the #author tags pulls data from the author -->
-            <!-- #author-->
-
-            
-            <figure class="author-image">
-                <a class="img" href="/" style="background-image: url(/assets/images/alien_pink.svg)"><span class="hidden">'s Picture</span></a>
-            </figure>
-            
-
-            <section class="author">
-                <h4>Hacklab Mikkeli</h4>
-                
-                
-                    <p> An open and community-based workspace for people with interest in science, technology and digital arts</p>
-                
-                <div class="author-meta">
-                    <span class="author-location icon-location"> Mikkeli, FINLAND</span> 
-                    <span class="author-link icon-link"><a href="http://mikkeli.hacklab.fi"> mikkeli.hacklab.fi</a></span> 
-                </div>
-            </section>
-
-            <!-- /author  -->
-
-            <section class="share">
-                <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text=Testing AtTiny85's&amp;url=http://mikkeli.hacklab.fiTesting%20AtTiny85's"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://mikkeli.hacklab.fiTesting%20AtTiny85's"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://mikkeli.hacklab.fiTesting%20AtTiny85's"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
-            </section>
-            
-            <!-- Add Disqus Comments -->
-            
-            
+            <time class="post-date" datetime="2015-02-17">17 Feb 2015</time>
         </footer>
-
     </article>
+    
+
+    <!-- Previous/next page links - displayed on every page -->
+    
+        <nav class="pagination" role="pagination">
+    
+        
+            <a class="newer-posts" href="/author/Hacklab Mikkeli/page6/" title="Previous Page">&laquo; Newer Posts</a>
+      
+    
+    <span class="page-number"> Page 7 of 7 </span>
+     
+</nav>
+    
+
 
 </main>
-
-<aside class="read-next">
-
-    <!-- [[! next_post ]] -->
-    
-        <a class="read-next-story " style="background-image: url(/public/images/kuortti-3.jpg)" href="/industrial-hackathon-at-kuortti">
-            <section class="post">
-                <h2>Industrial Hackathon at Kuortti</h2>
-                <p>Most likely the first hackathon of 2016 in region of Southern Savo began today 16:00...</p>
-            </section>
-        </a>
-    
-    <!-- [[! /next_post ]] -->
-    <!-- [[! prev_post ]] -->
-    
-        <a class="read-next-story prev " style="background-image: url(/public/images/fuug-2.jpg)" href="/elektroniikkalabran-varustelu">
-            <section class="post">
-                <h2>Elektroniikkalabran varustelu</h2>
-                <p>Hacklab Mikkelin ensimmäinen toimintavuosi alkaa lähestyä loppuaan. Vuoteen mahtui niin perustaminen helmikuussa kuin Fuugin säätiön...</p>
-            </section>
-        </a>
-    
-    <!-- [[! /prev_post ]] -->
-</aside>
-
-<!-- /post -->
 
 
         <footer class="site-footer clearfix">

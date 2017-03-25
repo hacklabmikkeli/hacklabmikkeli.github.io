@@ -12,6 +12,36 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Ihminen 2.0 - hackathon ihmisille</title>
+	  <link>//ihminen20-hackathon</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-03-25T16:30:00+00:00</pubDate>
+	  <guid>//ihminen20-hackathon</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli avasi hackathon-kautensa järjestämällä Ihminen 2.0 -hackathonin yhdessä Mikkelin Työttömät ry:n kanssa.</p>
+
+<p>Ihminen 2.0 on hackathon uteliaille ja kokeilunhaluisille ihmisille - eli meille kaikille. Se on aloittelijaystävällinen ja rento tapahtuma, jossa tutkiskelemme ja kokeilemme teknologiaa, rakennamme yhdessä siistejä juttuja ja opimme tekemällä. Tapahtumaa alustettiin järjestämällä työpajoja hacklabilla alkeista alkaen. Työpajatkin olivat hackathonin tapaan kaikille avoimia.</p>
+
+<p>Olennainen osa hackathon-kokemusta on tietenkin toimiva ruokahuolto. Tällä kertaa siitä huolen piti yhteistyökumppanimme keittiöhenkilökunta. Tapahtuma aloitettiin kunnon brunssilla ja nälkää pidettiin loitolla päivän mittaan kunnon kotiruokapäivällisellä ja iltapalalla.</p>
+
+<p><img src="/public/images/ihminen-ruoka.jpg" alt=""></p>
+
+<p>Hackathonissa ei tällä kertaa kilpailtu. Kaikki saivat rakennella oman mielensä mukaan, omaan tahtiin, neljän eri <em>trackin</em> mukaisesti: elektroniikkaa vasta-alkajille, puettava elektroniikka ja itsensä mittaaminen, virtuaalitodellisuus ja laajennettu todellisuus sekä robotiikka.</p>
+
+<p>Osallistujien projektit olivat siten hyvin monipuolisia. Tapahtumassa rakennettiin esim. laiskan kipparin avustajaa veneen kurssin pitämiseen, vaahtomuovimiekan tuunausta uudeksi audiovisuaaliseksi kokemukseksi sekä laiskan puutarhurin avuksi älykästä kasteluautomatiikkaa. </p>
+
+<p><img src="/public/images/ihminen-kasvi.jpg" alt=""></p>
+
+<p>Rakentelun lomassa tapahtumassa oli myös keventäviä elementtejä. Aiemmissa hackathoneissa sekä <a href="http://mikkeli.hacklab.fi/digital-city-adventure-2015/">Digitaalisessa kaupunkiseikkailussa</a> yleisöä pelottanut Tuomionpäivän Kone oli saanut uusia haasteita purettavaksi. Tämän haasteen voittajalle oli tarjolla yllätyspalkinto. Puheenjohtajamme oli saanut tapahtumaa edeltävänä yönä suuren vision sivuhaasteesta - <em>Mikkelin Kanuuna</em>. Kyseessä oli tarkkuusammunta kaupungin halvimmalla pehmopalloaseella.</p>
+
+<p><img src="/public/images/ihminen-kanuuna.jpg" alt=""></p>
+
+<p>Tapahtumien osalta Hacklab Mikkelin kevät jatkuu seuraavaksi Mikkeli Maker Dayllä <a href="http://mikkeli.hacklab.fi/mikkeli-maker-day/">edellisvuotiseen</a> malliin lauantaina 22.4.2017 Mikkelin pääkirjastolla. Siitä ja muusta toiminnastamme saat lisätietoa seuraamalla sosiaalisen median kanaviamme tai käymällä hacklabilla avoimissa illoissa (joka maanantai ja torstai klo 17 alkaen).</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Blender Course Report</title>
 	  <link>//blender-course-report</link>
 	  <author>Hacklab Mikkeli</author>
@@ -227,28 +257,6 @@
 <p><img src="/public/images/pielavesi-discodoggy.jpg" alt=""></p>
 
 <p>The event was part of pilot project run by <a href="http://www.sitra.fi/en">the Finnish Innovation Fund Sitra</a>. Sitra&#39;s New Education Forum and its projects aim to explore ways in which Finnish education can be improved. We enjoyed the whole trip having fun together with people and the great hospitality of our hosts. Thank you!</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Space Apps Challenge Mikkeli - 8 great projects as a result</title>
-	  <link>//space-apps-challenge-8-great-projects-as-a-result</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-04-13T11:16:34+00:00</pubDate>
-	  <guid>//space-apps-challenge-8-great-projects-as-a-result</guid>
-	  <description><![CDATA[
-	     <p>Space Apps Challenge Mikkeli was one wonderful weekend. No question about it. 74 registered participants which of great majority arrived and started working on NASA Challenges. On Sunday afternoon it was time for the award ceremony...</p>
-
-<p><img src="/public/images/spaceapps-1.jpg" alt=""></p>
-
-<p>First prize went to <a href="https://2015.spaceappschallenge.org/project/spaceshield/">SpaceShield</a> team. Four students from Mikkeli University of Applied Sciences successfully solved the <a href="https://2015.spaceappschallenge.org/challenge/neuromorphic-studies-asteroid-imagery/">Neuromorphic Studies of Asteroid Imagery</a>. Lots of excellent work which also received enthusiastic feedback from NASA. You should take a look at their comprehensive <a href="https://spaceshield.hackpad.com/SpaceShield-MW4Tamjypzr#:h=Results">report</a>.</p>
-
-<p><img src="/public/images/spaceapps-2.jpg" alt=""></p>
-
-<p>We as Hacklab Mikkeli wanted to award two teams - insteaf of just one as planned - due to extreme dedication on hacking shown by both two teams. <em>Hacking &gt; sleep</em>. Also keeping up the morale in the hackathon was considered a nice bonus. Both teams did meet their goals and break their technical skill limits. Some might say this was a learning experience. The awarded teams were <a href="https://2015.spaceappschallenge.org/project/isstagram/">2 Guys 1 ISS</a> and <a href="https://2015.spaceappschallenge.org/project/fast-aid-kit/">Challenge? Accepted!</a>.</p>
-
-<p>This was <span style="text-decoration:line-through;">maybe</span> the biggest hackathon ever in Mikkeli. Wonderful people. Wonderful weekend. Wonderful hacking. Wonderful sponsors. Wonderful organizing teams. Hacklab Mikkeli will be definitely arranging more events like this.</p>
 
 	  ]]></description>
 	</item>
