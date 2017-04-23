@@ -8,7 +8,16 @@
     <title>Hacklab Mikkeli</title>
     <link>http://mikkeli.hacklab.fi</link>
     <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
-    <pubDate>Sat, 25 Mar 2017 16:30:00 +0000</pubDate>
+    <pubDate>Mon, 24 Apr 2017 13:00:00 +0000</pubDate>
+    <item>
+      <title>Mikkeli Maker Day 2017</title>
+      <link>http://mikkeli.hacklab.fi/mikkeli-maker-day-2</link>
+      <description>Hacklab Mikkelin kevään 2017 tapahtumat jatkuivat eilen Mikkeli Maker Dayllä. Tapahtuma oli tutkimusmatka rakentelun ja teknologian maailmaan. Esillä ja kokeiltavana oli mm. 3D-tulostusta, elektroniikkaa, robotiikkaa sekä uudempia ja vanhempia pelilaitteita. Robotiikan esimerkkeinä olivat Hacklab Mikkelin tulevan leikkimielisen robottisotaliigan kolme osallistujaa.
+
+</description>
+      <pubDate>Mon, 24 Apr 2017 13:00:00 +0000</pubDate>
+      <dc:date>2017-04-24T13:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>Ihminen 2.0 - hackathon ihmisille</title>
       <link>http://mikkeli.hacklab.fi/ihminen20-hackathon</link>
@@ -331,6 +340,6 @@ Dark room, power on:
       <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
       <dc:date>2015-02-17T14:58:27+00:00</dc:date>
     </item>
-    <dc:date>2017-03-25T16:30:00+00:00</dc:date>
+    <dc:date>2017-04-24T13:00:00+00:00</dc:date>
   </channel>
 </rss>

@@ -12,6 +12,30 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Mikkeli Maker Day 2017</title>
+	  <link>//mikkeli-maker-day-2</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-04-24T13:00:00+00:00</pubDate>
+	  <guid>//mikkeli-maker-day-2</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkelin kevään 2017 tapahtumat jatkuivat eilen Mikkeli Maker Dayllä. Tapahtuma oli tutkimusmatka rakentelun ja teknologian maailmaan. Esillä ja kokeiltavana oli mm. 3D-tulostusta, elektroniikkaa, robotiikkaa sekä uudempia ja vanhempia pelilaitteita. Robotiikan esimerkkeinä olivat Hacklab Mikkelin tulevan leikkimielisen robottisotaliigan kolme osallistujaa.</p>
+
+<p><img src="/public/images/mmd2-robot.jpg" alt=""></p>
+
+<p>Pelilaitteita edustivat tällä kertaa itse rakennettun pelikabinetti, joka osoittautui tälläkin kertaa suosituksi laitteeksi. Sen ohella mukaan otimme Speden Speleistäkin tutun itse rakennetun nopeustestin. Amiga 500 ja Commodore 64 saivat jäädä hacklabille, sillä tänä vuonna niitä tuurasi Amiga 4000. <em>Mikkelin Kanuunan</em> toinen osakilpailu järjestettiin tapahtuman yhteydessä - eli tarkkuusammuntaa kaupungin halvimmalla pehmopalloaseella.</p>
+
+<p><img src="/public/images/mmd2-pelit.jpg" alt=""></p>
+
+<p>Tapahtuma houkutteli jälleen yllättävän paljon väkeä paikalle, vaikka kaupungissa järjestettiin samanaikaisesti muitakin tapahtumia, eikä sääkään ollut vielä keväisen lämmin. Arvio osallistujamäärästä, poislukien järjestävien tahojen edustajat, on pitkälti toista sataa. Suosio asetti positiivisen paineen uusia tapahtuma taas ensi keväänä. </p>
+
+<p><img src="/public/images/mmd2-yleis.jpg" alt=""></p>
+
+<p>Ensimmäinen Mikkeli Maker Day järjestettiin viime vuonna yhteistyössä Mikkelin ammattikorkeakoulun ERNOD-hankkeen ja Mikkelin kaupunginkirjaston kanssa. Fiiliksiä tapahtumasta löydät <a href="http://mikkeli.hacklab.fi/mikkeli-maker-day/">blogistamme</a>. Tarkempi tutustuminen Hacklab Mikkelin toimintaan onnistuu parhaiten avoimissa ovissa torstaisin klo 17 alkaen. Hacklabimme löydät osoitteesta Pietarinkatu 23, jossa sisäänkäynti Yrjönkadun puolelta.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Ihminen 2.0 - hackathon ihmisille</title>
 	  <link>//ihminen20-hackathon</link>
 	  <author>Hacklab Mikkeli</author>
@@ -225,38 +249,6 @@
 <p>Suuret kiitokset Helsinki Hacklabille hyvin järjestetystä tapahtumasta sekä kaikille osallistujille mukavasta viikonlopusta.</p>
 
 <p><img src="/public/images/hsf1512-1.jpg" alt="HSF15½"></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Making things in Pielavesi</title>
-	  <link>//making-things-in-pielavesi</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-05-18T12:26:18+00:00</pubDate>
-	  <guid>//making-things-in-pielavesi</guid>
-	  <description><![CDATA[
-	     <p>Hacklab Mikkeli was invited to &quot;Wärkkee-päevä&quot; in Pielavesi to host a basic workshop about programmable robots and 3D printing. Audience for the workshop was supposed to be all visitors of the event but in particular the students of local schools.</p>
-
-<p>Programmable robots for students? First that felt like a challenge but soon we managed to gather our ideas together. We had a clue that they teach <a href="https://scratch.mit.edu/">Scratch</a> programming language in schools in Pielavesi. Scratch itself sounds great: it is open source, it works with most major operating systems and it is said to be quite easy way to get introduced into programming.</p>
-
-<p>So Scratch for software, what about hardware? <a href="http://www.arduino.cc/">Arduino</a> was our first idea. It is open source just like Scratch and can be acquired easily at low price. Arduino has also pretty nice userbase. Boards we used in our case were Arduino Uno clones. Luckily for us there is a project called <a href="http://www.s4a.cat/">S4A</a> which is a modified version of Scratch that works with Arduino.</p>
-
-<p>We wanted to keep &quot;the robot&quot; simple. Nothing too difficult but still enough functionality to be enjoyable for all ages and skill levels. In the future the students can equip it for example with sensors or break it down into pieces and use the Arduinos for something completely different. Three wheels, two motors, one Arduino. Powered by either USB or 4 x AA batteries.</p>
-
-<p><img src="/public/images/pielavesi-robotti.jpg" alt=""></p>
-
-<p>But the technical part was only half of the whole workshop. Next we needed to instruct and teach the young ones how to work with the robots. Most of the people didn&#39;t know about programming, some were familiar with basic logics of programming with Scratch. All four of us from Hacklab Mikkeli had a great day making robots with local people.</p>
-
-<p><img src="/public/images/pielavesi-belvain.jpg" alt=""></p>
-
-<p>We weren&#39;t the only group presenting their do-it-yourself hobby. Around 30 other groups joined the fun with activities ranging from park yoga to cupcake decoration workshop. It felt like the whole community was there enjoying their Saturday.</p>
-
-<p>It was nice to notice how creative and enthusiastic kids can be. Local school had participated in <a href="http://tech.teknologiateollisuus.fi/openet/fi/tamatoimii.html">Tämä toimii!</a> challenge where teams formed of 4th-6th graders create totally new toys from pre-assigned set of materials. Case presented at the event was called <em>Disco-Doggy</em>. Two tiny motors making weird noise and moving it around. Impressive!</p>
-
-<p><img src="/public/images/pielavesi-discodoggy.jpg" alt=""></p>
-
-<p>The event was part of pilot project run by <a href="http://www.sitra.fi/en">the Finnish Innovation Fund Sitra</a>. Sitra&#39;s New Education Forum and its projects aim to explore ways in which Finnish education can be improved. We enjoyed the whole trip having fun together with people and the great hospitality of our hosts. Thank you!</p>
 
 	  ]]></description>
 	</item>

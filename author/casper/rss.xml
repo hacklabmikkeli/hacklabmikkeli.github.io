@@ -12,6 +12,30 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Mikkeli Maker Day 2017</title>
+	  <link>//mikkeli-maker-day-2</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-04-24T13:00:00+00:00</pubDate>
+	  <guid>//mikkeli-maker-day-2</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkelin kevään 2017 tapahtumat jatkuivat eilen Mikkeli Maker Dayllä. Tapahtuma oli tutkimusmatka rakentelun ja teknologian maailmaan. Esillä ja kokeiltavana oli mm. 3D-tulostusta, elektroniikkaa, robotiikkaa sekä uudempia ja vanhempia pelilaitteita. Robotiikan esimerkkeinä olivat Hacklab Mikkelin tulevan leikkimielisen robottisotaliigan kolme osallistujaa.</p>
+
+<p><img src="/public/images/mmd2-robot.jpg" alt=""></p>
+
+<p>Pelilaitteita edustivat tällä kertaa itse rakennettun pelikabinetti, joka osoittautui tälläkin kertaa suosituksi laitteeksi. Sen ohella mukaan otimme Speden Speleistäkin tutun itse rakennetun nopeustestin. Amiga 500 ja Commodore 64 saivat jäädä hacklabille, sillä tänä vuonna niitä tuurasi Amiga 4000. <em>Mikkelin Kanuunan</em> toinen osakilpailu järjestettiin tapahtuman yhteydessä - eli tarkkuusammuntaa kaupungin halvimmalla pehmopalloaseella.</p>
+
+<p><img src="/public/images/mmd2-pelit.jpg" alt=""></p>
+
+<p>Tapahtuma houkutteli jälleen yllättävän paljon väkeä paikalle, vaikka kaupungissa järjestettiin samanaikaisesti muitakin tapahtumia, eikä sääkään ollut vielä keväisen lämmin. Arvio osallistujamäärästä, poislukien järjestävien tahojen edustajat, on pitkälti toista sataa. Suosio asetti positiivisen paineen uusia tapahtuma taas ensi keväänä. </p>
+
+<p><img src="/public/images/mmd2-yleis.jpg" alt=""></p>
+
+<p>Ensimmäinen Mikkeli Maker Day järjestettiin viime vuonna yhteistyössä Mikkelin ammattikorkeakoulun ERNOD-hankkeen ja Mikkelin kaupunginkirjaston kanssa. Fiiliksiä tapahtumasta löydät <a href="http://mikkeli.hacklab.fi/mikkeli-maker-day/">blogistamme</a>. Tarkempi tutustuminen Hacklab Mikkelin toimintaan onnistuu parhaiten avoimissa ovissa torstaisin klo 17 alkaen. Hacklabimme löydät osoitteesta Pietarinkatu 23, jossa sisäänkäynti Yrjönkadun puolelta.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Ihminen 2.0 - hackathon ihmisille</title>
 	  <link>//ihminen20-hackathon</link>
 	  <author>Hacklab Mikkeli</author>
@@ -231,40 +255,6 @@ Also, screen is in photo 20x4 alphanumeric LCD, but currently I&#39;m using 0,96
 <p><img src="/public/images/cake.jpg" alt="alt"></p>
 
 <p>We would like to thank all those wonderful people, companies and institutions who have supported us during our first year!</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Mikkeli Maker Day</title>
-	  <link>//mikkeli-maker-day</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2016-02-13T10:45:00+00:00</pubDate>
-	  <guid>//mikkeli-maker-day</guid>
-	  <description><![CDATA[
-	     <p>We were invited to plan and execute a small event at local library. Something that involves different examples from our hacklab projects. Something that could make people from junior to senior happy. Something that we can handle with our resources. We would also need a nice name for the event... mmh... this was the most difficult part. Eventually someone screamed out something like Mikkeli Maker Day. Close enough.</p>
-
-<p>The plan was simple: let&#39;s gather our things and carry them there. First on display was an arcade cabinet (12 mm mdf, Retropie, some used parts, some new parts):</p>
-
-<p><img src="/public/images/mmd4.JPG" alt="alt"></p>
-
-<p>Of course we had to bring our tweeting cactus, Teuvo (he is @TeuvoHacklabMLI):</p>
-
-<p><img src="/public/images/mmd3.JPG" alt="alt"> </p>
-
-<p>...and Seppo, the clever robot seen at HSF&#39;16:</p>
-
-<p><img src="/public/images/mmd2.JPG" alt="alt"></p>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Seppo the <a href="https://twitter.com/hashtag/Robot?src=hash">#Robot</a> and unexpected obstacles appearing in his way... <a href="https://twitter.com/hashtag/Mikkeli?src=hash">#Mikkeli</a> <a href="https://twitter.com/hashtag/Maker?src=hash">#Maker</a> <a href="https://twitter.com/hashtag/Day?src=hash">#Day</a> <a href="https://twitter.com/Mikkelikirjasto">@Mikkelikirjasto</a> <a href="https://twitter.com/hashtag/ERNOD?src=hash">#ERNOD</a> <a href="https://t.co/kyy6AUhNfU">pic.twitter.com/kyy6AUhNfU</a></p>&mdash; Hacklab Mikkeli (@HacklabMikkeli) <a href="https://twitter.com/HacklabMikkeli/status/698455624229715969">February 13, 2016</a></blockquote>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>More photos and some videos can be found at Hacklab Mikkeli&#39;s <a href="https://twitter.com/HacklabMikkeli">Twitter</a> and <a href="https://www.facebook.com/hacklabmikkeli/">Facebook</a> accounts.</p>
-
-<p><i>The inviting party for the event was Mikkeli City Library working in co-operation with ERNOD project. They had a media club which themed in finding a use for discarded library books.</i></p>
-
-<p><img src="/public/images/mmd5.JPG" alt="alt"></p>
 
 	  ]]></description>
 	</item>
