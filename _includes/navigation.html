@@ -5,7 +5,6 @@
     </a>
     <ul>
         <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About</a></li>
         <li class="nav-events {% if page.url contains 'event' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/event">Events</a></li>
         <li class="nav-projects {% if page.url contains 'project' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/project">Projects</a></li>
         <li class="nav-instructions {% if page.current == 'instructions' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}instructions">Instructions</a></li>
@@ -14,7 +13,6 @@
         <li class="nav-gh role="presentation"><a href="https://github.com/hacklabmikkeli">Github</a></li>
         <li class="nav-twitter role="presentation"><a href="https://twitter.com/HacklabMikkeli">Twitter</a></li>
         <li class="nav-fb role="presentation"><a href=" https://facebook.com/hacklabmikkeli">Facebook</a></li>
-        
     </ul>
     <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </div>
