@@ -12,6 +12,22 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Hacklab, yhteisö ja mesenaatit</title>
+	  <link>//hacklab-yhteiso-ja-mesenaatit</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-11-09T21:00:00+00:00</pubDate>
+	  <guid>//hacklab-yhteiso-ja-mesenaatit</guid>
+	  <description><![CDATA[
+	     <p>Hacklabit elävät pienistä puroista yhteisön voimin. Niiden tarkoitus on vaalia maker-yhteisöjä sekä tukea kaikenlaista teknistä ja vähemmän teknistä tekemistä, kokeilemista ja rakentelua. Tarvitaan työtilaa, työkaluja, härveleitä ja kaiken maailman komponentteja. Harmillisesti kaikki tämä pitäisi kyetä maksamaan ja tarjoamaan uteliaiden käyttöön kaikille sopivalla kuukausimaksulla tai jopa ilmaiseksi, jos vain pystyisi. Yleensä hacklabien talous on melkoinen kamppailulaji.</p>
+
+<p>Onneksi on olemassa yhteisö ja mesenaatteja. Aapo Rista <a href="https://twitter.com/aapris">@aapris</a> takoi Mindtrekissa mielettömän flipperituloksen APInf:n <a href="https://twitter.com/APInf_io">@APInf_io</a> tiskillä, ja päätti lahjoittaa voittamansa Raspberry Pi:n yhteisölliseen käyttöön Hacklab Mikkelille <a href="https://twitter.com/HacklabMikkeli">@HacklabMikkeli</a>. Paketista kuoriutui myös päheitä APInf powerbankeja. Veikkaan, että niitä nähdään vielä tulevissa blogipostauksissa ja kuvissa erilaisten yhteisten projektien yhteydessä. </p>
+
+<p>Yksi Raspberry Pi ja parikolme powerbankia voi tuntua pieneltä, mutta juuri tällaisista pienistä puroista hacklabit rakentavat tarjottavaa yhteisöillensä. Olisipa flipperikisoja useammin tai lukisipa muutama firma tämän postauksen ja pohtisivat, voisivatko he tehdä mitään paikallisen hacklabin hyväksi? Suomesta meitä löytyy 14. Tsekkaa <a href="http://hacklab.fi/">http://hacklab.fi/</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Mikkeli Maker Day 2017</title>
 	  <link>//mikkeli-maker-day-2</link>
 	  <author>Hacklab Mikkeli</author>
@@ -237,24 +253,6 @@ Also, screen is in photo 20x4 alphanumeric LCD, but currently I&#39;m using 0,96
 <p>Earlier our courses have been about eletronics and robotics, so now we needed a whole different layout of tables and seating. Course material and instructing was also designed to suit the skills of participating people which varied from beginner to advanced. These facts made the course a test in many ways.</p>
 
 <p>Everything went fine. Even better than expected. Many of participants found 3D modelling interesting and want to learn more. Easily worth the early wakeup on Saturday morning.</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Hacklab Mikkeli 1 Year!</title>
-	  <link>//hacklab-mikkeli-1-year</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2016-02-19T22:00:00+00:00</pubDate>
-	  <guid>//hacklab-mikkeli-1-year</guid>
-	  <description><![CDATA[
-	     <p>We have survived as a registered association for one whole year! One year ago we met and decided to make this thing official - 19 brave hackers signed our charter of foundation. Of course we had began planning the hacklab earlier but after receiving huge support from other Finnish hacklabs at Hacklab Summit Finland 2015 in Tampere we had to make the move. After that we have found a place for our hacklab, renovated it to suit our purposes and after that had fun participating and arranging many wonderful events. </p>
-
-<p>It was time for cake!</p>
-
-<p><img src="/public/images/cake.jpg" alt="alt"></p>
-
-<p>We would like to thank all those wonderful people, companies and institutions who have supported us during our first year!</p>
 
 	  ]]></description>
 	</item>

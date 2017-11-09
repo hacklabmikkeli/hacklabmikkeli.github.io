@@ -12,6 +12,22 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Hacklab, yhteisö ja mesenaatit</title>
+	  <link>//hacklab-yhteiso-ja-mesenaatit</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-11-09T21:00:00+00:00</pubDate>
+	  <guid>//hacklab-yhteiso-ja-mesenaatit</guid>
+	  <description><![CDATA[
+	     <p>Hacklabit elävät pienistä puroista yhteisön voimin. Niiden tarkoitus on vaalia maker-yhteisöjä sekä tukea kaikenlaista teknistä ja vähemmän teknistä tekemistä, kokeilemista ja rakentelua. Tarvitaan työtilaa, työkaluja, härveleitä ja kaiken maailman komponentteja. Harmillisesti kaikki tämä pitäisi kyetä maksamaan ja tarjoamaan uteliaiden käyttöön kaikille sopivalla kuukausimaksulla tai jopa ilmaiseksi, jos vain pystyisi. Yleensä hacklabien talous on melkoinen kamppailulaji.</p>
+
+<p>Onneksi on olemassa yhteisö ja mesenaatteja. Aapo Rista <a href="https://twitter.com/aapris">@aapris</a> takoi Mindtrekissa mielettömän flipperituloksen APInf:n <a href="https://twitter.com/APInf_io">@APInf_io</a> tiskillä, ja päätti lahjoittaa voittamansa Raspberry Pi:n yhteisölliseen käyttöön Hacklab Mikkelille <a href="https://twitter.com/HacklabMikkeli">@HacklabMikkeli</a>. Paketista kuoriutui myös päheitä APInf powerbankeja. Veikkaan, että niitä nähdään vielä tulevissa blogipostauksissa ja kuvissa erilaisten yhteisten projektien yhteydessä. </p>
+
+<p>Yksi Raspberry Pi ja parikolme powerbankia voi tuntua pieneltä, mutta juuri tällaisista pienistä puroista hacklabit rakentavat tarjottavaa yhteisöillensä. Olisipa flipperikisoja useammin tai lukisipa muutama firma tämän postauksen ja pohtisivat, voisivatko he tehdä mitään paikallisen hacklabin hyväksi? Suomesta meitä löytyy 14. Tsekkaa <a href="http://hacklab.fi/">http://hacklab.fi/</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Mikkeli Maker Day 2017</title>
 	  <link>//mikkeli-maker-day-2</link>
 	  <author>Hacklab Mikkeli</author>
@@ -223,32 +239,6 @@
 <p>Kiinnostus 3D-tulostusta kohtaan oli suurta ja kojulla kävikin viikonlopun aikana reippaasti ihmettelijöitä. Myös hacklabin toiminnasta oltiin kovasti kiinnostuneita. Markkinoinnin tuloksista ei vielä ole raportoitavaa mutta toivotaan että joku eksyisi kojulta myös &quot;keskiviikko-hack&quot;:iin.</p>
 
 <p>Tapahtumaan osallistuminen oli ainakin allekirjoittaneen mielestä positiivinen kokemus ja tässä kohtaa pitääkin muistaa kiittää kaikkia tapahtumaan osallistuneita mukavasta viikonlopusta. Mielestäni hacklabin kannattaa myös jatkossa osallistua vastaaviin tapahtumiin, jatkossa voitaisiin tuoda esille myös muuta kun 3D-tulostus teknologiaa.</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>HSF15½</title>
-	  <link>//hsf1512</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-07-20T10:21:46+00:00</pubDate>
-	  <guid>//hsf1512</guid>
-	  <description><![CDATA[
-	     <p>Hacklab Mikkeli otti osaa HSF15½ tapahtumaan joka järjestettiin Helsinki Hacklabin tiloissa. Mikkelin lisäksi tapahtumaan osallistui porukkaa Helsingin, Turun, Tampereen, Porin ja Vaasan Hacklabeilta.</p>
-
-<p>Viikonlopun aikana ohjelmassa oli mm. paintballia, kierros patterimäen linnoitusalueella, robokisa, saunomista ja grillausta sekä paljon muuta. Häpeäkseen Mikkeli ei kerennyt mukaan robokisaan tällä kertaa mutta seuraavalla kerralla luvataan yrittää kovemmin. Kilpailussa radan kaltevuus, ahtaus sekä maasto-olosuhteet pääsivät yllättämään osan kilpailijoista mutta voiton vei kuitenkin Tampereen O10-nimeä kantanut robotti. </p>
-
-<p>Myöskin Hacklab.fi yhteistyön kehittämistä suunniteltiin ja päätettiin mm.</p>
-
-<ul>
-<li>Siirtää #hacklab.fi kanava IRCnetistä freenodeen.</li>
-<li>Säilyttää &quot;organisaation&quot; nimi hacklab.fi</li>
-<li>Uudistaa hacklab.fi nettisivu.</li>
-</ul>
-
-<p>Suuret kiitokset Helsinki Hacklabille hyvin järjestetystä tapahtumasta sekä kaikille osallistujille mukavasta viikonlopusta.</p>
-
-<p><img src="/public/images/hsf1512-1.jpg" alt="HSF15½"></p>
 
 	  ]]></description>
 	</item>

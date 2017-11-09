@@ -8,7 +8,16 @@
     <title>Hacklab Mikkeli</title>
     <link>http://mikkeli.hacklab.fi</link>
     <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
-    <pubDate>Mon, 24 Apr 2017 13:00:00 +0000</pubDate>
+    <pubDate>Thu, 09 Nov 2017 21:00:00 +0000</pubDate>
+    <item>
+      <title>Hacklab, yhteisö ja mesenaatit</title>
+      <link>http://mikkeli.hacklab.fi/hacklab-yhteiso-ja-mesenaatit</link>
+      <description>Hacklabit elävät pienistä puroista yhteisön voimin. Niiden tarkoitus on vaalia maker-yhteisöjä sekä tukea kaikenlaista teknistä ja vähemmän teknistä tekemistä, kokeilemista ja rakentelua. Tarvitaan työtilaa, työkaluja, härveleitä ja kaiken maailman komponentteja. Harmillisesti kaikki tämä pitäisi kyetä maksamaan ja tarjoamaan uteliaiden käyttöön kaikille sopivalla kuukausimaksulla tai jopa ilmaiseksi, jos vain pystyisi. Yleensä hacklabien talous on melkoinen kamppailulaji.
+
+</description>
+      <pubDate>Thu, 09 Nov 2017 21:00:00 +0000</pubDate>
+      <dc:date>2017-11-09T21:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>Mikkeli Maker Day 2017</title>
       <link>http://mikkeli.hacklab.fi/mikkeli-maker-day-2</link>
@@ -340,6 +349,6 @@ Dark room, power on:
       <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
       <dc:date>2015-02-17T14:58:27+00:00</dc:date>
     </item>
-    <dc:date>2017-04-24T13:00:00+00:00</dc:date>
+    <dc:date>2017-11-09T21:00:00+00:00</dc:date>
   </channel>
 </rss>
