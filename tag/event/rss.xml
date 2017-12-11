@@ -12,6 +12,36 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Job Game Jam</title>
+	  <link>//job-game-jam</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-12-11T13:00:00+00:00</pubDate>
+	  <guid>//job-game-jam</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli oli mukana toteuttamassa (tiettävästi) ensimmäisiä game jameja Mikkelissä. Tapahtuman teemana oli varsinaisen pelikehityksen ohella oman pelialan kiinnostuksen ja osaamisen muuntaminen – kenties jonain päivänä – elannon lähteeksi. Tarjolla oli myös kiinnostavia workshopeja ja erilaisia pelilaitteita kokeiltavaksi. Tapahtuma houkutteli paikalle kaikkiaan 40 osallistujaa.</p>
+
+<p>Tapahtuman ensimmäinen workshop keskittyi pelimusiikkiin. Workshopin veti maailmallakin mainetta niittänyt pelimusiikin säveltäjä <a href="http://www.mikkotarmia.com/">Mikko Tarmia</a>. Mikon teoksia on kuultavissa mm. Penumbran ja Amnesian taustalla.</p>
+
+<p><img src="/public/images/jgj-tarmia.jpg" alt=""></p>
+
+<p>Hyvän roolipelikampanjan rakentamisessa sparrasivat pitkän linjan roolipelimiehet Antti Leppä ja Leevi Heinonen. Tapahtumassa osa tiimeistä kehittikin digitaalisen pelin sijaan ihan perinteistä korteilla ja laudalla pelattavaa roolipeliä. Pelaavan pelisuunnittelijan kompastuskivistä ja valttikorteista puolestaan kertoi Nuppu Soanjärvi.</p>
+
+<p><img src="/public/images/jgj-ropeworkshop.jpg" alt=""></p>
+
+<p>Hacklab Mikkelin järjestelyvastuista vapautetut jäsenet ehtivät osallistumaan tapahtumaan myös ihan pelikehityksen merkeissä. Viisihenkisessä tiimissä Hacklab Mikkeliä edustivat <em>liste</em>, <em>3dk</em> sekä <em>mella</em>. Mukaan napattiin graafista osaamista parin herrasmiehen verran. Hyvin pian <em>Onion Clubiksi</em> itsensä nimennyt tiimi päätyi tekemään <a href="https://godotengine.org/">Godotilla</a> <em>2,5D-tasohyppelypeliä 2D-spriteillä</em>. Työskentely oli tehokasta ja näinkin lyhyessä ajassa syntyi pelattavaa ensimmäisen tason verran. Projektin kehitys jatkunee hacklabilla piakkoin. </p>
+
+<p><img src="/public/images/jgj-onionclub.jpg" alt="Onion Club"></p>
+
+<p>Hacklab Mikkelin jäsenistössä tiedettiin jo entuudestaan olevan suht paljon pelikehityksestä kiinnostuneita. On käyty keskusteluja siitäkin, että pelikehitystoiminnalle pyhitetään oma avoin arki-iltansa hacklabille. Avoimen tilan ja vakiintuneen tapaamisajan myötä kenties myös muut pelikehityksestä kiinnostuneet mikkeliläiset voisivat löytää apuvoimia projekteihinsa. </p>
+
+<p>Hacklab Mikkeli on avoin ja yhteisöllinen työtila kaikille tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille. Parhaiten toimintaamme tutustuminen onnistuu viikoittaisten avointen ovien aikaan torstaisin klo 17 alkaen. Hacklab Mikkeli löytyy noin kilometrin päässä torilta, osoitteesta Pietarinkatu 23, jossa tilaamme sisäänkäynti Yrjönkadun puolelta.</p>
+
+<p>Job Game Jam -tapahtumaa olimme tekemässä yhteisvoimin Kaakkois-Suomen ammattikorkeakoulun <em>Game On -Nuorten työllistymistä uudenlaisista digitaalisista kokeiluista</em> ja <em>Digillä duuniin</em> -hankkeiden, Metatavu Oy:n sekä Ohjaamo Olkkarin kanssa.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Hacklab, yhteisö ja mesenaatit</title>
 	  <link>//hacklab-yhteiso-ja-mesenaatit</link>
 	  <author>Hacklab Mikkeli</author>
@@ -219,26 +249,6 @@
 <p>Next they had to access web server - once again by using social engineering for clues - to control lights. In certain combination the lights made it possible to hear the correct code for the checkpoint. In Morse code.</p>
 
 <p><em>Hacklab Mikkeli&#39;s late summer has been busy. We have been building programmable robots with 7th graders (see <a href="http://yle.fi/uutiset/robotiikka_tulee_peruskouluihin_kylla_tama_aina_ruotsintunnit_voittaa/8299602">YLE News</a> for details). We also spent one whole day at Mikkeli University of Applied Sciences on a Hobby Fair recruiting new members.</em></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Jurassic Rock 2015</title>
-	  <link>//jurassic-rock-2015</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2015-08-15T12:47:42+00:00</pubDate>
-	  <guid>//jurassic-rock-2015</guid>
-	  <description><![CDATA[
-	     <p>Hacklab Mikkelille tarjoutui mahdollisuus osallistua Jurassic Rock festareiden yhteydessä järjestettyyn Designer&#39;s + Hacker&#39;s Corner - markkinointitapahtumaan. Tapahtuman tarkoitus oli markkinoida syksyllä Mikkelissä järjestettävää Mikkeli art &amp; design week tapahtumaa sekä paikallista käsityöläis- ja &quot;maker&quot; osaamista.</p>
-
-<p>Hacklab Mikkelin osuus tapahtumassa oli esitellä 3D-tulostamista sekä yleisesti kertoa hacklab-toiminnasta.</p>
-
-<p><img src="/public/images/jura-1.jpg" alt=""></p>
-
-<p>Kiinnostus 3D-tulostusta kohtaan oli suurta ja kojulla kävikin viikonlopun aikana reippaasti ihmettelijöitä. Myös hacklabin toiminnasta oltiin kovasti kiinnostuneita. Markkinoinnin tuloksista ei vielä ole raportoitavaa mutta toivotaan että joku eksyisi kojulta myös &quot;keskiviikko-hack&quot;:iin.</p>
-
-<p>Tapahtumaan osallistuminen oli ainakin allekirjoittaneen mielestä positiivinen kokemus ja tässä kohtaa pitääkin muistaa kiittää kaikkia tapahtumaan osallistuneita mukavasta viikonlopusta. Mielestäni hacklabin kannattaa myös jatkossa osallistua vastaaviin tapahtumiin, jatkossa voitaisiin tuoda esille myös muuta kun 3D-tulostus teknologiaa.</p>
 
 	  ]]></description>
 	</item>

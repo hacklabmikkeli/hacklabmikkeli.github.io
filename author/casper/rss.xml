@@ -12,6 +12,36 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Job Game Jam</title>
+	  <link>//job-game-jam</link>
+	  <author>Hacklab Mikkeli</author>
+	  <pubDate>2017-12-11T13:00:00+00:00</pubDate>
+	  <guid>//job-game-jam</guid>
+	  <description><![CDATA[
+	     <p>Hacklab Mikkeli oli mukana toteuttamassa (tiettävästi) ensimmäisiä game jameja Mikkelissä. Tapahtuman teemana oli varsinaisen pelikehityksen ohella oman pelialan kiinnostuksen ja osaamisen muuntaminen – kenties jonain päivänä – elannon lähteeksi. Tarjolla oli myös kiinnostavia workshopeja ja erilaisia pelilaitteita kokeiltavaksi. Tapahtuma houkutteli paikalle kaikkiaan 40 osallistujaa.</p>
+
+<p>Tapahtuman ensimmäinen workshop keskittyi pelimusiikkiin. Workshopin veti maailmallakin mainetta niittänyt pelimusiikin säveltäjä <a href="http://www.mikkotarmia.com/">Mikko Tarmia</a>. Mikon teoksia on kuultavissa mm. Penumbran ja Amnesian taustalla.</p>
+
+<p><img src="/public/images/jgj-tarmia.jpg" alt=""></p>
+
+<p>Hyvän roolipelikampanjan rakentamisessa sparrasivat pitkän linjan roolipelimiehet Antti Leppä ja Leevi Heinonen. Tapahtumassa osa tiimeistä kehittikin digitaalisen pelin sijaan ihan perinteistä korteilla ja laudalla pelattavaa roolipeliä. Pelaavan pelisuunnittelijan kompastuskivistä ja valttikorteista puolestaan kertoi Nuppu Soanjärvi.</p>
+
+<p><img src="/public/images/jgj-ropeworkshop.jpg" alt=""></p>
+
+<p>Hacklab Mikkelin järjestelyvastuista vapautetut jäsenet ehtivät osallistumaan tapahtumaan myös ihan pelikehityksen merkeissä. Viisihenkisessä tiimissä Hacklab Mikkeliä edustivat <em>liste</em>, <em>3dk</em> sekä <em>mella</em>. Mukaan napattiin graafista osaamista parin herrasmiehen verran. Hyvin pian <em>Onion Clubiksi</em> itsensä nimennyt tiimi päätyi tekemään <a href="https://godotengine.org/">Godotilla</a> <em>2,5D-tasohyppelypeliä 2D-spriteillä</em>. Työskentely oli tehokasta ja näinkin lyhyessä ajassa syntyi pelattavaa ensimmäisen tason verran. Projektin kehitys jatkunee hacklabilla piakkoin. </p>
+
+<p><img src="/public/images/jgj-onionclub.jpg" alt="Onion Club"></p>
+
+<p>Hacklab Mikkelin jäsenistössä tiedettiin jo entuudestaan olevan suht paljon pelikehityksestä kiinnostuneita. On käyty keskusteluja siitäkin, että pelikehitystoiminnalle pyhitetään oma avoin arki-iltansa hacklabille. Avoimen tilan ja vakiintuneen tapaamisajan myötä kenties myös muut pelikehityksestä kiinnostuneet mikkeliläiset voisivat löytää apuvoimia projekteihinsa. </p>
+
+<p>Hacklab Mikkeli on avoin ja yhteisöllinen työtila kaikille tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille. Parhaiten toimintaamme tutustuminen onnistuu viikoittaisten avointen ovien aikaan torstaisin klo 17 alkaen. Hacklab Mikkeli löytyy noin kilometrin päässä torilta, osoitteesta Pietarinkatu 23, jossa tilaamme sisäänkäynti Yrjönkadun puolelta.</p>
+
+<p>Job Game Jam -tapahtumaa olimme tekemässä yhteisvoimin Kaakkois-Suomen ammattikorkeakoulun <em>Game On -Nuorten työllistymistä uudenlaisista digitaalisista kokeiluista</em> ja <em>Digillä duuniin</em> -hankkeiden, Metatavu Oy:n sekä Ohjaamo Olkkarin kanssa.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Hacklab, yhteisö ja mesenaatit</title>
 	  <link>//hacklab-yhteiso-ja-mesenaatit</link>
 	  <author>Hacklab Mikkeli</author>
@@ -235,24 +265,6 @@ I&#39;ve so far managed to put code that allows pretty much all real-time data t
 In this photo is initial test which has echo as well as carbage characters, but they were ok back the initial testing whether my car&#39;s protocol is supported or not.
 Also, screen is in photo 20x4 alphanumeric LCD, but currently I&#39;m using 0,96&quot; 128x32 OLED, it has many benefits over lcd, except size, but I&#39;ll place it anyway right on front of my eyes so 0,96&quot; is enought.
 <img src="http://i.imgur.com/taSULgy.jpg?1" alt="computer"></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Blender Course Report</title>
-	  <link>//blender-course-report</link>
-	  <author>Hacklab Mikkeli</author>
-	  <pubDate>2016-02-20T12:00:00+00:00</pubDate>
-	  <guid>//blender-course-report</guid>
-	  <description><![CDATA[
-	     <p>First course to begin our year 2016 was 3D modelling basics with <a href="http://www.blender.org/">Blender</a>. We asked what courses our community was interested in and 3D modelling basics was voted to first place. Luckily we have some talented Blender users in our members who also volunteered to lead the course. </p>
-
-<p><img src="/public/images/blender-course.jpg" alt="Photo: People at Blender course"> </p>
-
-<p>Earlier our courses have been about eletronics and robotics, so now we needed a whole different layout of tables and seating. Course material and instructing was also designed to suit the skills of participating people which varied from beginner to advanced. These facts made the course a test in many ways.</p>
-
-<p>Everything went fine. Even better than expected. Many of participants found 3D modelling interesting and want to learn more. Easily worth the early wakeup on Saturday morning.</p>
 
 	  ]]></description>
 	</item>

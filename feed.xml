@@ -8,7 +8,16 @@
     <title>Hacklab Mikkeli</title>
     <link>http://mikkeli.hacklab.fi</link>
     <description>Avoin ja yhteisöllinen työtila tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneille Mikkelissä &amp;bull; An open and community-based workspace for people with interest in science, technology and digital arts in Mikkeli</description>
-    <pubDate>Thu, 09 Nov 2017 21:00:00 +0000</pubDate>
+    <pubDate>Mon, 11 Dec 2017 13:00:00 +0000</pubDate>
+    <item>
+      <title>Job Game Jam</title>
+      <link>http://mikkeli.hacklab.fi/job-game-jam</link>
+      <description>Hacklab Mikkeli oli mukana toteuttamassa (tiettävästi) ensimmäisiä game jameja Mikkelissä. Tapahtuman teemana oli varsinaisen pelikehityksen ohella oman pelialan kiinnostuksen ja osaamisen muuntaminen – kenties jonain päivänä – elannon lähteeksi. Tarjolla oli myös kiinnostavia workshopeja ja erilaisia pelilaitteita kokeiltavaksi. Tapahtuma houkutteli paikalle kaikkiaan 40 osallistujaa.
+
+</description>
+      <pubDate>Mon, 11 Dec 2017 13:00:00 +0000</pubDate>
+      <dc:date>2017-12-11T13:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>Hacklab, yhteisö ja mesenaatit</title>
       <link>http://mikkeli.hacklab.fi/hacklab-yhteiso-ja-mesenaatit</link>
@@ -349,6 +358,6 @@ Dark room, power on:
       <pubDate>Tue, 17 Feb 2015 14:58:27 +0000</pubDate>
       <dc:date>2015-02-17T14:58:27+00:00</dc:date>
     </item>
-    <dc:date>2017-11-09T21:00:00+00:00</dc:date>
+    <dc:date>2017-12-11T13:00:00+00:00</dc:date>
   </channel>
 </rss>
